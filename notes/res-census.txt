@@ -1,0 +1,14 @@
+file                bytes  count      min      max  kinds
+ADVERT.RES         712500     11    64768    64768  screen 11
+LAN_000.RES        535599    168        1    63438  animation 94, empty 74
+LAN_500.RES       9538457    492       13    65115  animation 492
+MMM.RES             42104     11     1363     6735  MMM 11
+OFF.RES           2720432     42    64768    64768  screen 42
+ON.RES             153907     42        1    23061  empty 14, overlay 28
+ONS.RES            173077    113       16    12994  sprite 113
+SAM_MMM.RES        229636     51      414    12218  other 51
+SAM_SAM.RES        769552     93      412    34938  other 92, text-mode 1
+SDR.RES             14665      8       51     4766  driver 8
+UNLOGIC.RES        202880     11    13806    64768  screen 1, sprite 10
+VARIA.RES          216683     11      768    51851  font 2, other 2, overlay 3, palette 1, sprite 1, text-mode 2
+12 containers    15309492   1053

@@ -1,0 +1,5 @@
+game                               15 files   15392150 bytes  16.5179 %
+DOSBox Staging (DOSBOX/)          393 files   36580902 bytes  39.2563 %
+GOG storefront + configurator      25 files   41211639 bytes  44.2258 %
+TOTAL                             433 files   93184691 bytes
+the 12 .RES alone: 15309492 bytes 16.4292 %

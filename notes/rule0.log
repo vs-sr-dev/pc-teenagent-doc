@@ -1,0 +1,153 @@
+2026-09-11T21:14:26	ALLOW	-	ls -la && ls *.md 2>/dev/null
+2026-09-11T21:14:29	ALLOW	-	cat prompt.txt
+2026-09-11T21:14:35	ALLOW	-	ls -la _pre _work Teenagent .claude; cat .gitignore; cat .claude/settings.local.json; ls tools | wc -l
+2026-09-11T21:14:38	ALLOW	-	cat _pre/executable.txt; echo ======; cat _pre/formats.txt
+2026-09-11T21:14:41	ALLOW	-	cat _pre/question.txt; echo ======; cat _pre/tools.txt; echo =====; cat _pre/object.txt
+2026-09-11T21:14:44	ALLOW	-	cat _pre/neighbours.txt; echo =====; cat _work/rule0.log; echo ====; cat _work/resprobe.txt; echo ====; cat _work/dospack-teenagnt.txt
+2026-09-11T21:14:50	ALLOW	-	sed -n 1,80p tools/rule0hook.py
+2026-09-11T21:14:53	DENY	inline program	python -c "print('this must be refused by rule0hook')"
+2026-09-11T21:14:58	ALLOW	-	echo "PYTHONIOENCODING=[$PYTHONIOENCODING]"; ls -1 tools/*.py | wc -l; python tools/toolsdiff.py ../pc-demonsforge-doc/tools --expect-differing 0; python _work/calib3.py 2>&1 | tail -20; ls tools | grep -Ei "^(res|lzexe|lz|teen)"
+2026-09-11T21:15:06	ALLOW	-	python tools/dosdis.py --help 2>&1 | head -40; python tools/mz.py Teenagent/TEENAGNT.EXE 2>&1 | head -30
+2026-09-11T21:15:17	ALLOW	-	python tools/hexdump.py Teenagent/TEENAGNT.EXE --at 78016 --length 0x1A0 2>&1 | head -40 || xxd -s 78016 Teenagent/TEENAGNT.EXE
+2026-09-11T21:15:21	ALLOW	-	xxd -s 78016 Teenagent/TEENAGNT.EXE
+2026-09-11T21:16:29	ALLOW	-	python tools/dosdis.py Teenagent/TEENAGNT.EXE --at 78030 --length 0x14A --org 0x000E --targets 2>&1
+2026-09-11T21:16:42	ALLOW	-	python tools/dosdis.py Teenagent/TEENAGNT.EXE --at $((78016+0xFC)) --length $((0x158-0xFC)) --org 0x00FC --targets 2>&1 | head -20; echo; echo "reloc table bytes 0x158..0x19A:"; xxd -s $((78016+0x158)) Teenagent/TEENAGNT.EXE
+2026-09-11T21:16:49	ALLOW	-	sed -n 1,60p tools/exepack.py; grep -n "dirguard\|nameguard\|def main\|selftest\|argparse" tools/exepack.py | head -30; grep -n "^def \|^    def " tools/dirguard.py tools/nameguard.py | head
+2026-09-11T21:16:53	ALLOW	-	sed -n 40,75p tools/dirguard.py; sed -n 1,40p tools/nameguard.py | grep -n "def guard\|^def\|usage\|guard(" ; grep -n "def guard" -A 12 tools/nameguard.py | head -30; sed -n 340,420p tools/exepack.py
+2026-09-11T21:20:05	ALLOW	-	python tools/lzexe.py --selftest
+2026-09-11T21:20:24	ALLOW	-	python "$CLAUDE_SCRATCH/dbg1.py" 2>&1 || python <path>
+2026-09-11T21:20:42	ALLOW	-	python tools/lzexe.py --selftest
+2026-09-11T21:21:09	ALLOW	-	python tools/lzexe.py --selftest
+2026-09-11T21:21:35	ALLOW	-	xxd -l 32 Teenagent/TEENAGNT.EXE; python tools/lzexe.py Teenagent/SOUNDSET.EXE; xxd -s $((32+0xF00)) Teenagent/SOUNDSET.EXE | head -5
+2026-09-11T21:21:54	ALLOW	-	find Teenagent -iname "xcopy.exe"; xxd -l 32 Teenagent/SOUNDSET.EXE
+2026-09-11T21:22:21	ALLOW	-	python <path> && python tools/lzexe.py --selftest
+2026-09-11T21:22:41	ALLOW	-	S=<path> python $S/patch_lzexe_doc.py && python tools/lzexe.py --selftest | tail -1 && python tools/lzexe.py Teenagent/TEENAGNT.EXE --unpack _work/TEENAGNT.unp.exe && python tools/lzexe.py Teenagent/SOUNDSET.EXE --unpack _work/SOUNDSET.unp.exe | tail -12
+2026-09-11T21:22:52	ALLOW	-	python tools/strdump.py _work/TEENAGNT.unp.exe --min 8 2>&1 | head -120
+2026-09-11T21:23:03	ALLOW	-	python tools/strdump.py _work/TEENAGNT.unp.exe --min 5 > _work/strings-unpacked.txt; wc -l _work/strings-unpacked.txt; grep -inE "19[89][0-9]|copyright|\(c\)|metropolis|union|logic|credit|programm|graphic|music|written|design|author|version|v[0-9]\.[0-9]" _work/strings-unpacked.txt | head -40
+2026-09-11T21:23:12	ALLOW	-	sed -n 1280,1345p _work/strings-unpacked.txt
+2026-09-11T21:23:37	ALLOW	-	S=<path> python $S/segmap.py _work/TEENAGNT.unp.exe; python tools/dosdis.py _work/TEENAGNT.unp.exe --at 192 --length 0x40 --org 0 2>&1 | head -30
+2026-09-11T21:23:55	ALLOW	-	xxd -s 0xE980 -l 0x120 _work/TEENAGNT.unp.exe; echo; xxd -s 0x19930 -l 0x60 _work/TEENAGNT.unp.exe
+2026-09-11T21:24:19	ALLOW	-	S=<path> python $S/palprobe.py
+2026-09-11T21:24:27	ALLOW	-	grep -n "def .*png\|zlib\|struct.pack.*IHDR\|def write_png\|def _png" tools/pes.py tools/hxg.py | head; grep -n "_forgedat\|_pes\b\|def _pes\|PROBES\|def classify\|def probe" tools/coverage.py | head -30
+2026-09-11T21:24:30	ALLOW	-	sed -n 395,430p tools/coverage.py; sed -n 925,950p tools/coverage.py; sed -n 1500,1570p tools/coverage.py; sed -n 556,570p tools/pes.py
+2026-09-11T21:24:36	ALLOW	-	grep -n "HEAD\b\|HEAD =\|read(\|def classify" tools/coverage.py | head; grep -n "def looks_like_head" -A 25 tools/forgedat.py | head -40
+2026-09-11T21:24:44	ALLOW	-	ls ../pc-demonsforge-doc ../pc-demonsforge-doc/docs ../pc-demonsforge-doc/notes | head -60; ls ../pc-outrun-doc/docs | head -30
+2026-09-11T21:24:48	ALLOW	-	ls ../pc-outrun-doc/notes | head -50; ls ../pc-outrun-doc/notes/*/ 2>/dev/null | head; grep -rl "png" ../pc-outrun-doc/docs/*.md | head -3; grep -n "png" ../pc-outrun-doc/docs/05*.md | head -5
+2026-09-11T21:24:52	ALLOW	-	grep -rn "\.png\|!\[" ../pc-outrun-doc/docs/05*.md ../pc-demonsforge-doc/docs/04*.md | head -10; ls ../pc-*-doc/docs/img 2>/dev/null | head; ls -d ../pc-*-doc/docs/*/ 2>/dev/null | head
+2026-09-11T21:24:57	ALLOW	-	sed -n 130,175p ../pc-demonsforge-doc/docs/04-the-pictures.md; cat ../pc-demonsforge-doc/.gitignore; cd ../pc-demonsforge-doc && git ls-files | grep -v "^tools/" | head -50
+2026-09-11T21:26:13	ALLOW	-	python tools/res.py --selftest && python tools/res.py --census Teenagent
+2026-09-11T21:26:21	ALLOW	-	python tools/res.py Teenagent/VARIA.RES --list; python tools/res.py Teenagent/UNLOGIC.RES --list; python tools/res.py Teenagent/OFF.RES Teenagent/ADVERT.RES Teenagent/UNLOGIC.RES --render _work/screens | grep -v "^===" | head -70
+2026-09-11T21:27:10	ALLOW	-	S=<path> python $S/patch_res_sheet.py && python tools/res.py Teenagent/OFF.RES --sheet _work/sheet-off.png | tail -1 && python tools/res.py Teenagent/ADVERT.RES Teenagent/UNLOGIC.RES --sheet _work/sheet-advert.png | tail -1; ls -la _work/*.png
+2026-09-11T21:27:22	ALLOW	-	S=<path> python $S/patch_res_sheet.py && python tools/res.py Teenagent/OFF.RES --sheet _work/sheet-off.png | tail -1 && python tools/res.py Teenagent/ADVERT.RES Teenagent/UNLOGIC.RES --sheet _work/sheet-advert.png | tail -1; ls -la _work/*.png
+2026-09-11T21:28:13	ALLOW	-	grep -iaob "\.res\|\.sav\|\.set" _work/TEENAGNT.unp.exe | head -30; echo; xxd -s 0xB5E0 -l 0xB0 _work/TEENAGNT.unp.exe
+2026-09-11T21:28:26	ALLOW	-	grep -n "0x5[0-9a-f]\|0x6[0-9a-f]\|'push'\|\"push\"" tools/dosdis.py | head -30; grep -n "^def \|^    def " tools/dosdis.py | head -40
+2026-09-11T21:28:30	ALLOW	-	sed -n 106,175p tools/dosdis.py; sed -n 300,345p tools/dosdis.py
+2026-09-11T21:28:37	ALLOW	-	grep -n "0xC0\|0xC1\|0xC8\|0xC9\|0x68\|0x6A\|0x69\|0x6B\|0xD0\|GRP3\|SHIFT" tools/dosdis.py | head -20; sed -n 346,372p tools/dosdis.py
+2026-09-11T21:28:58	ALLOW	-	S=<path> python $S/patch_dosdis_186.py && python tools/dosdis.py --selftest | tail -3 && python tools/dosdis.py _work/TEENAGNT.unp.exe --at 192 --length 0x400 --org 0 2>&1 | tail -8
+2026-09-11T21:29:16	ALLOW	-	S=<path> python $S/findrefs.py
+2026-09-11T21:29:23	DENY	in-place edit script	S=<path> sed -i.bak 's/while pos < 0x165:/while pos < 0x162:/' $S/findrefs.py 2>/dev/null; python $S/findrefs.py
+2026-09-11T21:29:33	ALLOW	-	S=<path> python $S/findrefs.py
+2026-09-11T21:29:46	ALLOW	-	S=<path> python $S/findrefs.py
+2026-09-11T21:29:58	ALLOW	-	python tools/dosdis.py _work/TEENAGNT.unp.exe --at $((192+0xAB80)) --length 0x200 --org 0xAB80 2>&1 | head -150
+2026-09-11T21:30:13	ALLOW	-	python tools/dosdis.py _work/TEENAGNT.unp.exe --at $((192+0xB0D4)) --length 0x140 --org 0xB0D4 2>&1 | head -120
+2026-09-11T21:30:47	ALLOW	-	S=<path> python $S/rawtry.py Teenagent/UNLOGIC.RES 5 138 100 6 Teenagent/UNLOGIC.RES 0 _work/unlogic5.png
+2026-09-11T21:31:04	ALLOW	-	python tools/res.py Teenagent/ONS.RES --list | head -40; python tools/res.py Teenagent/ON.RES --list | head -30
+2026-09-11T21:31:37	ALLOW	-	grep -obaP "\x3c\xff\x74" _work/TEENAGNT.unp.exe | head; grep -obaP "\x80\xfc\xff\x74|\x3c\xff\x75" _work/TEENAGNT.unp.exe | head
+2026-09-11T21:31:51	ALLOW	-	S=<path> python $S/bfind.py _work/TEENAGNT.unp.exe 3cff74 3cff75 80fcff74 ac3cff
+2026-09-11T21:31:56	ALLOW	-	python tools/dosdis.py _work/TEENAGNT.unp.exe --at $((192+0x1B00)) --length 0x90 --org 0x1B00 2>&1 | head -70
+2026-09-11T21:32:28	ALLOW	-	S=<path> python $S/callers.py _work/TEENAGNT.unp.exe 1B10 B0D4 ABC0 AC02 ABA9
+2026-09-11T21:32:37	ALLOW	-	python tools/res.py Teenagent/LAN_000.RES --extract _work/lan000 | tail -1; python tools/res.py Teenagent/LAN_500.RES --extract _work/lan500 | tail -1; for f in _work/lan000/LAN_000.000 _work/lan000/LAN_000.001 _work/lan000/LAN_000.004 _work/lan500/LAN_500.000 _work/lan500/LAN_500.001; do ls -l $f | awk '{print $5, $9}'; xxd -l 64 $f; done
+2026-09-11T21:32:57	ALLOW	-	xxd -s 548 -l 48 _work/lan500/LAN_500.000; xxd -s 1052 -l 48 _work/lan000/LAN_000.004; xxd -s 548 -l 48 _work/lan500/LAN_500.001
+2026-09-11T21:33:18	ALLOW	-	S=<path> python $S/bfind.py _work/TEENAGNT.unp.exe c732 b01bf6 b81b00f7
+2026-09-11T21:33:24	ALLOW	-	python tools/dosdis.py _work/TEENAGNT.unp.exe --at $((192+0x2D00)) --length 0x2C0 --org 0x2D00 2>&1 | head -230
+2026-09-11T21:34:26	ALLOW	-	S=<path> python $S/patch_res_anim.py && python tools/res.py --census Teenagent
+2026-09-11T21:34:47	ALLOW	-	S=<path> python $S/patch_res_empty.py && python tools/res.py Teenagent/LAN_500.RES --list | grep -v "animation" ; python tools/res.py Teenagent/VARIA.RES --list | tail -12
+2026-09-11T21:35:00	ALLOW	-	S=<path> python $S/why.py Teenagent/LAN_500.RES 11; python $S/why.py Teenagent/VARIA.RES 0 | head -3; python $S/why.py Teenagent/VARIA.RES 3
+2026-09-11T21:35:07	ALLOW	-	xxd -s 18980 _work/lan500/LAN_500.011
+2026-09-11T21:35:22	ALLOW	-	S=<path> python $S/patch_res_trail.py && python tools/res.py --census Teenagent | grep -i "lan\|varia"
+2026-09-11T21:35:59	ALLOW	-	S=<path> python $S/patch_res_room.py && python tools/res.py --room 2 --out _work/room02.png && python tools/res.py Teenagent/LAN_500.RES --frames 1 --out _work/lan500-001.png
+2026-09-11T21:36:10	ALLOW	-	for r in 1 6 12 20 31; do echo "room $r"; python tools/res.py --room $r --out _work/room$r.png | grep -v empty; done
+2026-09-11T21:36:42	ALLOW	-	python tools/res.py Teenagent/VARIA.RES --extract _work/varia | tail -1; xxd -s 180 -l 96 _work/varia/VARIA.003; echo; xxd -s 190 -l 80 _work/varia/VARIA.006; echo; xxd -l 32 _work/varia/VARIA.001; xxd -s 0 -l 48 _work/varia/VARIA.008 | head -3; xxd -s 8000 -l 32 _work/varia/VARIA.008
+2026-09-11T21:37:05	ALLOW	-	S=<path> python $S/ovl.py _work/varia/VARIA.003 | head -12; python $S/ovl.py _work/varia/VARIA.003 | grep -c GAP; python $S/ovl.py _work/varia/VARIA.003 | tail -3; echo; python $S/ovl.py _work/varia/VARIA.000 | head -8; python $S/ovl.py _work/varia/VARIA.000 | tail -2; echo; python $S/ovl.py _work/varia/VARIA.001
+2026-09-11T21:37:31	ALLOW	-	S=<path> python $S/ovlsheet.py _work/varia/VARIA.000 _work/screens/OFF-00.png _work/varia0.png 52 64; python $S/ovlsheet.py _work/varia/VARIA.003 _work/screens/OFF-00.png _work/varia3.png 40 26
+2026-09-11T21:37:39	ALLOW	-	S=<path> python tools/res.py Teenagent/OFF.RES --extract _work/off | tail -1; python $S/ovlsheet.py _work/varia/VARIA.000 _work/off/OFF.000 _work/varia0.png 52 64; python $S/ovlsheet.py _work/varia/VARIA.003 _work/off/OFF.000 _work/varia3.png 40 26
+2026-09-11T21:38:25	ALLOW	-	S=<path> python $S/font.py _work/varia/VARIA.006 _work/font6.png; python $S/font.py _work/varia/VARIA.007 _work/font7.png
+2026-09-11T21:38:49	ALLOW	-	S=<path> python $S/font.py _work/varia/VARIA.006 _work/font6.png | head -2; python $S/font.py _work/varia/VARIA.007 _work/font7.png | head -2
+2026-09-11T21:39:16	ALLOW	-	grep -lac "Union Logic" _work/varia/*; for i in 5 8 9; do echo "== VARIA.00$i"; python tools/strdump.py _work/varia/VARIA.00$i --min 6 2>/dev/null | head -5; done; xxd -l 48 _work/varia/VARIA.009; xxd -s 3600 -l 80 _work/varia/VARIA.009; cmp _work/varia/VARIA.009 _work/varia/VARIA.010 && echo "9 == 10 identical"
+2026-09-11T21:39:32	ALLOW	-	S=<path> python $S/textmode.py _work/varia/VARIA.009; python $S/textmode.py _work/varia/VARIA.010 | head -12
+2026-09-11T21:39:44	ALLOW	-	S=<path> python $S/textmode.py _work/varia/VARIA.009; python $S/textmode.py _work/varia/VARIA.010 | sed -n 5,12p
+2026-09-11T21:39:57	ALLOW	-	S=<path> python $S/rawtry.py Teenagent/VARIA.RES 2 286 141 6 Teenagent/OFF.RES 0 _work/varia2.png; python $S/rawtry.py Teenagent/VARIA.RES 5 320 68 0 Teenagent/OFF.RES 0 _work/varia5.png; python -X utf8 -c "" 2>/dev/null; xxd -s 0 -l 16 _work/varia/VARIA.008; xxd -s 8180 -l 64 _work/varia/VARIA.008
+2026-09-11T21:40:29	ALLOW	-	S=<path> python $S/period.py _work/varia/VARIA.008
+2026-09-11T21:40:38	ALLOW	-	S=<path> python $S/rawtry.py Teenagent/VARIA.RES 8 320 58 0 Teenagent/OFF.RES 0 _work/varia8.png
+2026-09-11T21:40:58	ALLOW	-	python tools/res.py Teenagent/MMM.RES --extract _work/mmm | tail -1; python tools/res.py Teenagent/SDR.RES --extract _work/sdr | tail -1; python tools/res.py Teenagent/SDR.RES --list | tail -9; xxd -l 96 _work/mmm/MMM.000; grep -c "" /dev/null; for f in _work/sdr/SDR.00*; do python tools/strdump.py $f --min 5 2>/dev/null | grep -v "^#" | head -4; done
+2026-09-11T21:41:17	ALLOW	-	python tools/dosdis.py _work/sdr/SDR.006 --at 0 --length 883 --org 0 2>&1 | grep -n "b0 40\|out\|in \|2c 02\|22c\|0C\|dx, 2\|mov    dx\|cmp    ah\|STOPPED\|coverage\|22\b" | head -60
+2026-09-11T21:41:37	ALLOW	-	S=<path> python $S/patch_dosdis_ins.py && python tools/dosdis.py --selftest | tail -1 && python tools/dosdis.py _work/sdr/SDR.006 --at 0 --length 883 --org 0 2>&1 | tail -5; python tools/dosdis.py _work/sdr/SDR.006 --at 0 --length 883 --org 0 2>&1 | grep -n "b0 40\|out \|mov    dx\|b0 \|in  " | head -50
+2026-09-11T21:41:44	ALLOW	-	python tools/dosdis.py _work/sdr/SDR.006 --at 0 --length 883 --org 0 2>&1 | sed -n 17,30p; xxd -s 0x30 -l 64 _work/sdr/SDR.006
+2026-09-11T21:41:51	ALLOW	-	python tools/dosdis.py _work/sdr/SDR.006 --at 0x50 --length $((883-0x50)) --org 0x50 2>&1 | grep -v "^\s*$" | head -150
+2026-09-11T21:42:02	ALLOW	-	python tools/dosdis.py _work/sdr/SDR.006 --at 0x195 --length $((883-0x195)) --org 0x195 2>&1 | grep -v "^\s*$" | sed -n 1,140p
+2026-09-11T21:42:31	ALLOW	-	for i in 0 1 2 3 4 5 6 7 8 9 10; do f=$(printf "_work/mmm/MMM.%03d" $i); printf "%5d " $(stat -c %s $f); xxd -l 32 $f | cut -c 10-49 | head -1; done; python tools/strdump.py _work/sdr/SDR.002 --min 4 2>/dev/null | grep -i "mmm\|sam"
+2026-09-11T21:43:51	ALLOW	-	S=<path> python $S/mmmhead.py
+2026-09-11T21:44:08	ALLOW	-	ls tools | grep -i "teen\|text\|msg"; xxd -s $((192+0xB520)) -l 32 _work/TEENAGNT.unp.exe; python tools/strdump.py _work/TEENAGNT.unp.exe --min 4 2>/dev/null | awk '{print $1}' | sort | sed -n '1p;$p'
+2026-09-11T21:44:51	ALLOW	-	python tools/teentext.py --selftest && python tools/teentext.py _work/TEENAGNT.unp.exe --count && python tools/teentext.py _work/TEENAGNT.unp.exe --polish > _work/teentext.txt; sed -n 1,5p _work/teentext.txt; grep -c "" _work/teentext.txt; grep -in "metropolis\|1995\|version" _work/teentext.txt | head
+2026-09-11T21:45:16	ALLOW	-	python tools/teentext.py --selftest | tail -1 && python tools/teentext.py _work/TEENAGNT.unp.exe --count && python tools/teentext.py _work/TEENAGNT.unp.exe --polish > _work/teentext.txt; grep -c "" _work/teentext.txt; grep -in "metropolis\|1995\|version\|THIEF" _work/teentext.txt | head; awk 'NR>1' _work/teentext.txt | awk '{print length($0)}' | sort -n | tail -1
+2026-09-11T21:45:35	ALLOW	-	grep -n "LZ91\|def \|selftest\|in place\|IN THE RIGHT PLACE\|verdict\|no packer\|NO PACKER" tools/dospack.py | head -60
+2026-09-11T21:45:39	ALLOW	-	sed -n 150,200p tools/dospack.py; sed -n 240,265p tools/dospack.py; sed -n 300,370p tools/dospack.py
+2026-09-11T21:46:12	ALLOW	-	S=<path> python $S/patch_dospack.py && grep -n "^import\|^sys.path" tools/dospack.py | head; python tools/dospack.py --selftest | tail -9; python tools/dospack.py Teenagent/TEENAGNT.EXE | sed -n '/ENTRY STUB/,/^$/p'
+2026-09-11T21:46:22	ALLOW	-	grep -n "^import\|^from\|import forgedat\|import pes" tools/coverage.py | head -20; grep -n "exactly five probes" -B2 -A4 tools/coverage.py; grep -n "def _ordering_ok" -A 12 tools/coverage.py | head -20
+2026-09-11T21:46:49	ALLOW	-	S=<path> python $S/patch_coverage.py && python tools/coverage.py --selftest 2>&1 | tail -4 && python tools/coverage.py tree --root Teenagent > _work/coverage2.txt; tail -25 _work/coverage2.txt
+2026-09-11T21:46:55	ALLOW	-	python tools/coverage.py selftest 2>&1 | tail -3; echo "PYTHONIOENCODING=[$PYTHONIOENCODING]"
+2026-09-11T21:47:06	ALLOW	-	grep -n "def selftest" -A 30 tools/rule0hook.py | grep -n "python\|refuse\|allow" | head -20; grep -n "python -c\|deny(\|def deny\|allow(" tools/rule0hook.py | head
+2026-09-11T21:47:23	ALLOW	-	S=<path> python $S/patch_rule0.py && python tools/rule0hook.py --selftest | tail -3 && python tools/rule0hook.py --check 'python -X utf8 -c ""'; echo "exit $?"
+2026-09-11T21:47:33	ALLOW	-	for r in brokensword3 brokensword4 brokensword5 heretickingdoms inquisitor motoracer themepark twinsensquest landsoflore; do echo "== $r"; grep -rhoiE "hashdb[^|.]{0,80}(record|entries|entry)[^|.]{0,40}|[0-9,]+ records? (in|of) [^ ]*hashdb|[0-9,]+ (MD5 )?records?[^.|]{0,30}1,?056" ../pc-$r-doc/docs/*.md ../pc-$r-doc/README.md 2>/dev/null | head -3; done
+2026-09-11T21:47:41	ALLOW	-	for r in brokensword4 brokensword5 motoracer themepark; do echo "== $r"; grep -rhoiE ".{0,60}hashdb.{0,80}" ../pc-$r-doc/docs/*.md 2>/dev/null | grep -iE "[0-9]" | head -3; done; echo; grep -rhoiE ".{0,40}(0\.74|DOSBox 0\.74)[^|]{0,60}" ../pc-landsoflore-doc/docs/*.md ../pc-themepark-doc/docs/*.md | head -4; grep -rhoiE "galaxyFileList[^|]{0,120}" ../pc-landsoflore-doc/docs/*.md ../pc-twinsensques
+2026-09-11T21:47:53	ALLOW	-	cat _work/families.txt; head -12 _work/gogmanifest.txt; grep -n "MD5\|match\|records" _work/hashdb.txt | head -5; cat _work/sift-buildpath.txt | head -20; head -8 _work/treecensus.txt; grep -n "game.ins" Teenagent/DOSBOX/stderr.txt Teenagent/dosbox*.conf | head
+2026-09-11T21:47:59	ALLOW	-	tail -6 _work/hashdb.txt; tail -12 _work/gogmanifest.txt; tail -5 _work/crossall.txt; tail -4 _work/protscan.txt; grep -n "total\|both controls\|CONTROL" _work/sift-personal.txt | head -5
+2026-09-11T21:48:04	ALLOW	-	grep -n "present\|absent\|undeclared\|not declared" _work/gogmanifest.txt | head -8; grep -n "CROSSINGS\|repositories\|hash tokens\|list files" _work/crossall.txt | head -5; grep -n "real markers\|positive control\|0 of\|markers" _work/protscan.txt | head -4
+2026-09-11T21:48:28	ALLOW	-	mkdir -p notes docs && \\npython tools/dosdis.py Teenagent/TEENAGNT.EXE --at 78030 --length 0x14A --org 0x000E --targets > notes/dosdis-lzexe-stub.txt && \\npython tools/dosdis.py Teenagent/SOUNDSET.EXE --at $((32+0xF00+0xE)) --length 0x14A --org 0x000E --targets > notes/dosdis-lzexe-stub-soundset.txt && \\npython tools/lzexe.py Teenagent/TEENAGNT.EXE --unpack _work/TEENAGNT.unp.exe > notes/lzexe-
+2026-09-11T21:48:46	ALLOW	-	head -3 notes/lzexe-refuse.txt; tail -3 notes/res-frames-lan500-001.txt | cut -c1-120; S=<path> python $S/textmode.py _work/varia/VARIA.009 > notes/varia-textmode-09.txt; python $S/textmode.py _work/varia/VARIA.010 > notes/varia-textmode-10.txt; python $S/mmmhead.py > notes/mmm-heads.txt; python $S/font.py _work/varia/VARIA.006 _work/font6.png | head -2 > notes/varia-font-06.txt; python $S/font.py
+2026-09-11T21:49:44	ALLOW	-	S=<path> python $S/patch_res_varia.py && python tools/res.py --selftest | tail -8
+2026-09-11T21:49:58	ALLOW	-	S=<path> python $S/patch_res_empty2.py && python tools/res.py --selftest | tail -12
+2026-09-11T21:50:07	ALLOW	-	python tools/res.py Teenagent/VARIA.RES --font 6 --out _work/font6.png > notes/res-font-06.txt && python tools/res.py Teenagent/VARIA.RES --font 7 --out _work/font7.png > notes/res-font-07.txt && python tools/res.py Teenagent/VARIA.RES --textmode 9 > notes/res-textmode-09.txt && python tools/res.py Teenagent/VARIA.RES --textmode 10 > notes/res-textmode-10.txt && python tools/res.py Teenagent/VARIA
+2026-09-11T21:50:38	ALLOW	-	S=<path> python $S/patch_res_kind.py && python tools/res.py --selftest | tail -1 && python tools/res.py --census Teenagent > notes/res-census.txt && cat notes/res-census.txt && for f in Teenagent/*.RES; do python tools/res.py $f --list; done > notes/res-list.txt && python tools/res.py Teenagent/VARIA.RES --list | tail -11
+2026-09-11T21:50:48	ALLOW	-	S=<path> python $S/why.py Teenagent/VARIA.RES 3 2>&1 | grep overlay
+2026-09-11T21:50:58	ALLOW	-	xxd -s 3178 -l 64 _work/varia/VARIA.003; xxd -s 8103 -l 96 _work/varia/VARIA.003
+2026-09-11T21:51:34	ALLOW	-	S=<path> python $S/patch_res_nested.py && python tools/res.py --selftest | tail -1 && python tools/res.py --census Teenagent > notes/res-census.txt && grep VARIA notes/res-census.txt && python tools/res.py Teenagent/VARIA.RES --entries 3 > notes/res-entries-varia-03.txt && grep SEQ notes/res-entries-varia-03.txt && for f in Teenagent/*.RES; do python tools/res.py $f --list; done > notes/res-list.t
+2026-09-11T21:51:51	ALLOW	-	head -5 ../pc-demonsforge-doc/notes/selftests.txt; grep -c "" ../pc-demonsforge-doc/notes/selftests.txt; ls ../pc-demonsforge-doc/_work/ | grep -i self; head -20 ../pc-demonsforge-doc/_work/runall.py 2>/dev/null | grep -i selftest
+2026-09-11T21:51:55	ALLOW	-	cat ../pc-demonsforge-doc/notes/selftests.txt
+2026-09-11T21:52:00	ALLOW	-	{ echo "PYTHONIOENCODING=[$PYTHONIOENCODING] (unset)"; for t in lzexe res teentext dospack dosdis coverage rule0hook dirguard nameguard pathcheck toolsdiff hashdb gogmanifest; do echo "=== $t selftest"; if [ $t = coverage ]; then python tools/coverage.py selftest 2>&1 | tail -1; else python tools/$t.py --selftest 2>&1 | tail -1; fi; done; } > notes/selftests.txt; cat notes/selftests.txt
+2026-09-11T21:52:09	ALLOW	-	{ echo "PYTHONIOENCODING=[$PYTHONIOENCODING] (unset)"; for t in lzexe res teentext dospack dosdis coverage rule0hook dirguard nameguard pathcheck toolsdiff; do echo "=== $t selftest"; if [ $t = coverage ]; then python tools/coverage.py selftest 2>&1 | tail -1; else python tools/$t.py --selftest 2>&1 | tail -1; fi; done; } > notes/selftests.txt; python tools/dirguard.py --survey tools > notes/dirgu
+2026-09-11T21:52:18	ALLOW	-	python tools/dirguard.py --survey > notes/dirguard-survey.txt 2>&1; tail -4 notes/dirguard-survey.txt; python tools/nameguard.py --survey > notes/nameguard-survey.txt 2>&1; tail -3 notes/nameguard-survey.txt
+2026-09-11T21:54:34	ALLOW	-	grep -n "raised\|refused\|exit 0\|of 5" notes/dirguard-survey.txt | head -8; grep -n "raised\|guard\|of 5\|total" notes/nameguard-survey.txt | head -8; grep -n "lzexe\|res\.py\|teentext" notes/dirguard-survey.txt notes/nameguard-survey.txt | head
+2026-09-11T21:54:37	ALLOW	-	sed -n 1,12p notes/dirguard-survey.txt; sed -n 1,20p notes/nameguard-survey.txt; grep -c "" notes/nameguard-survey.txt
+2026-09-11T21:54:45	ALLOW	-	python tools/pathcheck.py --help 2>&1 | sed -n 1,25p | grep -i "needle\|usage\|root\|positive" 
+2026-09-11T21:54:51	ALLOW	-	python tools/pathcheck.py --needle <needle-1> --needle <needle-2> --needle "<path>" --needle "<needle-1>\\pc-teenagent" 2>&1 | tail -15
+2026-09-11T21:54:59	ALLOW	-	git init -b master 2>&1 | tail -1 && git config core.autocrlf false && git add .gitignore README.md docs notes tools 2>/dev/null; git add -A 2>/dev/null; git ls-files | grep -Eiv "^(README|docs/|notes/|tools/|\.gitignore)" | head; echo "---"; git ls-files | wc -l; python tools/pathcheck.py --needle <needle-1> --needle <needle-2> --needle "<path>" 2>&1 | tail -12
+2026-09-11T21:56:03	ALLOW	-	python _work/calib3.py --append 9.00 2>&1 | tail -22; python tools/rule0hook.py --report 2>&1 | tail -15
+2026-09-11T21:56:17	ALLOW	-	python tools/strdump.py _work/SOUNDSET.unp.exe --min 5 2>/dev/null | grep -v "^#" | head -30; echo ====; ls ../pc-gamelist-doc; python ../pc-gamelist-doc/tools/rowlen.py 2>&1 | tail -3; grep -n "demonsforge\|Demon" ../pc-gamelist-doc/README.md | head -3
+2026-09-11T21:56:32	ALLOW	-	python tools/dosdis.py _work/TEENAGNT.unp.exe --at $((192+0xAA60)) --length 0x50 --org 0xAA60 2>&1 | head -30; xxd Teenagent/SOUND.SET
+2026-09-11T21:56:41	ALLOW	-	python tools/dosdis.py _work/TEENAGNT.unp.exe --at $((192+0xB220)) --length 0x60 --org 0xB220 2>&1 | grep -n "3D00\|3Fh\|3242\|dx, 13h\|cx, 5h\|3243\|3244" 
+2026-09-11T21:56:46	ALLOW	-	python tools/dosdis.py _work/TEENAGNT.unp.exe --at $((192+0xB225)) --length 0x30 --org 0xB225 2>&1 | head -16
+2026-09-11T21:58:34	ALLOW	-	grep -n "reloc" notes/mz-teenagnt-unpacked.txt | head -5; sed -n 30,45p notes/mz-teenagnt-unpacked.txt
+2026-09-11T21:59:06	ALLOW	-	S=<path> python $S/patch_lzexe_seg.py && python tools/lzexe.py Teenagent/TEENAGNT.EXE --unpack _work/TEENAGNT.unp.exe > notes/lzexe-teenagnt.txt && python tools/lzexe.py Teenagent/SOUNDSET.EXE --unpack _work/SOUNDSET.unp.exe > notes/lzexe-soundset.txt && grep "segment values" notes/lzexe-*.txt && rm -f notes/segmap-teenagnt.txt && grep -rn "<path>" docs README.md notes 2>/dev/null | head
+2026-09-11T21:59:12	ALLOW	-	S=<path> python $S/patch_doc02.py; python $S/patch_lzexe_seg.py; grep -n "segment values" tools/lzexe.py | head -2
+2026-09-11T21:59:19	ALLOW	-	sed -n 470,490p tools/lzexe.py
+2026-09-11T21:59:30	ALLOW	-	python tools/lzexe.py --selftest | tail -1 && python tools/lzexe.py Teenagent/TEENAGNT.EXE --unpack _work/TEENAGNT.unp.exe > notes/lzexe-teenagnt.txt && python tools/lzexe.py Teenagent/SOUNDSET.EXE --unpack _work/SOUNDSET.unp.exe > notes/lzexe-soundset.txt && grep "segment values" notes/lzexe-*.txt && rm -f notes/segmap-teenagnt.txt; grep -rln "<path>" docs notes README.md 2>/dev/null
+2026-09-11T22:00:51	ALLOW	-	S=<path> python $S/patch_doc03.py; grep -c "" notes/teentext.txt; sed -n 2,12p notes/teentext.txt | cut -c1-110; grep -n "Mark\b" notes/teentext.txt | head -5; grep -in "gold\|agent\|RGB\|captain" notes/teentext.txt | head -8
+2026-09-11T22:01:04	ALLOW	-	grep -in "agent\|anna\|granpa\|grandpa\|mansion\|RGB\|mystery" notes/teentext.txt | head -12; sed -n 240,262p notes/teentext.txt | cut -c1-120; grep -c "<0[0-9]>" notes/teentext.txt; grep -o "<0[0-9]>" notes/teentext.txt | sort | uniq -c
+2026-09-11T22:01:59	ALLOW	-	grep -o "^[0-9A-F]* <[0-9A-F][0-9A-F]>" notes/teentext.txt | awk '{print $2}' | sort | uniq -c
+2026-09-11T22:02:15	ALLOW	-	S=<path> python $S/patch_doc04.py; cat notes/res-rooms.txt | head -30; python tools/res.py Teenagent/ON.RES --list | grep -c empty; grep -c "" notes/res-entries-varia-00.txt
+2026-09-11T22:02:23	ALLOW	-	head -14 notes/res-ascii-off-00.txt | tail -8; python tools/res.py Teenagent/LAN_000.RES --list | awk '$3=="animation"{n++} END{print n}'; python tools/res.py Teenagent/LAN_500.RES --frames 0 | grep "member"; python tools/res.py Teenagent/UNLOGIC.RES --list | sed -n 8,10p
+2026-09-11T22:04:11	ALLOW	-	S=<path> python $S/patch_doc05.py; grep -n "Inno\|version" _work/gogmanifest.txt | head -3; python tools/zipclocks.py Teenagent/DOSBOX/dosbox-staging-release-0.82.x.zip 2>&1 | tail -6; grep -n "NVIDIA\|Program Files\|1422\|game.ins" Teenagent/DOSBOX/stderr.txt | head -5 | cut -c1-140; ls Teenagent/set_config; head -3 Teenagent/set_config/stderr.txt | cut -c1-120; cat Teenagent/goggame-1207658753.i
+2026-09-11T22:04:37	ALLOW	-	S=<path> python $S/patch_doc05b.py; grep -n "Inno\|InnoSetup\|Inno Setup" _work/*.txt 2>/dev/null | head -3; python tools/inno56.py Teenagent/unins000.exe 2>&1 | grep -i "version\|inno" | head -3; grep -n "Registered\|Cloud_Saves\|__support" _work/treecensus.txt | head -3; cat Teenagent/support.txt | head -5; python tools/zipdir.py Teenagent/DOSBOX/dosbox-staging-release-0.82.x.zip 2>&1 | grep -i 
+2026-09-11T22:04:46	ALLOW	-	python tools/inno56.py magic Teenagent/unins000.exe 2>&1 | head -8; python tools/inno56.py magic Teenagent/DOSBOX/unins000.exe 2>&1 | head -5; ls -la Teenagent/DOSBOX/unins000.* 2>/dev/null | awk '{print $5,$9}'; grep -c "" Teenagent/dosboxTeenagent.conf; cat Teenagent/dosboxTeenagent_single.conf; cat Teenagent/dosboxTeenagent_settings.conf
+2026-09-11T22:04:54	ALLOW	-	python tools/strdump.py Teenagent/unins000.exe --min 8 2>/dev/null | grep -i "inno setup version\|Inno Setup" | head -3; python tools/strdump.py Teenagent/DOSBOX/unins000.exe --min 8 2>/dev/null | grep -i "inno setup" | head -2; python tools/strdump.py Teenagent/DOSBOX/dosbox.exe --min 8 2>/dev/null | grep -i "staging\|0\.82" | head -4
+2026-09-11T22:05:46	ALLOW	-	grep -i "opaque" _work/coverage2.txt | head -3; python tools/coverage.py tree --root Teenagent --members 2>/dev/null | head -2; grep -n "opaque" -A 60 notes/coverage.txt | grep -v "\.RES" | grep -oE "[A-Za-z0-9_./\\ ()-]+\.[A-Za-z0-9]+" | grep -v "^tools" | awk -F. '{print tolower($NF)}' | sort | uniq -c | sort -rn | head -12
+2026-09-11T22:05:52	ALLOW	-	cat _work/opaque.py; python _work/opaque.py 2>&1 | awk '{print $NF}' | awk -F. '{print tolower($NF)}' | sort | uniq -c | sort -rn
+2026-09-11T22:06:12	ALLOW	-	S=<path> python $S/patch_doc06.py; python tools/rule0hook.py --report > notes/rule0-report.txt; grep -c "" notes/rule0-report.txt; grep -n "<needle-2>\|Homebrew" notes/rule0-report.txt | head -3
+2026-09-11T22:06:32	ALLOW	-	S=<path> python $S/masklog.py && grep -c "" notes/rule0.log && grep -n "<needle-2>\|Homebrew" notes/rule0-report.txt notes/rule0.log | head -3; grep -c "REFUSE\|DENY" notes/rule0.log
+2026-09-11T22:06:38	ALLOW	-	grep -n "<needle-1>" _work/rule0.log | cut -c1-200 | head -5
+2026-09-11T22:06:48	ALLOW	-	S=<path> python $S/masklog.py && grep -c "DENY" notes/rule0.log; grep -n "needle" notes/rule0-report.txt | head -3
+2026-09-11T22:06:55	ALLOW	-	grep -n "DENY" notes/rule0.log | cut -c1-160
+2026-09-11T22:07:55	ALLOW	-	sed -n 1,60p ../pc-demonsforge-doc/README.md
+2026-09-11T22:08:46	ALLOW	-	python tools/lzexe.py --selftest | tail -1; python tools/pathcheck.py --needle <needle-1> --needle <needle-2> --needle "<path>" 2>&1 | grep -E "VIOLATIONS|fires|checked"; grep -rn "<path>" README.md docs notes | head -3; git add -A >/dev/null 2>&1; git ls-files | grep -Eiv "^(README|docs/|notes/|tools/|\.gitignore)"; echo "non-allowed count: $(git ls-files | grep -Eiv '^(README|docs/|notes/|tools/|\.gi
+2026-09-11T22:08:56	ALLOW	-	python tools/rule0hook.py --report > notes/rule0-report.txt; S=<path> python $S/masklog.py; grep -n "shell calls\|REFUSED" notes/rule0-report.txt

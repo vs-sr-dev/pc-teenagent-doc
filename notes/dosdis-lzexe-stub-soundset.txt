@@ -1,0 +1,180 @@
+  000E  06             push   es
+  000F  0e             push   cs
+  0010  1f             pop    ds
+  0011  8b 0e 0c 00    mov    cx, [0Ch]
+  0015  8b f1          mov    si, cx
+  0017  4e             dec    si
+  0018  89 f7          mov    di, si
+  001A  8c db          mov    bx, ds
+  001C  03 1e 0a 00    add    bx, [0Ah]
+  0020  8e c3          mov    es, bx
+  0022  fd             std
+  0023  f3             rep
+  0024  a4             movsb
+  0025  53             push   bx
+  0026  b8 2b 00       mov    ax, 2Bh
+  0029  50             push   ax
+  002A  cb             retf
+  002B  2e             cs:
+  002C  8b 2e 08 00    mov    bp, [8h]
+  0030  8c da          mov    dx, ds
+  0032  89 e8          mov    ax, bp
+  0034  3d 00 10       cmp    ax, 1000h
+  0037  76 03          jbe    3Ch
+  0039  b8 00 10       mov    ax, 1000h
+  003C  29 c5          sub    bp, ax
+  003E  29 c2          sub    dx, ax
+  0040  29 c3          sub    bx, ax
+  0042  8e da          mov    ds, dx
+  0044  8e c3          mov    es, bx
+  0046  b1 03          mov    cl, 3h
+  0048  d3 e0          shl    ax, cl
+  004A  89 c1          mov    cx, ax
+  004C  d1 e0          shl    ax, 1
+  004E  48             dec    ax
+  004F  48             dec    ax
+  0050  8b f0          mov    si, ax
+  0052  8b f8          mov    di, ax
+  0054  f3             rep
+  0055  a5             movsw
+  0056  09 ed          or     bp, bp
+  0058  75 d8          jnz    32h
+  005A  fc             cld
+  005B  8e c2          mov    es, dx
+  005D  8e db          mov    ds, bx
+  005F  31 f6          xor    si, si
+  0061  31 ff          xor    di, di
+  0063  ba 10 00       mov    dx, 10h
+  0066  ad             lodsw
+  0067  89 c5          mov    bp, ax
+  0069  d1 ed          shr    bp, 1
+  006B  4a             dec    dx
+  006C  75 05          jnz    73h
+  006E  ad             lodsw
+  006F  89 c5          mov    bp, ax
+  0071  b2 10          mov    dl, 10h
+  0073  73 03          jnb    78h
+  0075  a4             movsb
+  0076  eb f1          jmp    69h
+  0078  31 c9          xor    cx, cx
+  007A  d1 ed          shr    bp, 1
+  007C  4a             dec    dx
+  007D  75 05          jnz    84h
+  007F  ad             lodsw
+  0080  89 c5          mov    bp, ax
+  0082  b2 10          mov    dl, 10h
+  0084  72 22          jb     0A8h
+  0086  d1 ed          shr    bp, 1
+  0088  4a             dec    dx
+  0089  75 05          jnz    90h
+  008B  ad             lodsw
+  008C  89 c5          mov    bp, ax
+  008E  b2 10          mov    dl, 10h
+  0090  d1 d1          rcl    cx, 1
+  0092  d1 ed          shr    bp, 1
+  0094  4a             dec    dx
+  0095  75 05          jnz    9Ch
+  0097  ad             lodsw
+  0098  89 c5          mov    bp, ax
+  009A  b2 10          mov    dl, 10h
+  009C  d1 d1          rcl    cx, 1
+  009E  41             inc    cx
+  009F  41             inc    cx
+  00A0  ac             lodsb
+  00A1  b7 ff          mov    bh, 0FFh
+  00A3  8a d8          mov    bl, al
+  00A5  e9 13 00       jmp    0BBh
+  00A8  ad             lodsw
+  00A9  8b d8          mov    bx, ax
+  00AB  b1 03          mov    cl, 3h
+  00AD  d2 ef          shr    bh, cl
+  00AF  80 cf e0       or     bh, 0E0h
+  00B2  80 e4 07       and    ah, 7h
+  00B5  74 0c          jz     0C3h
+  00B7  88 e1          mov    cl, ah
+  00B9  41             inc    cx
+  00BA  41             inc    cx
+  00BB  26             es:
+  00BC  8a 01          mov    al, [bx+di]
+  00BE  aa             stosb
+  00BF  e2 fa          loop   0BBh
+  00C1  eb a6          jmp    69h
+  00C3  ac             lodsb
+  00C4  08 c0          or     al, al
+  00C6  74 34          jz     0FCh
+  00C8  3c 01          cmp    al, 1h
+  00CA  74 05          jz     0D1h
+  00CC  88 c1          mov    cl, al
+  00CE  41             inc    cx
+  00CF  eb ea          jmp    0BBh
+  00D1  89 fb          mov    bx, di
+  00D3  83 e7 0f       and    di, 0Fh
+  00D6  81 c7 00 20    add    di, 2000h
+  00DA  b1 04          mov    cl, 4h
+  00DC  d3 eb          shr    bx, cl
+  00DE  8c c0          mov    ax, es
+  00E0  01 d8          add    ax, bx
+  00E2  2d 00 02       sub    ax, 200h
+  00E5  8e c0          mov    es, ax
+  00E7  89 f3          mov    bx, si
+  00E9  83 e6 0f       and    si, 0Fh
+  00EC  d3 eb          shr    bx, cl
+  00EE  8c d8          mov    ax, ds
+  00F0  01 d8          add    ax, bx
+  00F2  8e d8          mov    ds, ax
+  00F4  e9 72 ff       jmp    69h
+  00F7  2a 46 41       sub    al, [bp+65]
+  00FA  42             inc    dx
+  00FB  2a 0e 1f be    sub    cl, [0BE1Fh]
+  00FF  58             pop    ax
+  0100  01 5b 83       add    [bp+di-125], bx
+  0103  c3             ret
+  0104  10 89 da 31    adc    [bx+di+31DAh], cl
+  0108  ff ac 08 c0    jmpf   [si+0C008h]
+  010C  74 16          jz     124h
+  010E  b4 00          mov    ah, 0h
+  0110  01 c7          add    di, ax
+  0112  8b c7          mov    ax, di
+  0114  83 e7 0f       and    di, 0Fh
+  0117  b1 04          mov    cl, 4h
+  0119  d3 e8          shr    ax, cl
+  011B  01 c2          add    dx, ax
+  011D  8e c2          mov    es, dx
+  011F  26             es:
+  0120  01 1d          add    [di], bx
+  0122  eb e5          jmp    109h
+  0124  ad             lodsw
+  0125  09 c0          or     ax, ax
+  0127  75 08          jnz    131h
+  0129  81 c2 ff 0f    add    dx, 0FFFh
+  012D  8e c2          mov    es, dx
+  012F  eb d8          jmp    109h
+  0131  3d 01 00       cmp    ax, 1h
+  0134  75 da          jnz    110h
+  0136  8b c3          mov    ax, bx
+  0138  8b 3e 04 00    mov    di, [4h]
+  013C  8b 36 06 00    mov    si, [6h]
+  0140  01 c6          add    si, ax
+  0142  01 06 02 00    add    [2h], ax
+  0146  2d 10 00       sub    ax, 10h
+  0149  8e d8          mov    ds, ax
+  014B  8e c0          mov    es, ax
+  014D  31 db          xor    bx, bx
+  014F  fa             cli
+  0150  8e d6          mov    ss, si
+  0152  8b e7          mov    sp, di
+  0154  fb             sti
+  0155  2e             cs:
+  0156  ff 2f          jmpf   [bx]
+
+bytes in range        : 330
+bytes decoded         : 330
+instructions          : 168
+coverage              : 100.0000 %
+STOPPED               : no -- every byte in range decoded
+
+branch targets in range   : 22
+landing on a boundary     : 19 of 22
+    00C6 -> 00FC   LANDS MID-INSTRUCTION
+    0122 -> 0109   LANDS MID-INSTRUCTION
+    012F -> 0109   LANDS MID-INSTRUCTION

@@ -1,0 +1,11 @@
+mine   : tools
+theirs : ../pc-demonsforge-doc/tools
+
+mine   : 592 .py     theirs : 589 .py
+only mine   : lzexe.py, res.py, teentext.py
+only theirs : none
+common      : 589    differing   : 4
+   DIFFERS  coverage.py              mine a3a1a9a3002c  theirs 2b4cf591dbb7
+   DIFFERS  dosdis.py                mine a65c866f5d0b  theirs 25d92cf69b3b
+   DIFFERS  dospack.py               mine a461a26d12e7  theirs 37b484e7e0b2
+   DIFFERS  rule0hook.py             mine 26c4911303b7  theirs b2c74cf9e78a

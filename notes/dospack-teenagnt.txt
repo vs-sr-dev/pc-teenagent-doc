@@ -1,0 +1,74 @@
+file                  : TEENAGNT.EXE
+bytes                 : 78426
+  e_magic    0x5a4d   23117
+  e_cblp     0x005a      90
+  e_cp       0x009a     154
+  e_crlc     0x0000       0
+  e_cparhdr  0x0002       2
+  e_minalloc 0x1263    4707
+  e_maxalloc 0xffff   65535
+  e_ss       0x2563    9571
+  e_sp       0x0080     128
+  e_csum     0x0000       0
+  e_ip       0x000e      14
+  e_cs       0x130a    4874
+  e_lfarlc   0x001c      28
+  e_ovno     0x0000       0
+  header bytes             32
+  image bytes           78426
+  slack after image         0
+  entry file offset     78030
+  e_minalloc bytes      75312   (extra memory demanded)
+
+THE RESERVED AREA, 0x1C .. 0x1C, 0 bytes
+
+THE ENTRY STUB'S CODE
+  LZEXE 0.91 decompressor entry at file 78030: MATCH (29 bytes), decoder MATCH
+  marker at header 1Ch: 0c 0a 09 01 -- ABSENT: the packer is named by the code, and the signature sweep below is wrong about it
+
+  signature                needle                     where  anywhere  in place
+  LZEXE 0.90               'LZ09'                     head   -         -
+  LZEXE 0.91               'LZ91'                     head   -         -
+  PKLITE                   'PKLITE'                   any    -         -
+  PKLITE (mixed case)      'PKlite'                   any    -         -
+  PKLITE Copr.             'PKLITE Copr.'             any    -         -
+  Microsoft EXEPACK        'RB'                       tail   68715     -
+  EXEPACK error string     'Packed file is corrupt'   any    -         -
+  EXEPACK (the tool)       'EXEPACK'                  any    -         -   (tool-only, not counted)
+  DIET                     'diet'                     any    -         -
+  DIET 1.02                '\xb4J\xbb\xff\xff\xcd!'   any    -         -
+  TINYPROG                 'TINYPROG'                 any    -         -
+  WWPACK                   'WWP'                      any    -         -
+  WWPACK (full)            'WWPACK'                   any    -         -   (tool-only, not counted)
+  PROPACK / RJSX           'RJSX'                     any    -         -
+  PROPACK / RJSW           'RJSW'                     any    -         -
+  UPX                      'UPX!'                     any    -         -
+  UPX banner               'UPX '                     any    -         -
+  aPACK                    'aPACK'                    any    -         -
+  aPLib                    'AP32'                     any    -         -
+  LZPAK                    'LZPAK'                    any    -         -
+  SCRNCH                   'SCRNCH'                   any    -         -
+  COMPACK                  'COMPACK'                  any    -         -
+  AINEXE                   'AINEXE'                   any    -         -
+  CRUNCHER                 'CRUNCHER'                 any    -         -
+  EXE Shield               'ExeShield'                any    -         -
+  PGMPAK                   'PGMPAK'                   any    -         -
+  RELOX                    'RELOX'                    any    -         -
+  SHRINK                   'SHRINK'                   any    -         -
+  TinyProg banner          'Tiny'                     any    -         -
+  LZEXE banner             'LZEXE'                    any    -         -   (tool-only, not counted)
+  Borland copyright        'Borland'                  any    -         -
+  Turbo Pascal runtime     'Runtime error'            any    -         -
+  Microsoft C runtime      'Microsoft C'              any    -         -
+
+signatures in the table       : 33
+  of those, tool-only         : 3   (excluded: a compressor's name is in the compressor, not in its output)
+  countable                   : 30
+  found ANYWHERE              : 1 of 30
+  found IN THE RIGHT PLACE    : 0 of 30
+
+the image after the header    : 78394 bytes
+  entropy, whole image        : 7.8498 bits/byte
+  entropy, last 32 KB         : 7.8289 bits/byte
+  distinct byte values        : 256 of 256
+  commonest                   : [('0xe8', 1592), ('0xff', 1135), ('0x0', 1091), ('0xfc', 994)]

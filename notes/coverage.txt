@@ -1,0 +1,25 @@
+denominator : 433 files, 93184691 bytes -- every file under Teenagent, classified BY MAGIC
+
+  bucket      files        bytes      share  format
+  specified      35     62777313   67.3687 %  PE / MZ executable (Microsoft) -- header arithmetic checked, not the two letters alone
+  specified       2      7936597    8.5171 %  ZIP archive (PKWARE APPNOTE)
+  specified     327      2810642    3.0162 %  plain text, ASCII
+  specified       9      1113118    1.1945 %  plain text, UTF-8 (Unicode; IETF RFC 3629)
+  specified       4       536717    0.5760 %  Windows icon
+  specified       1         8108    0.0087 %  JPEG / JFIF (ITU-T T.81; ISO/IEC 10918)
+  specified       1         8000    0.0086 %  plain text, Shift-JIS (JIS X 0208; Microsoft cp932)
+  derived        12     15309492   16.4292 %  TEENAGENT .RES container (Metropolis Software House, 1994-1995) -- u32 count, count+1 monotonic offsets, first 4+4(count+1), last = the length; member grammars read from the game's own engine by res.py
+  opaque         42      2684704    2.8811 %  not identified by any signature this tool knows
+
+  specified   379 files     75190495 bytes    80.6898 % of 93184691
+  decoded       0 files            0 bytes     0.0000 % of 93184691
+  derived      12 files     15309492 bytes    16.4292 % of 93184691
+  opaque       42 files      2684704 bytes     2.8811 % of 93184691
+  SUM         433 files     93184691 bytes   100.0000 %
+  against the denominator 93184691          RESIDUE 0
+
+  The SUM row is an ACCOUNTING figure and not a coverage figure.
+  It answers 'do the bytes add up to the object'. It does not
+  answer 'how much of this can be checked against something outside
+  it', because SPECIFIED and DECODED carry warrants of different
+  strength and DERIVED carries none but this session's.

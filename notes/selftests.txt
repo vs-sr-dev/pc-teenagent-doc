@@ -1,0 +1,23 @@
+PYTHONIOENCODING=[] (unset)
+=== lzexe selftest
+lzexe.py selftest: 20 of 20 ok, 0 skipped
+=== res selftest
+res.py selftest: 22 of 22 ok, 0 skipped
+=== teentext selftest
+teentext.py selftest: 5 of 5 ok
+=== dospack selftest
+27 checks, 0 failures
+=== dosdis selftest
+41 checks, 0 failures
+=== coverage selftest
+145 checks, 0 failures
+=== rule0hook selftest
+28 checks, 0 failures
+=== dirguard selftest
+13 checks, 0 failures
+=== nameguard selftest
+13 checks, 0 failures
+=== pathcheck selftest
+checks : 10   failures : 0
+=== toolsdiff selftest
+checks : 9   failures : 0

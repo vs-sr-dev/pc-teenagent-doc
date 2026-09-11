@@ -1,0 +1,12 @@
+  0000  b8 52 0b       mov    ax, 0B52h
+  0003  8e d8          mov    ds, ax
+  0005  8e c0          mov    es, ax
+  0007  e9 d2 00       jmp    0DCh
+  000A  9c             pushf
+  000B  fa             cli
+
+bytes in range        : 12
+bytes decoded         : 12
+instructions          : 6
+coverage              : 100.0000 %
+STOPPED               : no -- every byte in range decoded

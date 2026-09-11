@@ -1,0 +1,88 @@
+  ABA9  81 e9 f3 01    sub    cx, 1F3h
+  ABAD  ba 2c 00       mov    dx, 2Ch
+  ABB0  a1 bf 32       mov    ax, [32BFh]
+  ABB3  a3 ac 00       mov    [0ACh], ax
+  ABB6  c7 06 aa 00 00 00 mov    [0AAh], 0h
+  ABBC  e8 15 05       call   0B0D4h
+  ABBF  c3             ret
+  ABC0  be c7 32       mov    si, 32C7h
+  ABC3  bb 47 33       mov    bx, 3347h
+  ABC6  b9 01 00       mov    cx, 1h
+  ABC9  53             push   bx
+  ABCA  51             push   cx
+  ABCB  56             push   si
+  ABCC  49             dec    cx
+  ABCD  b0 1b          mov    al, 1Bh
+  ABCF  f6 e1          mul    cl
+  ABD1  03 f0          add    si, ax
+  ABD3  d1 e1          shl    cx, 1
+  ABD5  03 d9          add    bx, cx
+  ABD7  8b 0f          mov    cx, [bx]
+  ABD9  0b c9          or     cx, cx
+  ABDB  74 1b          jz     0ABF8h
+  ABDD  81 e9 f3 01    sub    cx, 1F3h
+  ABE1  ba 2c 00       mov    dx, 2Ch
+  ABE4  8b 44 16       mov    ax, [si+22]
+  ABE7  a3 ac 00       mov    [0ACh], ax
+  ABEA  c7 06 aa 00 00 00 mov    [0AAh], 0h
+  ABF0  e8 e1 04       call   0B0D4h
+  ABF3  b8 01 00       mov    ax, 1h
+  ABF6  89 04          mov    [si], ax
+  ABF8  5e             pop    si
+  ABF9  59             pop    cx
+  ABFA  5b             pop    bx
+  ABFB  41             inc    cx
+  ABFC  80 f9 04       cmp    cl, 4h
+  ABFF  76 c8          jbe    0ABC9h
+  AC01  c3             ret
+  AC02  be c7 32       mov    si, 32C7h
+  AC05  bb 47 33       mov    bx, 3347h
+  AC08  b9 01 00       mov    cx, 1h
+  AC0B  53             push   bx
+  AC0C  51             push   cx
+  AC0D  56             push   si
+  AC0E  8b d1          mov    dx, cx
+  AC10  49             dec    cx
+  AC11  b0 1b          mov    al, 1Bh
+  AC13  f6 e1          mul    cl
+  AC15  03 f0          add    si, ax
+  AC17  d1 e1          shl    cx, 1
+  AC19  03 d9          add    bx, cx
+  AC1B  8b 07          mov    ax, [bx]
+  AC1D  0b c0          or     ax, ax
+  AC1F  74 26          jz     0AC47h
+  AC21  8b 0e 82 b4    mov    cx, [0B482h]
+  AC25  49             dec    cx
+  AC26  c1 e1 02       shl    cx, 2h
+  AC29  03 ca          add    cx, dx
+  AC2B  ba 38 00       mov    dx, 38h
+  AC2E  e8 2b 00       call   0AC5Ch
+  AC31  8b 44 16       mov    ax, [si+22]
+  AC34  a3 ac 00       mov    [0ACh], ax
+  AC37  c7 06 aa 00 00 00 mov    [0AAh], 0h
+  AC3D  56             push   si
+  AC3E  e8 93 04       call   0B0D4h
+  AC41  5e             pop    si
+  AC42  b8 01 00       mov    ax, 1h
+  AC45  89 04          mov    [si], ax
+  AC47  5e             pop    si
+  AC48  59             pop    cx
+  AC49  5b             pop    bx
+  AC4A  41             inc    cx
+  AC4B  80 f9 04       cmp    cl, 4h
+  AC4E  76 bb          jbe    0AC0Bh
+  AC50  bf 47 33       mov    di, 3347h
+  AC53  b9 08 00       mov    cx, 8h
+  AC56  33 c0          xor    ax, ax
+  AC58  fc             cld
+  AC59  f3             rep
+  AC5A  ab             stosw
+
+bytes in range        : 178
+bytes decoded         : 178
+instructions          : 79
+coverage              : 100.0000 %
+STOPPED               : no -- every byte in range decoded
+
+branch targets in range   : 4
+landing on a boundary     : 4 of 4

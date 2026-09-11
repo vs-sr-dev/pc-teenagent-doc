@@ -1,0 +1,105 @@
+  2D8B  06             push   es
+  2D8C  8e c0          mov    es, ax
+  2D8E  51             push   cx
+  2D8F  bb ff ff       mov    bx, 0FFFFh
+  2D92  8b 05          mov    ax, [di]
+  2D94  b9 03 00       mov    cx, 3h
+  2D97  f7 e1          mul    cx
+  2D99  03 d8          add    bx, ax
+  2D9B  be 00 00       mov    si, 0h
+  2D9E  26             es:
+  2D9F  8b 34          mov    si, [si]
+  2DA1  8b d6          mov    dx, si
+  2DA3  3b de          cmp    bx, si
+  2DA5  72 06          jb     2DADh
+  2DA7  c7 05 01 00    mov    [di], 1h
+  2DAB  eb e2          jmp    2D8Fh
+  2DAD  ff 05          inc    [di]
+  2DAF  33 c9          xor    cx, cx
+  2DB1  26             es:
+  2DB2  8a 0f          mov    cl, [bx]
+  2DB4  88 4d 1a       mov    [di+26], cl
+  2DB7  26             es:
+  2DB8  8b 77 01       mov    si, [bx+1]
+  2DBB  89 75 0a       mov    [di+10], si
+  2DBE  8b da          mov    bx, dx
+  2DC0  43             inc    bx
+  2DC1  83 eb 02       sub    bx, 2h
+  2DC4  d1 e1          shl    cx, 1
+  2DC6  03 d9          add    bx, cx
+  2DC8  26             es:
+  2DC9  8b 1f          mov    bx, [bx]
+  2DCB  03 da          add    bx, dx
+  2DCD  26             es:
+  2DCE  8b 07          mov    ax, [bx]
+  2DD0  89 45 0c       mov    [di+12], ax
+  2DD3  26             es:
+  2DD4  8b 47 02       mov    ax, [bx+2]
+  2DD7  89 45 0e       mov    [di+14], ax
+  2DDA  83 c3 04       add    bx, 4h
+  2DDD  89 5d 18       mov    [di+24], bx
+  2DE0  33 d2          xor    dx, dx
+  2DE2  8b c6          mov    ax, si
+  2DE4  f7 36 b6 00    div    [0B6h]
+  2DE8  89 16 4f 33    mov    [334Fh], dx
+  2DEC  a3 57 33       mov    [3357h], ax
+  2DEF  03 55 0c       add    dx, [di+12]
+  2DF2  03 45 0e       add    ax, [di+14]
+  2DF5  89 16 51 33    mov    [3351h], dx
+  2DF9  a3 59 33       mov    [3359h], ax
+  2DFC  59             pop    cx
+  2DFD  e8 85 00       call   2E85h
+  2E00  33 d2          xor    dx, dx
+  2E02  8b 45 10       mov    ax, [di+16]
+  2E05  f7 36 b6 00    div    [0B6h]
+  2E09  89 16 53 33    mov    [3353h], dx
+  2E0D  a3 5b 33       mov    [335Bh], ax
+  2E10  03 55 12       add    dx, [di+18]
+  2E13  03 45 14       add    ax, [di+20]
+  2E16  89 16 55 33    mov    [3355h], dx
+  2E1A  a3 5d 33       mov    [335Dh], ax
+  2E1D  a1 4f 33       mov    ax, [334Fh]
+  2E20  8b 1e 53 33    mov    bx, [3353h]
+  2E24  3b c3          cmp    ax, bx
+  2E26  76 04          jbe    2E2Ch
+  2E28  89 1e 4f 33    mov    [334Fh], bx
+  2E2C  a1 51 33       mov    ax, [3351h]
+  2E2F  8b 1e 55 33    mov    bx, [3355h]
+  2E33  3b c3          cmp    ax, bx
+  2E35  77 04          jnbe   2E3Bh
+  2E37  89 1e 51 33    mov    [3351h], bx
+  2E3B  a1 57 33       mov    ax, [3357h]
+  2E3E  8b 1e 5b 33    mov    bx, [335Bh]
+  2E42  3b c3          cmp    ax, bx
+  2E44  76 04          jbe    2E4Ah
+  2E46  89 1e 57 33    mov    [3357h], bx
+  2E4A  a1 59 33       mov    ax, [3359h]
+  2E4D  8b 1e 5d 33    mov    bx, [335Dh]
+  2E51  3b c3          cmp    ax, bx
+  2E53  77 04          jnbe   2E59h
+  2E55  89 1e 59 33    mov    [3359h], bx
+  2E59  07             pop    es
+  2E5A  a1 4f 33       mov    ax, [334Fh]
+  2E5D  89 45 02       mov    [di+2], ax
+  2E60  a1 57 33       mov    ax, [3357h]
+  2E63  89 45 04       mov    [di+4], ax
+  2E66  a1 51 33       mov    ax, [3351h]
+  2E69  89 45 06       mov    [di+6], ax
+  2E6C  a1 59 33       mov    ax, [3359h]
+  2E6F  89 45 08       mov    [di+8], ax
+  2E72  8b 45 0c       mov    ax, [di+12]
+  2E75  89 45 12       mov    [di+18], ax
+  2E78  8b 45 0e       mov    ax, [di+14]
+  2E7B  89 45 14       mov    [di+20], ax
+  2E7E  8b 45 0a       mov    ax, [di+10]
+  2E81  89 45 10       mov    [di+16], ax
+  2E84  c3             ret
+
+bytes in range        : 250
+bytes decoded         : 250
+instructions          : 96
+coverage              : 100.0000 %
+STOPPED               : no -- every byte in range decoded
+
+branch targets in range   : 6
+landing on a boundary     : 6 of 6

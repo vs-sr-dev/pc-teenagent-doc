@@ -1,0 +1,472 @@
+outer file        : goggame-1207658753.hashdb  698 bytes
+members           : 1
+inner name        : goggame-1207658753.hashdb
+inner size        : 17964 bytes  (deflated to 550, ratio 0.0306)
+inner date        : 2025-11-19 13:38:06 (DOS, local)
+inner crc32       : c986e9d9
+
+header            : 12 bytes = u32 12, u32 1, u32 17
+mode used         : narrow
+records           : 17 of 1056 bytes each
+arithmetic        : 12 + 17 x 1056 = 17964   (file is 17964)
+
+longest name      : 12 characters
+last non-zero byte: 1056 x17
+records with data after the name : 17 of 17
+that data lives between offsets 1056 and 1056
+
+declared names by extension:
+   .res          12
+   .exe           2
+   .jpg           1
+   .set           1
+   .txt           1
+
+   ADVERT.RES
+   Depot.jpg
+   LAN_000.RES
+   LAN_500.RES
+   MMM.RES
+   OFF.RES
+   ON.RES
+   ONS.RES
+   SAM_MMM.RES
+   SAM_SAM.RES
+   SDR.RES
+   SOUND.SET
+   SOUNDSET.EXE
+   support.txt
+   TEENAGNT.EXE
+   UNLOGIC.RES
+   VARIA.RES
+
+records whose last 32 bytes are 32 hex characters : 17 of 17
+   32 hex characters = 128 bits = MD5, RFC 1321
+
+declared          : 17
+on disk           : 433
+declared and present : 17
+declared and ABSENT  : 0
+present and UNDECLARED : 416, 77783612 bytes
+      dosbox/concrt140.dll                               322672
+      dosbox/doc/licenses/bsd-2-clause.txt                 1531
+      dosbox/doc/licenses/bsd-3-clause.txt                 1756
+      dosbox/doc/licenses/debug.com.txt                    1505
+      dosbox/doc/licenses/gpl-2.0.txt                     18372
+      dosbox/doc/licenses/lgpl-2.1.txt                    27037
+      dosbox/doc/licenses/mit.txt                          1306
+      dosbox/doc/licenses/zlib.txt                         1057
+      dosbox/doc/manual.txt                               79206
+      dosbox/doc/vc_redist.txt                             1491
+      dosbox/doc/video.txt                                 1603
+      dosbox/dosbox-staging-release-0.82.x.zip          7935899
+      dosbox/dosbox-staging.ico                          287934
+      dosbox/dosbox.exe                                 5470720
+      dosbox/dosbox_with_console.bat                         59
+      dosbox/dosbox_with_debugger.exe                   5575168
+      dosbox/glib-2.0-0.dll                             1305088
+      dosbox/iconv-2.dll                                1074688
+      dosbox/iir.dll                                      73216
+      dosbox/intl-8.dll                                   97792
+      dosbox/libfluidsynth-3.dll                         330752
+      dosbox/libpng16.dll                                201216
+      dosbox/libspeexdsp.dll                             107520
+      dosbox/license.txt                                   4020
+      dosbox/msvcp140.dll                                575568
+      dosbox/msvcp140_1.dll                               35920
+      dosbox/msvcp140_2.dll                              267888
+      dosbox/msvcp140_atomic_wait.dll                     50288
+      dosbox/msvcp140_codecvt_ids.dll                     31856
+      dosbox/mt32emu-2.dll                               185344
+      dosbox/ogg.dll                                      31232
+      dosbox/opus.dll                                    434688
+      dosbox/pcre2-8.dll                                 564736
+      dosbox/readme.txt                                     906
+      dosbox/resources/drives/y.conf                        755
+      dosbox/resources/drives/y/dos/debug.com             22324
+      dosbox/resources/drives/y/dos/deltree.com            3339
+      dosbox/resources/drives/y/dos/xcopy.exe             22867
+      dosbox/resources/freedos-cpi/appinfo/cpidos.lsm          535
+      dosbox/resources/freedos-cpi/doc/codepage.txt         4058
+      dosbox/resources/freedos-cpi/doc/history.txt         5497
+      dosbox/resources/freedos-cpi/doc/readme.txt          4428
+      dosbox/resources/freedos-cpi/ega.cpi                58880
+      dosbox/resources/freedos-cpi/ega10.cpi              58880
+      dosbox/resources/freedos-cpi/ega11.cpi              58880
+      dosbox/resources/freedos-cpi/ega12.cpi              58880
+      dosbox/resources/freedos-cpi/ega13.cpi              58880
+      dosbox/resources/freedos-cpi/ega14.cpi              58880
+      dosbox/resources/freedos-cpi/ega15.cpi              58880
+      dosbox/resources/freedos-cpi/ega16.cpi              58880
+      dosbox/resources/freedos-cpi/ega17.cpi              58880
+      dosbox/resources/freedos-cpi/ega18.cpi              29540
+      dosbox/resources/freedos-cpi/ega2.cpi               58880
+      dosbox/resources/freedos-cpi/ega3.cpi               58880
+      dosbox/resources/freedos-cpi/ega4.cpi               58880
+      dosbox/resources/freedos-cpi/ega5.cpi               58880
+      dosbox/resources/freedos-cpi/ega6.cpi               58880
+      dosbox/resources/freedos-cpi/ega7.cpi               58880
+      dosbox/resources/freedos-cpi/ega8.cpi               58880
+      dosbox/resources/freedos-cpi/ega9.cpi               58880
+      dosbox/resources/freedos-cpi/license/license        18377
+      dosbox/resources/freedos-keyboard/appinfo/keyb_lay.lsm          585
+      dosbox/resources/freedos-keyboard/doc/be-intl.txt         3428
+      dosbox/resources/freedos-keyboard/doc/cherokee.txt         1489
+      dosbox/resources/freedos-keyboard/doc/enhanced.txt        26135
+      dosbox/resources/freedos-keyboard/doc/fr-intl.txt         6338
+      dosbox/resources/freedos-keyboard/doc/georgia.txt         1705
+      dosbox/resources/freedos-keyboard/doc/history.txt        13436
+      dosbox/resources/freedos-keyboard/doc/it-intl.txt         1999
+      dosbox/resources/freedos-keyboard/doc/jp106.txt         8000
+      dosbox/resources/freedos-keyboard/doc/layouts.txt        31745
+      dosbox/resources/freedos-keyboard/doc/po-intl.txt         4845
+      dosbox/resources/freedos-keyboard/doc/readme.txt         6531
+      dosbox/resources/freedos-keyboard/doc/russia.txt         7152
+      dosbox/resources/freedos-keyboard/doc/sp-intl.txt         3390
+      dosbox/resources/freedos-keyboard/doc/uk-intl.txt         7976
+      dosbox/resources/freedos-keyboard/doc/us-intl.txt        11972
+      dosbox/resources/freedos-keyboard/keyboard.sys        40362
+      dosbox/resources/freedos-keyboard/keybrd2.sys        29750
+      dosbox/resources/freedos-keyboard/keybrd3.sys        32178
+      dosbox/resources/freedos-keyboard/keybrd4.sys        13105
+      dosbox/resources/freedos-keyboard/license/license        18379
+      dosbox/resources/glshaders/crt/arcade-1080p.glsl        27082
+      dosbox/resources/glshaders/crt/arcade-1440p.glsl        27082
+      dosbox/resources/glshaders/crt/arcade-4k.glsl        27082
+      dosbox/resources/glshaders/crt/arcade-sharp-1080p.glsl        27049
+      dosbox/resources/glshaders/crt/arcade-sharp-1440p.glsl        27049
+      dosbox/resources/glshaders/crt/arcade-sharp-4k.glsl        27049
+      dosbox/resources/glshaders/crt/cga-1080p.glsl        27085
+      dosbox/resources/glshaders/crt/cga-1440p.glsl        27083
+      dosbox/resources/glshaders/crt/cga-4k.glsl          27083
+      dosbox/resources/glshaders/crt/cga-720p.glsl        27083
+      dosbox/resources/glshaders/crt/composite-1080p.glsl        27083
+      dosbox/resources/glshaders/crt/composite-1440p.glsl        27083
+      dosbox/resources/glshaders/crt/composite-4k.glsl        27083
+      dosbox/resources/glshaders/crt/ega-1080p.glsl        27050
+      dosbox/resources/glshaders/crt/ega-1440p.glsl        27050
+      dosbox/resources/glshaders/crt/ega-4k.glsl          27048
+      dosbox/resources/glshaders/crt/ega-720p.glsl        27048
+      dosbox/resources/glshaders/crt/hercules.glsl        27023
+      dosbox/resources/glshaders/crt/monochrome-hires.glsl        27023
+      dosbox/resources/glshaders/crt/monochrome-lowres.glsl        27083
+      dosbox/resources/glshaders/crt/vga-1080p-fake-double-scan.glsl         5809
+      dosbox/resources/glshaders/crt/vga-1080p.glsl         6290
+      dosbox/resources/glshaders/crt/vga-1440p.glsl        27025
+      dosbox/resources/glshaders/crt/vga-4k.glsl          27023
+      dosbox/resources/glshaders/interpolation/bilinear.glsl         1542
+      dosbox/resources/glshaders/interpolation/catmull-rom.glsl         5007
+      dosbox/resources/glshaders/interpolation/nearest.glsl         1639
+      dosbox/resources/glshaders/interpolation/sharp.glsl         2127
+      dosbox/resources/glshaders/misc/fixvideo-scanlines.glsl         4854
+      dosbox/resources/glshaders/misc/fixvideo.glsl         4854
+      dosbox/resources/glshaders/scaler/advinterp2x.glsl         3124
+      dosbox/resources/glshaders/scaler/advinterp3x.glsl         3859
+      dosbox/resources/glshaders/scaler/advmame2x.glsl         3090
+      dosbox/resources/glshaders/scaler/advmame3x.glsl         3251
+      dosbox/resources/glshaders/scaler/xbr-lv2-3d.glsl        15881
+      dosbox/resources/glshaders/scaler/xbr-lv2-noblend.glsl         8579
+      dosbox/resources/glshaders/scaler/xbr-lv3.glsl        12391
+      dosbox/resources/mapperfiles/xbox/abreed.map         3453
+      dosbox/resources/mapperfiles/xbox/abreedta.map         3523
+      dosbox/resources/mapperfiles/xbox/actuas.map         3334
+      dosbox/resources/mapperfiles/xbox/aitd.map           3415
+      dosbox/resources/mapperfiles/xbox/aitd2.map          3415
+      dosbox/resources/mapperfiles/xbox/aitd3.map          3415
+      dosbox/resources/mapperfiles/xbox/aitdjack.map         3415
+      dosbox/resources/mapperfiles/xbox/aladdin.map         3457
+      dosbox/resources/mapperfiles/xbox/alienc.map         3542
+      dosbox/resources/mapperfiles/xbox/alienr.map         3463
+      dosbox/resources/mapperfiles/xbox/alientri.map         3544
+      dosbox/resources/mapperfiles/xbox/alphasto.map         3562
+      dosbox/resources/mapperfiles/xbox/alqadim.map         3453
+      dosbox/resources/mapperfiles/xbox/amok.map           3523
+      dosbox/resources/mapperfiles/xbox/another.map         3478
+      dosbox/resources/mapperfiles/xbox/batmanac.map         3420
+      dosbox/resources/mapperfiles/xbox/batmanf.map         3594
+      dosbox/resources/mapperfiles/xbox/bigredr.map         3414
+      dosbox/resources/mapperfiles/xbox/blam.map           3506
+      dosbox/resources/mapperfiles/xbox/blood.map          3528
+      dosbox/resources/mapperfiles/xbox/bluesb.map         3435
+      dosbox/resources/mapperfiles/xbox/bluesbja.map         3369
+      dosbox/resources/mapperfiles/xbox/bstone.map         3540
+      dosbox/resources/mapperfiles/xbox/bstone2.map         3540
+      dosbox/resources/mapperfiles/xbox/bthorne.map         3477
+      dosbox/resources/mapperfiles/xbox/cadillac.map         3435
+      dosbox/resources/mapperfiles/xbox/cataco3d.map         3575
+      dosbox/resources/mapperfiles/xbox/catapoc.map         3574
+      dosbox/resources/mapperfiles/xbox/chxquest.map         3575
+      dosbox/resources/mapperfiles/xbox/cite.map           3529
+      dosbox/resources/mapperfiles/xbox/ckeen1.map         3502
+      dosbox/resources/mapperfiles/xbox/clifd.map          3560
+      dosbox/resources/mapperfiles/xbox/coolspot.map         3437
+      dosbox/resources/mapperfiles/xbox/covertac.map         3529
+      dosbox/resources/mapperfiles/xbox/crusnreg.map         3546
+      dosbox/resources/mapperfiles/xbox/crusnrem.map         3547
+      dosbox/resources/mapperfiles/xbox/cyberm.map         3620
+      dosbox/resources/mapperfiles/xbox/d.map              3453
+      dosbox/resources/mapperfiles/xbox/dderby.map         3526
+      dosbox/resources/mapperfiles/xbox/dderby2.map         3472
+      dosbox/resources/mapperfiles/xbox/ddragon.map         3379
+      dosbox/resources/mapperfiles/xbox/ddragon2.map         3376
+      dosbox/resources/mapperfiles/xbox/ddragon3.map         3398
+      dosbox/resources/mapperfiles/xbox/descent.map         3619
+      dosbox/resources/mapperfiles/xbox/descent2.map         3655
+      dosbox/resources/mapperfiles/xbox/disc.map           3461
+      dosbox/resources/mapperfiles/xbox/dnukem.map         3499
+      dosbox/resources/mapperfiles/xbox/dnukem2.map         3499
+      dosbox/resources/mapperfiles/xbox/doom.map           3575
+      dosbox/resources/mapperfiles/xbox/doom2.map          3575
+      dosbox/resources/mapperfiles/xbox/drally.map         3436
+      dosbox/resources/mapperfiles/xbox/dstrike.map         3560
+      dosbox/resources/mapperfiles/xbox/duke3d.map         3500
+      dosbox/resources/mapperfiles/xbox/ecstatic.map         3467
+      dosbox/resources/mapperfiles/xbox/ecstatic2.map         3611
+      dosbox/resources/mapperfiles/xbox/eradicat.map         3553
+      dosbox/resources/mapperfiles/xbox/ewj.map            3440
+      dosbox/resources/mapperfiles/xbox/ewj2.map           3516
+      dosbox/resources/mapperfiles/xbox/exhumed.map         3500
+      dosbox/resources/mapperfiles/xbox/extremea.map         3583
+      dosbox/resources/mapperfiles/xbox/fadetb.map         3637
+      dosbox/resources/mapperfiles/xbox/fatalr.map         3541
+      dosbox/resources/mapperfiles/xbox/fb.map             3449
+      dosbox/resources/mapperfiles/xbox/fifa.map           3448
+      dosbox/resources/mapperfiles/xbox/fifa96.map         3429
+      dosbox/resources/mapperfiles/xbox/fifa97.map         3486
+      dosbox/resources/mapperfiles/xbox/firestrm.map         3610
+      dosbox/resources/mapperfiles/xbox/funtrack.map         3538
+      dosbox/resources/mapperfiles/xbox/fxfightr.map         3502
+      dosbox/resources/mapperfiles/xbox/gb2.map            3405
+      dosbox/resources/mapperfiles/xbox/gods.map           3421
+      dosbox/resources/mapperfiles/xbox/goldnaxe.map         3512
+      dosbox/resources/mapperfiles/xbox/gta.map            3600
+      dosbox/resources/mapperfiles/xbox/gtalond.map         3600
+      dosbox/resources/mapperfiles/xbox/heretic.map         3474
+      dosbox/resources/mapperfiles/xbox/hexen.map          3548
+      dosbox/resources/mapperfiles/xbox/hioctane.map         3565
+      dosbox/resources/mapperfiles/xbox/horde.map          3434
+      dosbox/resources/mapperfiles/xbox/hulkpant.map         3539
+      dosbox/resources/mapperfiles/xbox/humans.map         3449
+      dosbox/resources/mapperfiles/xbox/jazz.map           3481
+      dosbox/resources/mapperfiles/xbox/jbazooka.map         3476
+      dosbox/resources/mapperfiles/xbox/jdredd.map         3596
+      dosbox/resources/mapperfiles/xbox/jimpower.map         3421
+      dosbox/resources/mapperfiles/xbox/joemac.map         3415
+      dosbox/resources/mapperfiles/xbox/jstrike.map         3560
+      dosbox/resources/mapperfiles/xbox/jungbook.map         3438
+      dosbox/resources/mapperfiles/xbox/jurassic.map         3584
+      dosbox/resources/mapperfiles/xbox/krusty.map         3419
+      dosbox/resources/mapperfiles/xbox/lba.map            3431
+      dosbox/resources/mapperfiles/xbox/lba2.map           3562
+      dosbox/resources/mapperfiles/xbox/lionking.map         3457
+      dosbox/resources/mapperfiles/xbox/lollypop.map         3462
+      dosbox/resources/mapperfiles/xbox/lostv.map          3480
+      dosbox/resources/mapperfiles/xbox/lostv2.map         3593
+      dosbox/resources/mapperfiles/xbox/magicp.map         3419
+      dosbox/resources/mapperfiles/xbox/mars3d.map         3620
+      dosbox/resources/mapperfiles/xbox/mdk.map            3490
+      dosbox/resources/mapperfiles/xbox/megarac2.map         3490
+      dosbox/resources/mapperfiles/xbox/megarace.map         3575
+      dosbox/resources/mapperfiles/xbox/menace.map         3465
+      dosbox/resources/mapperfiles/xbox/microcsm.map         3415
+      dosbox/resources/mapperfiles/xbox/mk1.map            3680
+      dosbox/resources/mapperfiles/xbox/mk2.map            3680
+      dosbox/resources/mapperfiles/xbox/mk3.map            3680
+      dosbox/resources/mapperfiles/xbox/mktril.map         3511
+      dosbox/resources/mapperfiles/xbox/mm.map             3573
+      dosbox/resources/mapperfiles/xbox/mm2.map            3592
+      dosbox/resources/mapperfiles/xbox/moktar.map         3447
+      dosbox/resources/mapperfiles/xbox/moon.map           3458
+      dosbox/resources/mapperfiles/xbox/nba97.map          3458
+      dosbox/resources/mapperfiles/xbox/nbajamte.map         3504
+      dosbox/resources/mapperfiles/xbox/nfsse.map          3525
+      dosbox/resources/mapperfiles/xbox/nhl97.map          3401
+      dosbox/resources/mapperfiles/xbox/novas.map          3510
+      dosbox/resources/mapperfiles/xbox/oddworld.map         3543
+      dosbox/resources/mapperfiles/xbox/omf2097.map         3401
+      dosbox/resources/mapperfiles/xbox/panzakb.map         3416
+      dosbox/resources/mapperfiles/xbox/petesamp.map         3450
+      dosbox/resources/mapperfiles/xbox/pitfghtr.map         3394
+      dosbox/resources/mapperfiles/xbox/pop.map            3481
+      dosbox/resources/mapperfiles/xbox/pop2.map           3515
+      dosbox/resources/mapperfiles/xbox/prayfd.map         3585
+      dosbox/resources/mapperfiles/xbox/preh.map           3413
+      dosbox/resources/mapperfiles/xbox/preh2.map          3413
+      dosbox/resources/mapperfiles/xbox/primrage.map         3472
+      dosbox/resources/mapperfiles/xbox/pushover.map         3390
+      dosbox/resources/mapperfiles/xbox/quake.map          3585
+      dosbox/resources/mapperfiles/xbox/raiden.map         3435
+      dosbox/resources/mapperfiles/xbox/rallyc.map         3561
+      dosbox/resources/mapperfiles/xbox/raptor.map         3468
+      dosbox/resources/mapperfiles/xbox/rayman.map         3432
+      dosbox/resources/mapperfiles/xbox/redneck.map         3528
+      dosbox/resources/mapperfiles/xbox/redneck2.map         3528
+      dosbox/resources/mapperfiles/xbox/reloaded.map         3551
+      dosbox/resources/mapperfiles/xbox/rg97.map           3485
+      dosbox/resources/mapperfiles/xbox/rise.map           3529
+      dosbox/resources/mapperfiles/xbox/rise2.map          3601
+      dosbox/resources/mapperfiles/xbox/rott.map           3674
+      dosbox/resources/mapperfiles/xbox/scorchdp.map         3483
+      dosbox/resources/mapperfiles/xbox/screamr.map         3493
+      dosbox/resources/mapperfiles/xbox/screamr2.map         3491
+      dosbox/resources/mapperfiles/xbox/sf2.map            3459
+      dosbox/resources/mapperfiles/xbox/shadoww.map         3547
+      dosbox/resources/mapperfiles/xbox/shells.map         3539
+      dosbox/resources/mapperfiles/xbox/simparc.map         3414
+      dosbox/resources/mapperfiles/xbox/simpbvs.map         3421
+      dosbox/resources/mapperfiles/xbox/skynet.map         3516
+      dosbox/resources/mapperfiles/xbox/spacer.map         3496
+      dosbox/resources/mapperfiles/xbox/spearod.map         3540
+      dosbox/resources/mapperfiles/xbox/speedbl2.map         3402
+      dosbox/resources/mapperfiles/xbox/spidey.map         3636
+      dosbox/resources/mapperfiles/xbox/srally.map         3490
+      dosbox/resources/mapperfiles/xbox/ssf2t.map          3613
+      dosbox/resources/mapperfiles/xbox/stargunr.map         3468
+      dosbox/resources/mapperfiles/xbox/streetr.map         3635
+      dosbox/resources/mapperfiles/xbox/strife.map         3602
+      dosbox/resources/mapperfiles/xbox/superc.map         3436
+      dosbox/resources/mapperfiles/xbox/swdf.map           3598
+      dosbox/resources/mapperfiles/xbox/swiv3d.map         3495
+      dosbox/resources/mapperfiles/xbox/tbraider.map         3518
+      dosbox/resources/mapperfiles/xbox/term2.map          3402
+      dosbox/resources/mapperfiles/xbox/termfs.map         3516
+      dosbox/resources/mapperfiles/xbox/timec.map          3477
+      dosbox/resources/mapperfiles/xbox/timegate.map         3470
+      dosbox/resources/mapperfiles/xbox/timewar.map         3527
+      dosbox/resources/mapperfiles/xbox/tmnt.map           3551
+      dosbox/resources/mapperfiles/xbox/tmntarc.map         3435
+      dosbox/resources/mapperfiles/xbox/tmntman.map         3415
+      dosbox/resources/mapperfiles/xbox/trackatk.map         3493
+      dosbox/resources/mapperfiles/xbox/turric2.map         3443
+      dosbox/resources/mapperfiles/xbox/tvcd.map           3556
+      dosbox/resources/mapperfiles/xbox/tyrian.map         3449
+      dosbox/resources/mapperfiles/xbox/wacky.map          3488
+      dosbox/resources/mapperfiles/xbox/warriors.map         3419
+      dosbox/resources/mapperfiles/xbox/wcrew.map          3559
+      dosbox/resources/mapperfiles/xbox/whaven.map         3584
+      dosbox/resources/mapperfiles/xbox/whaven2.map         3584
+      dosbox/resources/mapperfiles/xbox/wilds.map          3458
+      dosbox/resources/mapperfiles/xbox/wipeout.map         3487
+      dosbox/resources/mapperfiles/xbox/wolf3d.map         3540
+      dosbox/resources/mapperfiles/xbox/wrallyf.map         3414
+      dosbox/resources/mapperfiles/xbox/wwfarc.map         3572
+      dosbox/resources/mapperfiles/xbox/wwfiyh.map         3572
+      dosbox/resources/mapperfiles/xbox/xenon2.map         3402
+      dosbox/resources/mapperfiles/xbox/xmcota.map         3705
+      dosbox/resources/mapping-freedos.org/cp_30000.txt         6160
+      dosbox/resources/mapping-freedos.org/cp_30006.txt         8201
+      dosbox/resources/mapping-freedos.org/cp_30034.txt         4866
+      dosbox/resources/mapping-unicode.org/cp_1250.txt         9804
+      dosbox/resources/mapping-unicode.org/cp_1251.txt         9479
+      dosbox/resources/mapping-unicode.org/cp_1252.txt         9629
+      dosbox/resources/mapping-unicode.org/cp_1253.txt         9212
+      dosbox/resources/mapping-unicode.org/cp_1254.txt         9620
+      dosbox/resources/mapping-unicode.org/cp_1255.txt         8578
+      dosbox/resources/mapping-unicode.org/cp_1256.txt         8931
+      dosbox/resources/mapping-unicode.org/cp_1257.txt         9492
+      dosbox/resources/mapping-unicode.org/cp_1258.txt         9482
+      dosbox/resources/mapping-unicode.org/cp_437.txt        10067
+      dosbox/resources/mapping-unicode.org/cp_737.txt        10100
+      dosbox/resources/mapping-unicode.org/cp_775.txt        10040
+      dosbox/resources/mapping-unicode.org/cp_850.txt         9913
+      dosbox/resources/mapping-unicode.org/cp_852.txt        10212
+      dosbox/resources/mapping-unicode.org/cp_855.txt         9836
+      dosbox/resources/mapping-unicode.org/cp_856.txt         9584
+      dosbox/resources/mapping-unicode.org/cp_857.txt         9891
+      dosbox/resources/mapping-unicode.org/cp_860.txt        10119
+      dosbox/resources/mapping-unicode.org/cp_861.txt        10100
+      dosbox/resources/mapping-unicode.org/cp_862.txt         9670
+      dosbox/resources/mapping-unicode.org/cp_863.txt         9967
+      dosbox/resources/mapping-unicode.org/cp_864.txt         9834
+      dosbox/resources/mapping-unicode.org/cp_865.txt        10086
+      dosbox/resources/mapping-unicode.org/cp_866.txt        10039
+      dosbox/resources/mapping-unicode.org/cp_869.txt         9592
+      dosbox/resources/mapping-unicode.org/cp_874.txt         8713
+      dosbox/resources/mapping-unicode.org/license.txt         2361
+      dosbox/resources/mapping-wikipedia.org/cp_1117.txt         6243
+      dosbox/resources/mapping-wikipedia.org/cp_1169.txt         5767
+      dosbox/resources/mapping-wikipedia.org/cp_1270.txt         5730
+      dosbox/resources/mapping-wikipedia.org/cp_20866.txt         5894
+      dosbox/resources/mapping-wikipedia.org/cp_28591.txt         5030
+      dosbox/resources/mapping-wikipedia.org/cp_28592.txt         5302
+      dosbox/resources/mapping-wikipedia.org/cp_28593.txt         5099
+      dosbox/resources/mapping-wikipedia.org/cp_28594.txt         5278
+      dosbox/resources/mapping-wikipedia.org/cp_28595.txt         4912
+      dosbox/resources/mapping-wikipedia.org/cp_28596.txt         3451
+      dosbox/resources/mapping-wikipedia.org/cp_28597.txt         4799
+      dosbox/resources/mapping-wikipedia.org/cp_28598.txt         2933
+      dosbox/resources/mapping-wikipedia.org/cp_28600.txt         5431
+      dosbox/resources/mapping-wikipedia.org/cp_28601.txt         4359
+      dosbox/resources/mapping-wikipedia.org/cp_28603.txt         5171
+      dosbox/resources/mapping-wikipedia.org/cp_28604.txt         5552
+      dosbox/resources/mapping-wikipedia.org/cp_28606.txt         5457
+      dosbox/resources/mapping-wikipedia.org/cp_3021.txt         5282
+      dosbox/resources/mapping-wikipedia.org/cp_3848.txt         3155
+      dosbox/resources/mapping-wikipedia.org/cp_708.txt         5215
+      dosbox/resources/mapping-wikipedia.org/cp_720.txt         5318
+      dosbox/resources/mapping-wikipedia.org/cp_773.txt         6256
+      dosbox/resources/mapping-wikipedia.org/cp_776.txt         8644
+      dosbox/resources/mapping-wikipedia.org/cp_777.txt         8658
+      dosbox/resources/mapping-wikipedia.org/cp_778.txt         8697
+      dosbox/resources/mapping-wikipedia.org/cp_851.txt         5726
+      dosbox/resources/mapping-wikipedia.org/cp_853.txt         5801
+      dosbox/resources/mapping-wikipedia.org/cp_899.txt         5933
+      dosbox/resources/mapping/ascii.txt                  91408
+      dosbox/resources/mapping/capital_small.txt          30750
+      dosbox/resources/mapping/decomposition.txt          40670
+      dosbox/resources/mapping/main.txt                  148682
+      dosbox/resources/translations/br.lng               167921
+      dosbox/resources/translations/de.lng               170007
+      dosbox/resources/translations/en.lng               151536
+      dosbox/resources/translations/es.lng               168043
+      dosbox/resources/translations/fr.lng                91141
+      dosbox/resources/translations/it.lng               186925
+      dosbox/resources/translations/nl.lng               171615
+      dosbox/resources/translations/normalize.bat           667
+      dosbox/resources/translations/pl.lng               170483
+      dosbox/resources/translations/readme.md              4744
+      dosbox/resources/translations/ru.lng               155629
+      dosbox/resources/translations/tools/readme.txt          276
+      dosbox/sdl2.dll                                   1671168
+      dosbox/sdl2_net.dll                                 21504
+      dosbox/slirp-0.dll                                 124928
+      dosbox/stderr.txt                                    8808
+      dosbox/stdout.txt                                       0
+      dosbox/unins000.dat                                103989
+      dosbox/unins000.exe                               3743569
+      dosbox/vccorlib140.dll                             351824
+      dosbox/vcruntime140.dll                            120400
+      dosbox/vcruntime140_1.dll                           49776
+      dosbox/vcruntime140_threads.dll                     38480
+      dosbox/zlib-ng2.dll                                134144
+      dosbox/zlib1.dll                                    90624
+      dosbox/zmbv.dll                                    130048
+      dosboxteenagent.conf                               101077
+      dosboxteenagent_settings.conf                          91
+      dosboxteenagent_single.conf                           123
+      gog.ico                                             69248
+      goggame-1207658753.hashdb                             698
+      goggame-1207658753.ico                             116640
+      goggame-1207658753.info                              1436
+      goggame-1207658753.script                             512
+      goggame-galaxyfilelist.ini                          20767
+      goglog.ini                                            608
+      launch teenagent.lnk                                 1079
+      mapperps.map                                         3695
+      mapperxbox.map                                       3668
+      set_config/config_options.ini                        3349
+      set_config/game configurator.exe                 38115928
+      set_config/stderr.txt                                6239
+      set_config/stdout.txt                                   0
+      support.ico                                         62895
+      teenagent_manual.txt                                 1684
+      unins000.dat                                      1326737
+      unins000.exe                                      1343048
+      unins000.ini                                           41
+      unins000.msg                                        23147
+
+declared bytes on disk : 15401079
+
+verifying the 32-hex field as MD5 against the files on disk:
+   MD5 matches   : 17 of 17
+   MD5 mismatches: 0

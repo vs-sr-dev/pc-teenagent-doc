@@ -1,0 +1,59 @@
+manifest                  : goggame-galaxyFileList.ini
+sections                   : 2
+   [1207658753    ] files_counter=426     Fn= entries 426
+   [ISI           ] files_counter=1       Fn= entries 1
+files_counter, summed      : 427
+entries parsed             : 427
+  absolute (outside object): 10
+  relative                 : 417
+  distinct relative        : 417
+
+on disk, files             : 433   93184691 bytes
+on disk, directories       : 34
+
+declared and present       : 414   52101267 bytes
+declared, and is a DIRECTORY: 1
+declared and truly ABSENT  : 2
+present and NOT declared   : 19   41083424 bytes
+
+check: 414 + 19 = 433 files on disk  -> OK
+check: 52101267 + 41083424 = 93184691 bytes on disk  -> OK
+
+-- declared entries that are directories on disk --
+   Cloud_Saves                                     0 files below it, 0 bytes
+
+-- declared and truly absent --
+   __redist\ISI\scriptinterpreter.exe
+   f300fd7970c5c9334ae7241e7fdcee85
+
+-- present and not declared, by size --
+       38115928  set_config/Game Configurator.exe
+        1343048  unins000.exe
+        1326737  unins000.dat
+         101077  dosboxTeenagent.conf
+          69248  gog.ico
+          62895  support.ico
+          23147  unins000.msg
+          20767  goggame-galaxyFileList.ini
+           6239  set_config/stderr.txt
+           3695  mapperPS.map
+           3668  mapperXbox.map
+           3349  set_config/config_options.ini
+           1684  teenagent_manual.txt
+           1079  Launch Teenagent.lnk
+            608  goglog.ini
+            123  dosboxTeenagent_single.conf
+             91  dosboxTeenagent_settings.conf
+             41  unins000.ini
+              0  set_config/stdout.txt
+       41083424  TOTAL
+
+-- branches, counted --
+   set_config        4       38125516   40.9139 %
+   DOSBOX          393       36580902   39.2563 %
+   (root)           36       18478273   19.8297 %
+   __support         0              0    0.0000 %
+   cloud_saves       0              0    0.0000 %
+   dosbox            0              0    0.0000 %
+   TOTAL           433       93184691  100.0000 %
+   residue against the walk: 0 bytes, 0 files

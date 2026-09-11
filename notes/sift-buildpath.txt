@@ -1,0 +1,18 @@
+root                : Teenagent
+blobs searched      : 433   (433 of 433 -- nothing was filtered out)
+bytes searched      : 93184691
+chance rate in this haystack, per needle width:
+    2 bytes     1421.885544 expected occurrences
+    4 bytes        0.021696 expected occurrences
+    6 bytes        0.000000 expected occurrences
+    8 bytes        0.000000 expected occurrences
+
+pattern                                hits    blobs
+------------------------------------------------------
+drive-letter path                       336       46
+unix build path                         831       14
+CONTROL must-hit 'rrrzrrrr' (derived from the population)       69        1
+CONTROL must-miss 'zzqxjvwk'              0        0
+------------------------------------------------------
+positive control fired : YES (69 hits)
+negative control quiet : YES

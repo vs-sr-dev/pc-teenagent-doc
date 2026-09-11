@@ -1,0 +1,34 @@
+  1B10  26             es:
+  1B11  8b 0f          mov    cx, [bx]
+  1B13  26             es:
+  1B14  8b 57 02       mov    dx, [bx+2]
+  1B17  26             es:
+  1B18  8b 77 04       mov    si, [bx+4]
+  1B1B  8b f9          mov    di, cx
+  1B1D  83 c3 06       add    bx, 6h
+  1B20  1e             push   ds
+  1B21  8e d8          mov    ds, ax
+  1B23  8b cf          mov    cx, di
+  1B25  26             es:
+  1B26  8a 07          mov    al, [bx]
+  1B28  3c ff          cmp    al, 0FFh
+  1B2A  74 02          jz     1B2Eh
+  1B2C  88 04          mov    [si], al
+  1B2E  43             inc    bx
+  1B2F  46             inc    si
+  1B30  e2 f3          loop   1B25h
+  1B32  81 c6 40 01    add    si, 140h
+  1B36  2b f7          sub    si, di
+  1B38  4a             dec    dx
+  1B39  75 e8          jnz    1B23h
+  1B3B  1f             pop    ds
+  1B3C  c3             ret
+
+bytes in range        : 45
+bytes decoded         : 45
+instructions          : 25
+coverage              : 100.0000 %
+STOPPED               : no -- every byte in range decoded
+
+branch targets in range   : 3
+landing on a boundary     : 3 of 3

@@ -1,0 +1,24 @@
+=== Teenagent/TEENAGNT.EXE ===
+  file                       : 78426 bytes, MZ closes, e_crlc 0
+  stub segment               : 130Ah, file offset 78016, 410 bytes
+  entry code (29 bytes)      : LZEXE 0.91's -- MATCH
+  decoder (204 bytes)        : MATCH
+  relocator (92 bytes)       : MATCH
+  '*FAB*' at stub 0F7h       : present
+  marker at header 1Ch       : 0c 0a 09 01  (NO MARKER -- identified by the code alone)
+  stream                     : 77984 bytes = 130Ah paragraphs, header..stub
+  moved up by                : 123Fh paragraphs
+  real cs:ip                 : 0000:0000
+  real ss:sp                 : 19C4:0200
+  decoded image              : 152434 bytes (2538h paragraphs) from 77969 of 77984 stream bytes
+  literals / short / long / long-ext / normalise : 27170 / 9204 / 13275 / 1143 / 3
+  stream ended on END code   : True
+  relocations                : 39 from 66 list bytes, 0 0FFF0h skips
+  e_minalloc (reconstructed) : 79 paragraphs = packed 4707 + 4900 - 9528
+  output MZ                  : 152626 bytes, header 192, closes on its size: True
+  relocation targets         : 39 inside, 0 outside, 0 holding a segment above 2538h
+  entry 0000:0000 = 0       : inside the image
+  relocated segment values   : 0B52h x29, 19E4h x8, 1C79h x1, 2538h x1
+  written                    : _work/TEENAGNT.unp.exe
+
+lzexe.py: 1 of 1 inputs are LZEXE images

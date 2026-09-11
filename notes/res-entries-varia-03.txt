@@ -1,0 +1,99 @@
+=== Teenagent/VARIA.RES ===
+  bytes                    : 216683
+  members                  : 11
+  directory                : 4 + 4 x 12 = 52 bytes; first offset 52, last 216683 = file length, monotonic, residue 0
+  member sizes             : 768 .. 51851, sum 216631
+  kinds                    : font 2, other 2, overlay 3, palette 1, sprite 1, text-mode 2
+  n 92, first offset 185 (1 + 2n = 185), 45567 bytes
+    0 at    185   32 x  16 at (  4,  5)  ends    703
+    1 at    703   34 x  20 at (  4,  3)  ends   1389
+    2 at   1389   29 x  16 at (  6,  5)  ends   1859
+    3 at   1859   33 x  20 at (  4,  3)  ends   2525
+    4 at   2525   23 x  22 at (  9,  2)  ends   3037
+    5 at   3037   27 x   5 at (  7, 11)  ends   3178
+    6 at   3178  SEQUENCE of 16 steps over 6 sprites: 16x20 16x20 16x20 16x20 15x20 15x20 ...
+    7 at   5087   28 x  17 at (  6,  4)  ends   5569
+    8 at   5569   34 x  22 at (  3,  2)  ends   6323
+    9 at   6323   30 x  16 at (  4,  5)  ends   6809
+   10 at   6809   25 x  17 at (  6,  4)  ends   7240
+   11 at   7240   28 x  14 at (  5,  5)  ends   7638
+   12 at   7638   27 x  17 at (  6,  5)  ends   8103
+   13 at   8103  SEQUENCE of 40 steps over 3 sprites: 27x17 27x17 27x17 27x17 27x17 27x17 ...
+   14 at   9579   33 x  20 at (  3,  3)  ends  10245
+   15 at  10245   17 x  19 at ( 11,  3)  ends  10574
+   16 at  10574   30 x  14 at (  4,  6)  ends  11000
+   17 at  11000   32 x  15 at (  3,  6)  ends  11486
+   18 at  11486   23 x  14 at (  8,  6)  ends  11814
+   19 at  11814   21 x  14 at (  8,  6)  ends  12114
+   20 at  12114   34 x  20 at (  2,  3)  ends  12800
+   21 at  12800   24 x  13 at (  7,  6)  ends  13118
+   22 at  13118   26 x  15 at (  7,  5)  ends  13514
+   23 at  13514   34 x  21 at (  3,  3)  ends  14234
+   24 at  14234   33 x  20 at (  4,  3)  ends  14900
+   25 at  14900   21 x  13 at (  9,  7)  ends  15179
+   26 at  15179   20 x  20 at (  9,  3)  ends  15585
+   27 at  15585   19 x  18 at (  9,  4)  ends  15933
+   28 at  15933   28 x  18 at (  5,  4)  ends  16443
+   29 at  16443   17 x  16 at ( 10,  5)  ends  16721
+   30 at  16721   22 x  18 at (  9,  4)  ends  17123
+   31 at  17123   26 x  22 at (  6,  2)  ends  17701
+   32 at  17701   28 x  14 at (  6,  6)  ends  18099
+   33 at  18099   21 x  14 at (  8,  6)  ends  18399
+   34 at  18399   27 x  15 at (  6,  5)  ends  18810
+   35 at  18810   27 x  18 at (  6,  4)  ends  19302
+   36 at  19302   34 x  20 at (  3,  3)  ends  19988
+   37 at  19988   34 x  16 at (  3,  5)  ends  20538
+   38 at  20538   24 x  13 at (  8,  6)  ends  20856
+   39 at  20856   35 x  15 at (  2,  5)  ends  21387
+   40 at  21387   35 x  21 at (  2,  3)  ends  22128
+   41 at  22128   24 x  20 at (  7,  3)  ends  22614
+   42 at  22614   34 x  18 at (  3,  4)  ends  23232
+   43 at  23232   26 x  15 at (  6,  5)  ends  23628
+   44 at  23628   24 x  13 at (  7,  6)  ends  23946
+   45 at  23946   26 x  15 at (  6,  5)  ends  24342
+   46 at  24342   35 x  17 at (  2,  4)  ends  24943
+   47 at  24943  SEQUENCE of 21 steps over 5 sprites: 18x13 18x13 18x13 18x13 18x13 22x11 ...
+   48 at  26164   18 x  12 at ( 10,  7)  ends  26386
+   49 at  26386  SEQUENCE of 22 steps over 5 sprites: 12x10 12x10 12x10 12x10 12x10 12x10 ...
+   50 at  27061   31 x  15 at (  4,  5)  ends  27532
+   51 at  27532   27 x  19 at (  7,  3)  ends  28051
+   52 at  28051   21 x  15 at ( 10,  5)  ends  28372
+   53 at  28372   23 x  16 at (  9,  5)  ends  28746
+   54 at  28746   29 x  11 at (  6,  7)  ends  29071
+   55 at  29071   19 x  18 at ( 11,  4)  ends  29419
+   56 at  29419   22 x  20 at ( 10,  3)  ends  29865
+   57 at  29865   29 x  15 at (  4,  5)  ends  30306
+   58 at  30306   18 x  16 at ( 11,  4)  ends  30600
+   59 at  30600   19 x  18 at ( 11,  4)  ends  30948
+   60 at  30948   31 x  13 at (  5,  7)  ends  31357
+   61 at  31357   11 x  20 at ( 15,  3)  ends  31583
+   62 at  31583   32 x  13 at (  4,  6)  ends  32005
+   63 at  32005   19 x  18 at ( 11,  4)  ends  32353
+   64 at  32353   25 x  13 at (  7,  6)  ends  32684
+   65 at  32684   24 x  11 at (  8,  7)  ends  32954
+   66 at  32954   27 x  19 at (  7,  3)  ends  33473
+   67 at  33473  SEQUENCE of 4 steps over 4 sprites: 29x19 29x19 29x20 29x20
+   68 at  35768   28 x  16 at (  6,  5)  ends  36222
+   69 at  36222   28 x  13 at (  7,  6)  ends  36592
+   70 at  36592   18 x  18 at ( 12,  4)  ends  36922
+   71 at  36922   22 x  19 at (  9,  4)  ends  37346
+   72 at  37346   22 x  18 at (  9,  4)  ends  37748
+   73 at  37748   11 x  20 at ( 15,  3)  ends  37974
+   74 at  37974   30 x  10 at (  7,  8)  ends  38280
+   75 at  38280   20 x  19 at ( 11,  4)  ends  38666
+   76 at  38666   21 x  15 at ( 10,  5)  ends  38987
+   77 at  38987   24 x  13 at (  9,  6)  ends  39305
+   78 at  39305   28 x  19 at (  7,  4)  ends  39843
+   79 at  39843   26 x  17 at (  8,  5)  ends  40291
+   80 at  40291   28 x  17 at (  6,  4)  ends  40773
+   81 at  40773   29 x  16 at (  6,  5)  ends  41243
+   82 at  41243   32 x  17 at (  5,  5)  ends  41793
+   83 at  41793   25 x  14 at (  6,  6)  ends  42149
+   84 at  42149   17 x  15 at ( 13,  6)  ends  42410
+   85 at  42410   17 x  15 at ( 13,  6)  ends  42671
+   86 at  42671   24 x   7 at (  8, 10)  ends  42845
+   87 at  42845   24 x  11 at (  8, 10)  ends  43115
+   88 at  43115   32 x  15 at (  4,  7)  ends  43601
+   89 at  43601   24 x  13 at (  9,  7)  ends  43919
+   90 at  43919   24 x   7 at (  8, 10)  ends  44093
+   91 at  44093  SEQUENCE of 32 steps over 4 sprites: 15x19 15x19 15x19 20x17 25x19 20x17 ...

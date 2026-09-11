@@ -1,0 +1,133 @@
+root                : Teenagent
+blobs searched      : 433   (433 of 433 -- nothing was filtered out)
+bytes searched      : 93184691
+chance rate in this haystack, per needle width:
+    2 bytes     1421.885544 expected occurrences
+    4 bytes        0.021696 expected occurrences
+    6 bytes        0.000000 expected occurrences
+    8 bytes        0.000000 expected occurrences
+
+pattern                                hits    blobs
+------------------------------------------------------
+e-mail shape                             95       84
+P.O. Box                                  0        0
+telephone shape                           0        0
+Documents and Settings                    0        0
+home dir                                  3        2
+/home/                                    4        1
+Copyright <name>                          0        0
+street address shape                     21       17
+postal code and town                    225       70
+CONTROL must-hit 'rrrzrrrr' (derived from the population)       69        1
+CONTROL must-miss 'zzqxjvwk'              0        0
+------------------------------------------------------
+positive control fired : YES (69 hits)
+negative control quiet : YES
+
+=== e-mail shape ===
+    DOSBOX/dosbox.exe                                    x1     b'dosbox.crew@gmail.com'
+    DOSBOX/dosbox_with_debugger.exe                      x1     b'dosbox.crew@gmail.com'
+    DOSBOX/zmbv.dll                                      x1     b'dosbox.crew@gmail.com'
+    DOSBOX/resources/freedos-cpi/EGA.CPI                 x1     b'kostis@acm.org'
+    DOSBOX/resources/freedos-cpi/EGA10.CPI               x1     b'kostis@acm.org'
+    DOSBOX/resources/freedos-cpi/EGA11.CPI               x1     b'kostis@acm.org'
+    DOSBOX/resources/freedos-cpi/EGA12.CPI               x1     b'kostis@acm.org'
+    DOSBOX/resources/freedos-cpi/EGA13.CPI               x1     b'kostis@acm.org'
+    DOSBOX/resources/freedos-cpi/EGA14.CPI               x1     b'kostis@acm.org'
+    DOSBOX/resources/freedos-cpi/EGA15.CPI               x1     b'kostis@acm.org'
+    DOSBOX/resources/freedos-cpi/EGA16.CPI               x1     b'kostis@acm.org'
+    DOSBOX/resources/freedos-cpi/EGA17.CPI               x1     b'kostis@acm.org'
+    DOSBOX/resources/freedos-cpi/EGA18.CPI               x1     b'kostis@acm.org'
+    DOSBOX/resources/freedos-cpi/EGA2.CPI                x1     b'kostis@acm.org'
+    DOSBOX/resources/freedos-cpi/EGA3.CPI                x1     b'kostis@acm.org'
+    DOSBOX/resources/freedos-cpi/EGA4.CPI                x1     b'kostis@acm.org'
+    DOSBOX/resources/freedos-cpi/EGA5.CPI                x1     b'kostis@acm.org'
+    DOSBOX/resources/freedos-cpi/EGA6.CPI                x1     b'kostis@acm.org'
+    DOSBOX/resources/freedos-cpi/EGA7.CPI                x1     b'kostis@acm.org'
+    DOSBOX/resources/freedos-cpi/EGA8.CPI                x1     b'kostis@acm.org'
+    DOSBOX/resources/freedos-cpi/EGA9.CPI                x1     b'kostis@acm.org'
+    DOSBOX/resources/freedos-cpi/APPINFO/CPIDOS.LSM      x2     b'hperon@terra.com.br | hperon@terra.com.br'
+    DOSBOX/resources/freedos-cpi/DOC/README.TXT          x4     b'hperon@terra.com.br | hperon@terra.com.br | aitorsm@inicia.es'
+    DOSBOX/resources/freedos-keyboard/APPINFO/KEYB_LAY.LSM x1     b'hperon@terra.com.br'
+    DOSBOX/resources/freedos-keyboard/DOC/JP106.TXT      x1     b'kabe@sra-tohoku.co.jp'
+    DOSBOX/resources/freedos-keyboard/DOC/README.TXT     x2     b'hperon@terra.com.br | hperon@terra.com.br'
+    DOSBOX/resources/glshaders/crt/arcade-1080p.glsl     x1     b'sergiogdb@gmail.com'
+    DOSBOX/resources/glshaders/crt/arcade-1440p.glsl     x1     b'sergiogdb@gmail.com'
+    DOSBOX/resources/glshaders/crt/arcade-4k.glsl        x1     b'sergiogdb@gmail.com'
+    DOSBOX/resources/glshaders/crt/arcade-sharp-1080p.glsl x1     b'sergiogdb@gmail.com'
+    DOSBOX/resources/glshaders/crt/arcade-sharp-1440p.glsl x1     b'sergiogdb@gmail.com'
+    DOSBOX/resources/glshaders/crt/arcade-sharp-4k.glsl  x1     b'sergiogdb@gmail.com'
+    DOSBOX/resources/glshaders/crt/cga-1080p.glsl        x1     b'sergiogdb@gmail.com'
+    DOSBOX/resources/glshaders/crt/cga-1440p.glsl        x1     b'sergiogdb@gmail.com'
+    DOSBOX/resources/glshaders/crt/cga-4k.glsl           x1     b'sergiogdb@gmail.com'
+    DOSBOX/resources/glshaders/crt/cga-720p.glsl         x1     b'sergiogdb@gmail.com'
+    DOSBOX/resources/glshaders/crt/composite-1080p.glsl  x1     b'sergiogdb@gmail.com'
+    DOSBOX/resources/glshaders/crt/composite-1440p.glsl  x1     b'sergiogdb@gmail.com'
+    DOSBOX/resources/glshaders/crt/composite-4k.glsl     x1     b'sergiogdb@gmail.com'
+    DOSBOX/resources/glshaders/crt/ega-1080p.glsl        x1     b'sergiogdb@gmail.com'
+    ... and 44 more blobs
+=== home dir ===
+    DOSBOX/doc/manual.txt                                x2     b'Users | Users'
+    set_config/stderr.txt                                x1     b'Users'
+=== /home/ ===
+    DOSBOX/doc/manual.txt                                x4     b'/home/u | /home/u | /home/u'
+=== street address shape ===
+    DOSBOX/doc/vc_redist.txt                             x1     b'via Windows 10'
+    DOSBOX/doc/licenses/GPL-2.0.txt                      x2     b'59 Temple Place | 59 Temple Place'
+    DOSBOX/doc/licenses/LGPL-2.1.txt                     x2     b'59 Temple Place | 59 Temple Place'
+    DOSBOX/resources/freedos-cpi/LICENSE/LICENSE         x2     b'51 Franklin Street | 51 Franklin Street'
+    DOSBOX/resources/freedos-keyboard/LICENSE/LICENSE    x2     b'51 Franklin Street | 51 Franklin Street'
+    DOSBOX/resources/glshaders/crt/vga-1080p-fake-double-scan.glsl x1     b'51 Franklin Street'
+    DOSBOX/resources/glshaders/crt/vga-1080p.glsl        x1     b'51 Franklin Street'
+    DOSBOX/resources/glshaders/interpolation/bilinear.glsl x1     b'51 Franklin Street'
+    DOSBOX/resources/glshaders/interpolation/catmull-rom.glsl x1     b'51 Franklin Street'
+    DOSBOX/resources/glshaders/interpolation/nearest.glsl x1     b'51 Franklin Street'
+    DOSBOX/resources/glshaders/interpolation/sharp.glsl  x1     b'51 Franklin Street'
+    DOSBOX/resources/glshaders/misc/fixvideo-scanlines.glsl x1     b'51 Franklin Street'
+    DOSBOX/resources/glshaders/misc/fixvideo.glsl        x1     b'51 Franklin Street'
+    DOSBOX/resources/glshaders/scaler/advinterp2x.glsl   x1     b'51 Franklin Street'
+    DOSBOX/resources/glshaders/scaler/advinterp3x.glsl   x1     b'51 Franklin Street'
+    DOSBOX/resources/glshaders/scaler/advmame2x.glsl     x1     b'51 Franklin Street'
+    DOSBOX/resources/glshaders/scaler/advmame3x.glsl     x1     b'51 Franklin Street'
+=== postal code and town ===
+    unins000.exe                                         x1     b'2008 Pierre'
+    DOSBOX/SDL2.dll                                      x1     b'8866 Super'
+    DOSBOX/dosbox.exe                                    x2     b'2024  The | 5000 SOCK'
+    DOSBOX/dosbox_with_debugger.exe                      x2     b'2024  The | 5000 SOCK'
+    DOSBOX/libpng16.dll                                  x4     b'2024 Cosmin | 2018 Glenn | 1997 Andreas'
+    DOSBOX/stderr.txt                                    x1     b'4096 DOS'
+    DOSBOX/unins000.exe                                  x1     b'2022 Mark'
+    DOSBOX/zlib-ng2.dll                                  x2     b'2022 Jean | 2022 Mark'
+    DOSBOX/zlib1.dll                                     x2     b'2024 Jean | 2024 Mark'
+    DOSBOX/doc/vc_redist.txt                             x1     b'2015 EXTENSIONS'
+    DOSBOX/doc/licenses/DEBUG.COM.txt                    x1     b'2003  Paul'
+    DOSBOX/doc/licenses/GPL-2.0.txt                      x3     b'1991 Free | 1307  USA | 1307  USA'
+    DOSBOX/doc/licenses/LGPL-2.1.txt                     x3     b'1999 Free | 1307  USA | 1307  USA'
+    DOSBOX/resources/freedos-cpi/DOC/README.TXT          x2     b'60000 RANGE | 30000 RANGE'
+    DOSBOX/resources/freedos-cpi/LICENSE/LICENSE         x4     b'1991 Free | 1301 USA | 2020  FDOS'
+    DOSBOX/resources/freedos-keyboard/APPINFO/KEYB_LAY.LSM x1     b'2021 Czech'
+    DOSBOX/resources/freedos-keyboard/DOC/LAYOUTS.TXT    x92    b'30003                      EGA | 30007                      EGA | 3848          '
+    DOSBOX/resources/freedos-keyboard/LICENSE/LICENSE    x4     b'1991 Free | 1301 USA | 2020  FDOS'
+    DOSBOX/resources/glshaders/crt/arcade-1080p.glsl     x2     b'2024  The | 2020 Hyllian'
+    DOSBOX/resources/glshaders/crt/arcade-1440p.glsl     x2     b'2024  The | 2020 Hyllian'
+    DOSBOX/resources/glshaders/crt/arcade-4k.glsl        x2     b'2024  The | 2020 Hyllian'
+    DOSBOX/resources/glshaders/crt/arcade-sharp-1080p.glsl x2     b'2024  The | 2020 Hyllian'
+    DOSBOX/resources/glshaders/crt/arcade-sharp-1440p.glsl x2     b'2024  The | 2020 Hyllian'
+    DOSBOX/resources/glshaders/crt/arcade-sharp-4k.glsl  x2     b'2024  The | 2020 Hyllian'
+    DOSBOX/resources/glshaders/crt/cga-1080p.glsl        x2     b'2024  The | 2020 Hyllian'
+    DOSBOX/resources/glshaders/crt/cga-1440p.glsl        x2     b'2024  The | 2020 Hyllian'
+    DOSBOX/resources/glshaders/crt/cga-4k.glsl           x2     b'2024  The | 2020 Hyllian'
+    DOSBOX/resources/glshaders/crt/cga-720p.glsl         x2     b'2024  The | 2020 Hyllian'
+    DOSBOX/resources/glshaders/crt/composite-1080p.glsl  x2     b'2024  The | 2020 Hyllian'
+    DOSBOX/resources/glshaders/crt/composite-1440p.glsl  x2     b'2024  The | 2020 Hyllian'
+    DOSBOX/resources/glshaders/crt/composite-4k.glsl     x2     b'2024  The | 2020 Hyllian'
+    DOSBOX/resources/glshaders/crt/ega-1080p.glsl        x2     b'2024  The | 2020 Hyllian'
+    DOSBOX/resources/glshaders/crt/ega-1440p.glsl        x2     b'2024  The | 2020 Hyllian'
+    DOSBOX/resources/glshaders/crt/ega-4k.glsl           x2     b'2024  The | 2020 Hyllian'
+    DOSBOX/resources/glshaders/crt/ega-720p.glsl         x2     b'2024  The | 2020 Hyllian'
+    DOSBOX/resources/glshaders/crt/hercules.glsl         x2     b'2024  The | 2020 Hyllian'
+    DOSBOX/resources/glshaders/crt/monochrome-hires.glsl x2     b'2024  The | 2020 Hyllian'
+    DOSBOX/resources/glshaders/crt/monochrome-lowres.glsl x2     b'2024  The | 2020 Hyllian'
+    DOSBOX/resources/glshaders/crt/vga-1080p-fake-double-scan.glsl x1     b'2024  The'
+    DOSBOX/resources/glshaders/crt/vga-1080p.glsl        x1     b'2024  The'
+    ... and 30 more blobs

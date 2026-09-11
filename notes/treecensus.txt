@@ -1,0 +1,45 @@
+root            : Teenagent
+files           : 433
+directories     : 34
+bytes           : 93184691
+
+year of the directory record:
+  year    files          bytes
+  2017        1          69248
+  2019        1          62895
+  2026      431       93052548
+
+extensions:
+  ext         files          bytes
+  .map          188         658975
+  .txt           99        1047923
+  .glsl          37         677646
+  .dll           27        8423360
+  .cpi           18        1030500
+  .res           12       15309492
+  .lng            9        1433300
+  .exe            8       54353953
+  .ico            4         536717
+  .conf           4         102046
+  .sys            4         115395
+  .ini            4          24765
+  .bat            2            726
+  .com            2          25663
+  .lsm            2           1120
+  (none)          2          36756
+  .dat            2        1430726
+  .zip            1        7935899
+  .md             1           4744
+  .jpg            1           8108
+  .lnk            1           1079
+  .set            1              5
+  .hashdb         1            698
+  .info           1           1436
+  .script         1            512
+  .msg            1          23147
+
+top-level entries:
+  name            files          bytes     pct
+  set_config          4       38125516  40.91%
+  DOSBOX            393       36580902  39.26%
+  (root)             36       18478273  19.83%

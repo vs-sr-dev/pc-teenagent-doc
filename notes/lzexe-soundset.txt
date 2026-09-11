@@ -1,0 +1,24 @@
+=== Teenagent/SOUNDSET.EXE ===
+  file                       : 4227 bytes, MZ closes, e_crlc 0
+  stub segment               : 00F0h, file offset 3872, 355 bytes
+  entry code (29 bytes)      : LZEXE 0.91's -- MATCH
+  decoder (204 bytes)        : MATCH
+  relocator (92 bytes)       : MATCH
+  '*FAB*' at stub 0F7h       : present
+  marker at header 1Ch       : 0c 0a 09 01  (NO MARKER -- identified by the code alone)
+  stream                     : 3840 bytes = 00F0h paragraphs, header..stub
+  moved up by                : 008Ch paragraphs
+  real cs:ip                 : 0000:0000
+  real ss:sp                 : 016A:0100
+  decoded image              : 5785 bytes (016Ah paragraphs) from 3839 of 3840 stream bytes
+  literals / short / long / long-ext / normalise : 2055 / 572 / 207 / 61 / 0
+  stream ended on END code   : True
+  relocations                : 4 from 11 list bytes, 0 0FFF0h skips
+  e_minalloc (reconstructed) : 90 paragraphs = packed 189 + 263 - 362
+  output MZ                  : 5833 bytes, header 48, closes on its size: True
+  relocation targets         : 4 inside, 0 outside, 0 holding a segment above 016Ah
+  entry 0000:0000 = 0       : inside the image
+  relocated segment values   : 00A5h x4
+  written                    : _work/SOUNDSET.unp.exe
+
+lzexe.py: 1 of 1 inputs are LZEXE images

@@ -1,0 +1,49 @@
+=== Teenagent/VARIA.RES ===
+  bytes                    : 216683
+  members                  : 11
+  directory                : 4 + 4 x 12 = 52 bytes; first offset 52, last 216683 = file length, monotonic, residue 0
+  member sizes             : 768 .. 51851, sum 216631
+  kinds                    : other 7, overlay 2, palette 1, sprite 1
+  n 42, first offset 85 (1 + 2n = 85), 51851 bytes
+    0 at     85   23 x  62 at (  0,  0)  ends   1517
+    1 at   1517   21 x  62 at (  0,  0)  ends   2825
+    2 at   2825   37 x  62 at (  0,  0)  ends   5125
+    3 at   5125   49 x  61 at (  0,  1)  ends   8120
+    4 at   8120   43 x  61 at (  0,  1)  ends  10749
+    5 at  10749   23 x  62 at (  0,  0)  ends  12181
+    6 at  12181   29 x  62 at (  0,  0)  ends  13985
+    7 at  13985   45 x  61 at (  0,  1)  ends  16736
+    8 at  16736   47 x  61 at (  0,  1)  ends  19609
+    9 at  19609   45 x  61 at (  0,  1)  ends  22360
+   10 at  22360   27 x  62 at (  0,  0)  ends  24040
+   11 at  24040   23 x  62 at (  0,  0)  ends  25472
+   12 at  25472   23 x  62 at (  0,  0)  ends  26904
+   13 at  26904   23 x  62 at (  0,  0)  ends  28336
+   14 at  28336   27 x  62 at (  0,  0)  ends  30016
+   15 at  30016   25 x  62 at (  0,  0)  ends  31572
+   16 at  31572   29 x  62 at (  0,  0)  ends  33376
+   17 at  33376   27 x  62 at (  0,  0)  ends  35056
+   18 at  35056   25 x  62 at (  0,  0)  ends  36612
+   19 at  36612   27 x  62 at (  0,  0)  ends  38292
+   20 at  38292   27 x  62 at (  0,  0)  ends  39972
+   21 at  39972   25 x  62 at (  0,  0)  ends  41528
+   22 at  41528   29 x  62 at (  0,  0)  ends  43332
+   23 at  43332   29 x  62 at (  0,  0)  ends  45136
+   24 at  45136   25 x  62 at (  0,  0)  ends  46692
+   25 at  46692   25 x  62 at (  0,  0)  ends  48248
+   26 at  48248   23 x   9 at (  0,  0)  ends  48461
+   27 at  48461   23 x   9 at (  0,  0)  ends  48674
+   28 at  48674   23 x   9 at (  0,  0)  ends  48887
+   29 at  48887   23 x   9 at (  0,  0)  ends  49100
+   30 at  49100   23 x   9 at (  0,  0)  ends  49313
+   31 at  49313   23 x   9 at (  0,  0)  ends  49526
+   32 at  49526   27 x   9 at (  0,  0)  ends  49775
+   33 at  49775   27 x   9 at (  0,  0)  ends  50024
+   34 at  50024   27 x   9 at (  0,  0)  ends  50273
+   35 at  50273   27 x   9 at (  0,  0)  ends  50522
+   36 at  50522   27 x   9 at (  0,  0)  ends  50771
+   37 at  50771   25 x   8 at (  0,  0)  ends  50977
+   38 at  50977   25 x   8 at (  0,  0)  ends  51183
+   39 at  51183   23 x   9 at (  0,  0)  ends  51396
+   40 at  51396   27 x   9 at (  0,  0)  ends  51645
+   41 at  51645   25 x   8 at (  0,  0)  ends  51851

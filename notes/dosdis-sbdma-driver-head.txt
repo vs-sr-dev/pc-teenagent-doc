@@ -1,0 +1,26 @@
+  0000  80 fc 03       cmp    ah, 3h
+  0003  75 03          jnz    8h
+  0005  e9 ba 00       jmp    0C2h
+  0008  80 fc 01       cmp    ah, 1h
+  000B  74 42          jz     4Fh
+  000D  80 fc 02       cmp    ah, 2h
+  0010  75 03          jnz    15h
+  0012  e9 7f 00       jmp    94h
+  0015  80 fc 04       cmp    ah, 4h
+  0018  75 03          jnz    1Dh
+  001A  e9 a6 00       jmp    0C3h
+  001D  80 fc 05       cmp    ah, 5h
+  0020  75 03          jnz    25h
+  0022  e9 af 00       jmp    0D4h
+  0025  b8 03 00       mov    ax, 3h
+  0028  cd 10          int    10h
+  002A  ba 33 01       mov    dx, 133h
+  002D  b4 09          mov    ah, 9h
+  002F  cd 21          int    21h
+  0031  eb fe          jmp    31h
+
+bytes in range        : 51
+bytes decoded         : 51
+instructions          : 20
+coverage              : 100.0000 %
+STOPPED               : no -- every byte in range decoded

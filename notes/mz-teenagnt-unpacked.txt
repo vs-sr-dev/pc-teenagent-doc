@@ -1,0 +1,50 @@
+=== _work\TEENAGNT.unp.exe ===
+  file size on disc          : 152626
+  e_cblp                     : 50       0x32
+  e_cp                       : 299      0x12B
+  e_crlc                     : 39       0x27
+  e_cparhdr                  : 12       0xC
+  e_minalloc                 : 79       0x4F
+  e_maxalloc                 : 65535    0xFFFF
+  e_ss                       : 6596     0x19C4
+  e_sp                       : 512      0x200
+  e_csum                     : 0        0x0
+  e_ip                       : 0        0x0
+  e_cs                       : 0        0x0
+  e_lfarlc                   : 28       0x1C
+  e_ovno                     : 0        0x0
+  e_lfanew                   : 21037067 0x141000B
+
+  pages x 512 + last page    : (299 - 1) * 512 + 50 = 152626
+  against the file length    : 152626   residue +0 -- NOTHING IS APPENDED
+  header                     : 12 paragraphs = 192 bytes
+  load image                 : 152626 - 192 = 152434 bytes
+  entry point                : 0000:0000  (file offset 192)
+  initial stack              : 19C4:0200
+  extra paragraphs           : min 79 (1264 bytes), max 65535  (0xFFFF = take all available memory)
+
+  e_lfanew points at 0x141000B, where the signature is b''
+  occurrences of 'NE'   anywhere in the file: 8
+  occurrences of 'LE'   anywhere in the file: 5
+  occurrences of 'LX'   anywhere in the file: 1
+  occurrences of 'PE\x00\x00' anywhere in the file: 0
+
+  relocation table           : 39 entries at 0x1C, 156 bytes, ending 0xB8
+  header slack after table   : 8 bytes
+  entries landing inside the load image : 39 / 39
+  distinct relocation segments          : 39
+  header slack is all zero              : True
+  first 12 entries (segment:offset):
+     0000:0001
+     0001:0000
+     0002:0000
+     0005:000F
+     0007:0006
+     0012:0009
+     0020:0000
+     006A:0003
+     0141:000B
+     014A:0001
+     0150:0006
+     01D6:0009
+

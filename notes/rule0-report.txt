@@ -1,0 +1,13 @@
+shell calls seen by the hook : 153
+  allowed                    : 151
+  REFUSED as rule-0          : 2
+      inline program         1
+      in-place edit script   1
+
+the refusals, in order:
+  2026-09-11T21:14:53  inline program python -c "print('this must be refused by rule0hook')"
+  2026-09-11T21:29:23  in-place edit script S=<path> sed -i.bak 's/while pos < 0x165:/while pos < 0x162:/' $S/findrefs.py 2>/dev/null; python $S/findrefs.py
+
+A rule 0 violation that reaches the shell is a hook failure.
+A rule 0 violation that is REFUSED is the hook working, and the
+count of refusals is how many times the habit still fired.

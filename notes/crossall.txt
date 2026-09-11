@@ -1,0 +1,143 @@
+my distinct sha1            : 416
+  (identical files inside one object collapse into one key here;
+   the file count is the tree census's, not this tool's)
+empty-file sha1 among mine  : YES -- excluded
+collection root             : ..
+skipping                    : pc-teenagent-doc
+
+repositories swept          : 114
+list files swept            : 488
+hash tokens read            : 173344
+distinct sha1 in those lists: (counted below)
+
+========================================================================
+EMPTY-FILE SHA1 (the trap): 58 occurrences in 17 repositories
+   dc-dinocrisis-doc                        x4
+   pc-allodsonline-doc                      x2
+   pc-bloodandlace-doc                      x1
+   pc-brokensword4-doc                      x1
+   pc-canediterracotta-doc                  x1
+   pc-capcombeatemupbundle-doc              x1
+   pc-clic11-doc                            x9
+   pc-deadlypremonitiondc-doc               x3
+   pc-hugoshouseofhorrors-doc               x1
+   pc-ilmiocomputer0206                     x6
+   pc-karmaflow-doc                         x17
+   pc-kingsofthebeach-doc                   x4
+   pc-residentevil-doc                      x2
+   pc-rpgmakermv-doc                        x1
+   pc-wizardry-doc                          x3
+   pc-zerocomico-doc                        x1
+   vis-racetheclock-doc                     x1
+   -> excluded from the crossings below.
+
+========================================================================
+THE RATE AS A FUNCTION OF MINIMUM FILE LENGTH
+
+A crossing is a claim that two objects share a file. On a tree whose
+files are short, it is also a claim that two short byte strings
+happened to be equal, and those are not the same claim. This table is
+printed BEFORE any figure is quoted, and the figure quoted anywhere
+else has to name the threshold it was taken at.
+
+   min bytes    my hashes    crossings         rate
+           0          416            4      0.9615 %
+           1          415            4      0.9639 %
+           4          415            4      0.9639 %
+           8          414            4      0.9662 %
+          16          414            4      0.9662 %
+          32          414            4      0.9662 %
+          64          412            4      0.9709 %
+         128          410            4      0.9756 %
+         256          410            4      0.9756 %
+        1024          400            4      1.0000 %
+        4096          198            4      2.0202 %
+       65536           55            2      3.6364 %
+
+========================================================================
+CROSSINGS at a minimum length of 0 bytes: 4 of my 416 distinct hashes appear in another repository
+   (threshold 0 -- every hash, including files too short to be anybody's)
+
+sha1 c5c967d47cc57112eec5fe7db0229b36e22ec661   1343048 bytes
+   mine : unins000.exe
+   also : pc-brokensword3-doc                notes/crossall.txt
+   also : pc-brokensword3-doc                notes/sha1-all.txt
+   also : pc-brokensword4-doc                notes/crossall.txt
+   also : pc-brokensword4-doc                notes/sha1-all.txt
+   also : pc-brokensword5-doc                notes/crossall.txt
+   also : pc-brokensword5-doc                notes/sha1-all.txt
+   also : pc-brokensword5-doc                docs/11-the-binaries.md
+   also : pc-heretickingdoms-doc             notes/crossall.txt
+   also : pc-heretickingdoms-doc             docs/18-leftovers.md
+   also : pc-inquisitor-doc                  notes/crossall.txt
+   also : pc-inquisitor-doc                  notes/sha1-all.txt
+   also : pc-inquisitor-doc                  docs/12-against-the-collection.md
+   also : pc-motoracer-doc                   docs/12-against-the-collection.md
+   also : pc-thelegendofheroes6-doc          notes/sha1-all.txt
+   also : pc-themepark-doc                   notes/hashall.txt
+   also : pc-themepark-doc                   notes/sha1-all.txt
+   also : pc-twinsensquest-doc               docs/12-against-the-collection.md
+
+sha1 b6d0919b43934b29a550369370de069ed569b36e   69248 bytes
+   mine : gog.ico
+   also : pc-brokensword3-doc                notes/crossall.txt
+   also : pc-brokensword3-doc                notes/sha1-all.txt
+   also : pc-brokensword4-doc                notes/crossall.txt
+   also : pc-brokensword4-doc                notes/sha1-all.txt
+   also : pc-brokensword5-doc                notes/crossall.txt
+   also : pc-brokensword5-doc                notes/sha1-all.txt
+   also : pc-flightoftheamazonqueen-doc      notes/sha1-all.txt
+   also : pc-heretickingdoms-doc             notes/crossall.txt
+   also : pc-inquisitor-doc                  notes/crossall.txt
+   also : pc-inquisitor-doc                  notes/sha1-all.txt
+   also : pc-inquisitor-doc                  docs/12-against-the-collection.md
+   also : pc-landsoflore-doc                 notes/census.txt
+   also : pc-thelegendofheroes6-doc          notes/crossall.txt
+   also : pc-thelegendofheroes6-doc          notes/sha1-all.txt
+   also : pc-themepark-doc                   notes/hashall.txt
+   also : pc-themepark-doc                   notes/sha1-all.txt
+   also : pc-twinsensquest-doc               docs/12-against-the-collection.md
+
+sha1 c18a2d771d2487e6c6dc51a2ba1127f4ebb0213a   62895 bytes
+   mine : support.ico
+   also : pc-brokensword3-doc                notes/crossall.txt
+   also : pc-brokensword3-doc                notes/sha1-all.txt
+   also : pc-brokensword4-doc                notes/crossall.txt
+   also : pc-brokensword4-doc                notes/sha1-all.txt
+   also : pc-brokensword5-doc                notes/crossall.txt
+   also : pc-brokensword5-doc                notes/sha1-all.txt
+   also : pc-deadlypremonitiondc-doc         notes/crossall.txt
+   also : pc-deadlypremonitiondc-doc         notes/sha1-all.txt
+   also : pc-flightoftheamazonqueen-doc      notes/sha1-all.txt
+   also : pc-heretickingdoms-doc             notes/crossall.txt
+   also : pc-inquisitor-doc                  notes/crossall.txt
+   also : pc-inquisitor-doc                  notes/sha1-all.txt
+   also : pc-inquisitor-doc                  docs/12-against-the-collection.md
+   also : pc-landsoflore-doc                 notes/census.txt
+   also : pc-motoracer-doc                   notes/against-the-collection.txt
+   also : pc-motoracer-doc                   notes/crossall-members.txt
+   also : pc-motoracer-doc                   notes/crossall.txt
+   also : pc-thelegendofheroes6-doc          notes/crossall.txt
+   also : pc-thelegendofheroes6-doc          notes/sha1-all.txt
+   also : pc-themepark-doc                   notes/hashall.txt
+   also : pc-themepark-doc                   notes/sha1-all.txt
+   also : pc-twinsensquest-doc               docs/12-against-the-collection.md
+
+sha1 abeefe05d6d6f64c0ef1f5e023f1861000aadb55   23147 bytes
+   mine : unins000.msg
+   also : pc-brokensword3-doc                notes/crossall.txt
+   also : pc-brokensword3-doc                notes/sha1-all.txt
+   also : pc-brokensword4-doc                notes/crossall.txt
+   also : pc-brokensword4-doc                notes/sha1-all.txt
+   also : pc-brokensword5-doc                notes/crossall.txt
+   also : pc-brokensword5-doc                notes/sha1-all.txt
+   also : pc-heretickingdoms-doc             notes/crossall.txt
+   also : pc-inquisitor-doc                  notes/crossall.txt
+   also : pc-inquisitor-doc                  notes/sha1-all.txt
+   also : pc-inquisitor-doc                  docs/12-against-the-collection.md
+   also : pc-landsoflore-doc                 notes/census.txt
+   also : pc-thelegendofheroes6-doc          notes/crossall.txt
+   also : pc-thelegendofheroes6-doc          notes/sha1-all.txt
+   also : pc-themepark-doc                   notes/hashall.txt
+   also : pc-themepark-doc                   notes/sha1-all.txt
+

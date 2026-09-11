@@ -1,0 +1,30 @@
+tool box              : tools
+Python files surveyed : 591
+each was handed ONE DIRECTORY holding ONE file whose name is not
+Latin-1, with PYTHONIOENCODING unset and PYTHONUTF8=0.
+
+  raised UnicodeEncodeError : 7
+  printed the name safely   : 3
+  no output naming the file : 581   (NOT TESTED -- see below)
+  timed out                 : 0
+
+  THE CLAIM, over the tools that actually emitted the name:
+  7 of 10 = 70.0000 % die on a file name they can read.
+
+  A tool that printed nothing was never tested, and is excluded
+  from both halves of that fraction. Silence is not a pass.
+
+  RAISED -- this is the defect:
+     blockrepeat.py
+     dosimage.py
+     encodings.py
+     filelist.py
+     headers.py
+     refusals.py
+     riffwalk.py
+
+  PRINTED THE NAME -- these are the tools already obeying the
+  convention, or immune because they never touch stdout encoding:
+     clockwork.py
+     hashall.py
+     layers.py

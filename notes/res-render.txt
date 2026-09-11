@@ -1,0 +1,75 @@
+=== Teenagent/OFF.RES ===
+  bytes                    : 2720432
+  members                  : 42
+  directory                : 4 + 4 x 43 = 176 bytes; first offset 176, last 2720432 = file length, monotonic, residue 0
+  member sizes             : 64768 .. 64768, sum 2720256
+  kinds                    : screen 42
+  OFF-00.png  206 colours, indices   1..207, first non-zero row 0
+  OFF-01.png  207 colours, indices   1..207, first non-zero row 0
+  OFF-02.png  207 colours, indices   1..207, first non-zero row 0
+  OFF-03.png  207 colours, indices   1..207, first non-zero row 0
+  OFF-04.png  203 colours, indices   1..207, first non-zero row 0
+  OFF-05.png  202 colours, indices   0..238, first non-zero row 0
+  OFF-06.png  209 colours, indices   1..238, first non-zero row 0
+  OFF-07.png  214 colours, indices   1..244, first non-zero row 0
+  OFF-08.png  198 colours, indices   1..241, first non-zero row 0
+  OFF-09.png  211 colours, indices   1..250, first non-zero row 0
+  OFF-10.png  216 colours, indices   0..241, first non-zero row 0
+  OFF-11.png  206 colours, indices   1..207, first non-zero row 0
+  OFF-12.png  211 colours, indices   1..247, first non-zero row 0
+  OFF-13.png  213 colours, indices   0..241, first non-zero row 0
+  OFF-14.png  207 colours, indices   0..207, first non-zero row 0
+  OFF-15.png  208 colours, indices   0..207, first non-zero row 0
+  OFF-16.png  207 colours, indices   0..206, first non-zero row 0
+  OFF-17.png  221 colours, indices   0..247, first non-zero row 0
+  OFF-18.png  206 colours, indices   0..207, first non-zero row 0
+  OFF-19.png  219 colours, indices   1..245, first non-zero row 0
+  OFF-20.png  211 colours, indices   1..241, first non-zero row 0
+  OFF-21.png  227 colours, indices   0..241, first non-zero row 0
+  OFF-22.png  217 colours, indices   0..241, first non-zero row 0
+  OFF-23.png  205 colours, indices   1..241, first non-zero row 0
+  OFF-24.png  208 colours, indices   0..207, first non-zero row 0
+  OFF-25.png  207 colours, indices   0..206, first non-zero row 0
+  OFF-26.png  207 colours, indices   1..207, first non-zero row 0
+  OFF-27.png  208 colours, indices   1..224, first non-zero row 0
+  OFF-28.png  215 colours, indices   1..251, first non-zero row 0
+  OFF-29.png  214 colours, indices   1..246, first non-zero row 0
+  OFF-30.png  205 colours, indices   1..234, first non-zero row 0
+  OFF-31.png  216 colours, indices   1..248, first non-zero row 0
+  OFF-32.png  207 colours, indices   0..241, first non-zero row 1
+  OFF-33.png  213 colours, indices   1..255, first non-zero row 0
+  OFF-34.png  208 colours, indices   1..248, first non-zero row 0
+  OFF-35.png  210 colours, indices   1..241, first non-zero row 0
+  OFF-36.png  207 colours, indices   1..207, first non-zero row 0
+  OFF-37.png  204 colours, indices   1..207, first non-zero row 0
+  OFF-38.png  207 colours, indices   1..207, first non-zero row 0
+  OFF-39.png  209 colours, indices   1..244, first non-zero row 0
+  OFF-40.png  207 colours, indices   1..240, first non-zero row 0
+  OFF-41.png  186 colours, indices   1..223, first non-zero row 0
+  rendered                 : 42 screens to _work/screens
+=== Teenagent/ADVERT.RES ===
+  bytes                    : 712500
+  members                  : 11
+  directory                : 4 + 4 x 12 = 52 bytes; first offset 52, last 712500 = file length, monotonic, residue 0
+  member sizes             : 64768 .. 64768, sum 712448
+  kinds                    : screen 11
+  ADVERT-00.png   55 colours, indices   0..239, first non-zero row 0
+  ADVERT-01.png   86 colours, indices   0..253, first non-zero row 0
+  ADVERT-02.png   53 colours, indices   0..239, first non-zero row 0
+  ADVERT-03.png  234 colours, indices   0..254, first non-zero row 0
+  ADVERT-04.png  220 colours, indices   0..254, first non-zero row 0
+  ADVERT-05.png  227 colours, indices   0..254, first non-zero row 0
+  ADVERT-06.png   62 colours, indices   0..239, first non-zero row 0
+  ADVERT-07.png   61 colours, indices   0..239, first non-zero row 0
+  ADVERT-08.png   62 colours, indices   0..239, first non-zero row 0
+  ADVERT-09.png   61 colours, indices   0..239, first non-zero row 0
+  ADVERT-10.png   54 colours, indices   0..239, first non-zero row 0
+  rendered                 : 11 screens to _work/screens
+=== Teenagent/UNLOGIC.RES ===
+  bytes                    : 202880
+  members                  : 11
+  directory                : 4 + 4 x 12 = 52 bytes; first offset 52, last 202880 = file length, monotonic, residue 0
+  member sizes             : 13806 .. 64768, sum 202828
+  kinds                    : screen 1, sprite 10
+  UNLOGIC-00.png  229 colours, indices   0..254, first non-zero row 0
+  rendered                 : 1 screens to _work/screens

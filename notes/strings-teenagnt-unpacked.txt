@@ -1,0 +1,2786 @@
+00001122  <Mt)<Pt%<Ht-<Kt)<
+00001629  _ZYQRW
+000031EA  6sdQWVQR
+00003671  ][CCYI
+00008BB3  6>dWVG
+0000B323  !Sound configuration file: SOUND.SET not found. Please run SOUNDSET.EXE.$
+0000B5F3  sound.set
+0000B5FD  off.res
+0000B605  on.res
+0000B60C  lan_500.res
+0000B618  lan_000.res
+0000B624  sdr.res
+0000B62C  ons.res
+0000B634  varia.res
+0000B63E  mmm.res
+0000B646  sam_sam.res
+0000B652  sam_mmm.res
+0000B65E  unlogic.res
+0000B66A  advert.res
+0000B675  teenage0.sav
+0000E588   0%04090M0R0W0v0
+0000E5CB  1$1)1.13181=1B1G1L1Q1V1[1`1e1j1o1
+0000E5FF  1E01h$File not found$E03h$Too many open files$E05h$E06h$Memory control block destroyed$Insufficient memory$Memory block address invalid$E0Ah$E0Bh$E0Ch$E0Dh$E0Eh$E0Fh$E10h$E11h$E12h$E13h$E14h$E15h$E16h$E17h$E18h$E19h$E1Ah$E1Bh$E1Ch$E1Dh$E1Eh$E1Fh$E20h$E21h$E22h$E23h$E24h$E25h$E26h$E27h$E28h$E29h$E2Ah$E2Bh$E2Ch$E2Dh$E2Eh$E2Fh$E30h$E31h$Due to anti-virus blockade you have to install this game from original disks.$GE1$GE2$GE3$GE4$$GE5$GE6$GE7$GE8$GE9$Call yourself pirate, hacker, elite or whatever. But you are a THIEF.
+0000E93F  Mouse not found: using keyboard...
+0000E963  Press any key to continue.$
+0000E983  3&4I have no idea what to do with it.
+0000E9AA  I can't imagine what I could do with
+0000E9D6  I can't figure out what I should do
+0000E9FA  with this.
+0000EA06  I can't find any reason to mess
+0000EA26  with it.
+0000EA37  That's no good.
+0000EA48  Wow! There's a car jack inside!
+0000EA68  Great!
+0000EA70  There's something else inside the toolbox!
+0000EA9B  A spanner!
+0000EAAC  chance?
+0000EAB5  I give up.
+0000EAC1  I'm going to stay at least five meters
+0000EAE8  away from these bees!
+0000EAFF  There's nothing else in the boat.
+0000EB22  This wood is too hard to break.
+0000EB4A  I don't think I should push
+0000EB66  my luck.
+0000EB70  Just an ordinary hay stack. Now.
+0000EB92  And they say you can't find a needle
+0000EBB7  in a hay stack.
+0000EBC8  There are no more
+0000EBDA  potatoes.
+0000EBE5  Good I always asked mum for
+0000EC01  trousers with BIG pockets...
+0000EC1F  Life is brutal.
+0000EC30  Life is really brutal.
+0000EC48  Something tickled
+0000EC5F  At least it's gone.
+0000EC74  Who knows what monsters
+0000EC8C  may live in there...
+0000ECA2  I'd better not put my hands in there.
+0000ECC8  Something might bite them off
+0000ECE6  (yuck)!
+0000ECEF  I can see it's totally
+0000ED06  empty.
+0000ED0E  One small step for man,
+0000ED26  one big pain in the ...head...
+0000ED46  I won't take my chances
+0000ED5E  a second time...
+0000ED70  I really hope this is DINOSAUR
+0000ED8F  bone...
+0000ED98  Wow! This must have shaken
+0000EDB3  all the nearby walls!
+0000EDCA  It's kinda dark here.
+0000EDE1  I'm not going to wander here
+0000EDFE  in the dark again.
+0000EE12  Shutting the valve shook the dirt from the wall
+0000EE42  and revealed the switch!
+0000EE5C  Sorry, buddy, but I need your
+0000EE7A  sunglasses.
+0000EE87  It's not the best place for diving...
+0000EEAE  Not here...
+0000EEBB  I really can't talk underwater!...
+0000EEDF  I don't think swimming there is worth the effort.
+0000EF12  If I want to get this anchor I have to swim there
+0000EF44  when I have more air in my lungs...
+0000EF69  I was really hooked on this anchor!
+0000EF8E  This seaweed is just like the flowers
+0000EFB4  I gave mum on her last birthday.
+0000EFD6  I wonder what fish do inside
+0000EFF3  this boat at night.
+0000F008  I think I have to fish out something down
+0000F032  there.
+0000F03A  At least fish don't worry about the rain.
+0000F065  I hope all this fish stuff is not a red herring.
+0000F097  It's nice down there.
+0000F0AE  Hey, let go, will ya?!
+0000F0C6  Aaaaaaaaaaaaaahhh!...
+0000F0E4  People leave food in unbelievable places.
+0000F10F  Come here, I've got something for
+0000F131  you...
+0000F139  I can't catch it!
+0000F14C  The mouse is trapped!
+0000F163  Yikes!
+0000F16B  Boy, this mouse has some nerve!
+0000F18C  There's nothing else in the drawers.
+0000F1B2  I must get rid of this bush first.
+0000F1D6  The mouse has gone!
+0000F1EB  Nonsense.
+0000F1F6  I understand. Good doggy.
+0000F211  Here, boy.
+0000F21D  I hope we're friends now.
+0000F238  I don't think this is the right place.
+0000F260  Hundred moments later...
+0000F27A  Another hundred moments later...
+0000F29C  At least I found crude-oil and I'll be
+0000F2CA  That's my life.
+0000F2E1  But grandpa, you promised!...
+0000F300  Oh, all right. Let's go.
+0000F320  No need to do it again.
+0000F339  I really don't know how to talk to
+0000F35C  girls...
+0000F366  I usually don't work without a purpose.
+0000F38F  Only the nut is real.
+0000F3A6  I wonder if hens can fly. Come here,
+0000F3CB  baby...
+0000F3D4  First test failed.
+0000F3E8  I'd already got rid of my frustrations.
+0000F411  Nah, it's a road to nowhere.
+0000F42F  It opens the boot.
+0000F443  It's shut tight.
+0000F455  There's nothing else in the boot.
+0000F478  The clothes are dry now.
+0000F492  I'm sure these crows will kill me!
+0000F4B6  If I want to get inside I must get rid of
+0000F4E0  this guard first or find some other
+0000F50A  The wall surface is too smooth to climb.
+0000F534  I could climb it
+0000F545  if there wasn't
+0000F555  so much resin.
+0000F565  The only green stuff I like is that rectangular
+0000F595  piece of paper with some important-looking
+0000F5C0  guy on it.
+0000F5CC  I don't wanna touch it. Its spines could
+0000F5F5  hurt my delicate hands.
+0000F60E  Thanks, I'm not hungry.
+0000F627  I really don't have such long hands.
+0000F64D  It's too far to swim there.
+0000F678  Who's there?!
+0000F687  WHO'S THERE?!
+0000F696       DON'T COPY ME!...
+0000F6AE          DON'T COPY ME!!!
+0000F6C8  ...OR I WILL THROW A ROCK DOWN THERE!
+0000F6EF  OR I WILL...
+0000F6FD  Are you still there?
+0000F713  It's not a barrel-organ. And there's
+0000F738  no bucket.
+0000F744  I don't need to open it.
+0000F75E  Hmmm... Grass... Nah, children might
+0000F783  be watching.
+0000F791  I won't find the nut just like that.
+0000F7B6  The grass is too dense.
+0000F7CF  I'm not horny.
+0000F7DF  No way I can jump so high,
+0000F7FA  cause, er..., white men
+0000F812  can't jump.
+0000F81F  I don't need it.
+0000F831  I'm not Santa Claus.
+0000F847  I don't need plastic imitations.
+0000F869  It's too fragile to carry around.
+0000F88C  I'd like to keep it open.
+0000F8A7  I really don't want to walk around with
+0000F8CF  someone else's socks.
+0000F8E6  Thanks, I'm not tired.
+0000F8FE  It's too big and I doubt if I'll ever
+0000F924  need it.
+0000F92E  I don't think there's any secret passage
+0000F957  inside.
+0000F960  There are no more interesting fruits here.
+0000F98C  They can jug me if I steal this.
+0000F9AE  I'd better leave it. Women are really
+0000F9D4  oversensitive about flowers.
+0000F9F2  Mirror, mirror on the wall,
+0000FA0E  who's the smartest of them all?
+0000FA2F  Hey, don't think too long.
+0000FA4B  A hint: someone in this room,
+0000FA69  a male.
+0000FA72  OK, take your time.
+0000FA87  I'd better not interrupt its
+0000FAA4  thought process.
+0000FAB6  I don't want to have anything in common
+0000FADE  with dentists.
+0000FAEE  It's too heavy. Not that I'm wimp.
+0000FB12  Let's look what we've got here...
+0000FB35  'Strawberry jam'.
+0000FB48  'Gooseberry jam'.
+0000FB5B  'Blackberry jam'.
+0000FB6E  'Bilberry jam'.
+0000FB7F  Get me out of this jam!
+0000FB98  Oh, and there is 'Rosemary jam'.
+0000FBBA  I used to know someone called Rosemary.
+0000FBE3  I don't want those jams.
+0000FBFD  It's too dark to see clearly.
+0000FC1C  YEEEOOOWWWW!
+0000FC2A  (yawn)
+0000FC32  (laughter)
+0000FC3E  I can't remove it with my hands - these
+0000FC66  thorns look really sharp.
+0000FC81  There's no fuel in the chainsaw.
+0000FCA3  Thorns are too thin, the chainsaw
+0000FCC5  is useless here.
+0000FCD7  Yeah, great idea. Let's take this rock and
+0000FD02  walk around a bit. Gee...
+0000FD1D  I'd better leave them alone, they make
+0000FD44  this place beautiful.
+0000FD5B  I'm not sure if it's alive.
+0000FD78  I don't know what language it speaks.
+0000FD9F  The hole is too narrow to fit my hand.
+0000FDC7  Hey, you! Wake up! Bird attack!
+0000FDE8  I don't have a search-warrant.
+0000FE08  I don't see anything interesting
+0000FE29  about this hay stack.
+0000FE40  It's more complicated than that.
+0000FE62  It's pointless, the nut will slip between
+0000FE8C  the rake's teeth.
+0000FE9F  The paddle is BROKEN.
+0000FEB6  This branch is not a paddle. It doesn't
+0000FEDE  even look like one.
+0000FEF3  I'd better try somewhere else - I suppose this
+0000FF22  side is heavily guarded.
+0000FF3C  I needed to sharpen it, not pulverize.
+0000FF64  I can't do anything here, it's too dark.
+0000FF8E  Here, let's make your
+0000FFA4  pocket fat.
+0000FFB1  It's a note from some bank. Strange,
+0000FFD6  but someone has also written "NEVER! ANNE"
+00010001  on it.
+00010009  If I just show her the money,
+00010027  she might take it.
+0001003B  A hundred bucks!!!
+0001004F  I want blood!
+0001005E  I don't want to leave the mansion,
+00010081  I want blood!
+00010090  I'm a pathetic little wimp.
+000100AD  Strange, but the drawer is stuck
+000100CE  if the next drawer is open...
+000100ED  Maybe these are not just ordinary
+0001010F  drawers!
+00010119  I cannot open the drawer
+00010132  if the next one is open!
+0001014C  It's got a blue interior.
+00010167  It's got a red interior.
+00010181  It's got a grey interior.
+0001019C  It's got a green interior.
+000101B8  It's got a brown interior.
+000101D4  It's got a pink interior.
+000101EF  Wow! There's a dictaphone inside!
+00010212  There's a polaroid inside!
+0001022D  I might need that.
+00010241  Something's got hold of the book!
+00010264  Wow! A secret compartment!
+00010280  I don't need to mess with it
+0001029D  anymore.
+000102A7  Fully automatic.
+000102B9  Right now I don't need any more
+000102D9  sheets.
+000102E2  Nah, I don't want to deprave the kids.
+0001030A  I don't want to read it again.
+00010329  I might like it.
+0001033B  I just realised that the TV is off.
+00010360  Nothing happened.
+00010373  The tape started!
+00010386  That's much better.
+0001039B  I don't want to sleep.
+000103B3  It's just a cork.
+000103C6  I don't need any more photos.
+000103E5  Yeah, I can record this and scare
+00010407  the cats.
+00010412  I already recorded what I wanted to.
+00010438  I can't record anything until I find some
+00010462  batteries.
+0001046E  No batteries, no fun.
+00010485  I don't think this is the right moment.
+000104AE  I can't do anything with
+000104C7  this cook around.
+000104DA  The bottle's the same, but
+000104F5  I doubt if it's enough to
+0001050F  fool anyone.
+0001051D  I wanted to break it, not to
+0001053A  flatten it!..
+00010549  I was always curious what's inside
+0001056C  these things.
+0001057B  The rest is useless.
+00010591  Wow! Two 1.5V batteries!
+000105AB  This one's taken, OK?
+000105C2  It finally happened. I'm slightly mad.
+000105EA  The paper burnt out completely!
+0001060B  Burn, baby, burn!
+0001061E  Voila.
+00010626  It's too hot to touch!
+0001063E  It has frozen hard onto the shelf!
+00010662  Yummy.
+0001066A  I never liked veal anyway.
+00010686  There's no reason to do it.
+000106A3  I'd already fooled him once.
+000106C1  Mike, activate the voice test.
+000106E1  I won't cheat Mike with MY voice.
+00010704  ...siiiiinging!...
+00010718  Mike, let's get on with the scent
+00010741  Mike, run the view test.
+0001075B  'A secret diary of John Noty. Authorised.'
+00010787  I can't hide here!
+0001079B  There's John Noty outside! I can't go out!
+000107C7  That was close.
+000107D8  The cork is stuck in the hole.
+000107F8  It fits perfectly!
+0001080C  There's enough water in the sink.
+0001082F  There's no hot water in the sink.
+00010852  The label has come off!
+0001086B  The cork is a bit too small.
+00010889  There's no need to try them now.
+000108AB  I don't want to turn myself into a salad.
+000108D6  Nah...
+000108DE  I'd better stop this ventilator first.
+00010906  I'd better catch John Noty first.
+00010929  Good this red stuff is only a chilli...
+00010952  The water looks very hot.
+0001096D  The sink is full of hot water.
+0001098D  I don't have anything
+000109A3  to store these socks in.
+000109BD  Here are my papers.
+000109D2  I already got the permission.
+000109F1  'Saving is a very fine thing. Especially
+00010A1A  when your parents have done it for you'
+00010A43  'I love captain'
+00010A55  'Soccer rulz'
+00010A64  'Don't cut the trees, cuz one
+00010A82  day you may become partisan
+00010AA4  'VISA accepted'
+00010AB5  The rest of graffiti is obscene.
+00010AD7  Sir, I'm Mark. A rookie.
+00010AF1  It's locked!
+00010AFF  Thanks.
+00010B08  I don't have any idea what
+00010B23  to do with it right
+00010B3D  That gives me an idea...
+00010B57  Now I got to check if it works...
+00010B7A  I think it's time to call captain...
+00010BA0  Hey! I finished the meal!
+00010BBB  Wow, he got welded to the bowl!...
+00010BDF  Gotcha.
+00010BE8  I don't want to touch
+00010BFE  his pockets again.
+00010C12  That doesn't work.
+00010C26  Piece of cake.
+00010C36  And how am I supposed to get back?
+00010C5A  Great.
+00010C62  Oh, yeah, right...
+00010C76  I can't pull it out.
+00010C8C  I don't want to touch it - I might get hurt.
+00010CBA  The fence blocks the way...
+00010CD7  I don't want to sleep.
+00010CEF  I can't reach it.
+00010D02  Hello?
+00010D0A  He's totally addicted.
+00010D22  What about a new...
+00010D37  ...hot off the press...
+00010D50  ...full-color...
+00010D62  ...special edition...
+00010D79  ... of 'Soldier News'?!
+00010D92  Never again!
+00010DA0  What am I? A vacuum cleaner?!
+00010DBF            Sixty seven rude words later...
+00010DEA  Meanwhile in the mansion...
+00010E07  Now it's open.
+00010E17  C'mon, baby, it's all yours!
+00010E35  I've got no reason to talk to him
+00010E57  right now.
+00010E63  Yeah, right!...
+00010E74  The barman is too close...
+00010E97  I prefer water.
+00010EA8  I'm too weak to climb it.
+00010EC3  The springs would prick my back.
+00010EE5  No, thanks. This food seems still alive.
+00010F0F  The door is closed. What a surprise.
+00010F35  It's empty.
+00010F42  I should have paid more attention
+00010F64  in geography classes...
+00010F7D  I don't need this mess.
+00010F96  Thanks, but I've seen softer rocks.
+00010FBB  They are too blunt to be of any use.
+00010FE1  What's the use of the models?
+00011000  The barman will surely notice its
+00011022  disappearing.
+00011031  It'd take too much time to drink it all.
+0001105A  Maybe after the mission...
+00011078  I'm not a thief. And it's empty, by the way.
+000110A6  There are too many of them to search.
+000110CD  Captain surely wouldn't fit them.
+000110EF  I must look elsewhere.
+00011107  Chickening? Me? Never!
+0001111F  I can't open it.
+00011131  I don't need them.
+00011145  What am I? A Peeping Tom?
+00011160  I have big pockets, but there are limits.
+0001118B  If I put it on I might have trouble walking
+000111B7  up the stairs.
+000111C7  I'd need 9 lives to read them all.
+000111EB  Thanks, I'm not so tired.
+00011206  There's no need to turn it on.
+00011226  It won't bear my weight.
+00011240  I never learnt to how use one...
+00011262  They're so sharp they'd rip my trousers!
+0001128C  Pfui! The cognac really didn't do any good...
+000112BB  I don't have time for pleasures.
+000112DD  I won't touch these socks with my bare hands!
+0001130C  It's not Halloween.
+00011321  It can't be controlled manually! I hate it!
+0001134E  I have nothing to play.
+00011367  I can't take it. It's not mine.
+00011388  Hey! What's the matter?!
+000113A2  It's open!
+000113AE  It's out of order.
+000113C2  With captain watching?...
+000113DC  Better not...
+000113EB  The sickle is too blunt.
+00011405  First I've got some business to take care of.
+00011434  Digging it out with the knife could
+00011458  take a hundred years.
+0001146F  I don't want to make more
+00011489  mess on this table.
+0001149E  Should I throw the crumbs to the bird?
+000114C6  I don't want to waste these tasty crumbs.
+000114F1  Better not... I might slip and fall in...
+00011527  `"The history of blues".
+00011541  "Manchester United, or the Red Devils story".
+00011570  "Greyhounds and other hunting dogs".
+00011596  "Greenhorn, or my adventures in the Wild West".
+000115C7  "Charlie Brown and his company".
+000115E9  "Pink Panther: an unauthorised biography".
+00011636  A0B.C D
+0001163E  E!F"G#H
+00011646  I$J%K&L2M1N
+00011666  Y,Z3,4.5?9 ('
+00011709  Load game
+00011713  Save game
+0001171D  Music volume    -            
+0001173C  Sound volume    -            
+0001175B  Hero speed    -                
+0001177C  Game speed    -                
+0001179D  Text speed    -                
+000117BE  Graphic mode    -              
+000117E6  Return to game
+000117F5  Order info
+00011807  Do you really
+00011815  want to quit
+00011822  (Y/N)?
+00011832  I can't use this savegame!
+0001184D  (The file is corrupted or was
+0001186B  saved under different game
+00011886  version. Sorry.)
+0001191D  PSLOW  
+00011926  PNORMAL
+0001192F  PFAST  
+00011938  PCRAZY 
+00011941  _SLOW  
+0001194A  _NORMAL
+00011953  _FAST  
+0001195C  _CRAZY 
+00011965  nCLICK 
+0001196E  nSLOW  
+00011977  nNORMAL
+00011980  nFAST  
+00011989  nCRAZY 
+00011992  }MONO 
+0001199A  }COLOR
+000119DF  Cancel
+00011A03  HELLO, VOYEUR!
+00011A82  *&**'*'**&*&***'&**'
+00011A97  !"#$)%))%)!"!$)!))!)
+00011B87  ?0"?4!?
+00011BAD  !f#f%f'f)f+f-f/f1f3f5f@fKfMfXfZfefgfrftf
+00011CFA  o(pEpFp
+0001267E  q+q/q3q7q_qcq}q
+000126DF  g-j(p#y
+00012717  z2|0~.
+000127C3  7r9rVs
+000127CA  tYviwMy
+00012819  Er^rwr
+0001286A  mysterious object
+0001287C  Boy, that could be some kind of treasure!
+000128C0  This is made of barbed wire,
+000128DD  and it's rusty.
+00012906  The camouflage isn't quite state-of-the-art...
+0001295C  Big boy.
+000129B0  That looks easy to climb.
+000129DE  mud pool
+000129E7  Heaven for Woodstock fans, alligators
+00012A0D  and those tough women fighting on late TV
+00012A37  shows.
+00012A57  It took some drugs then fell 5 meters.
+00012A7E  Who wouldn't take a nap after that?
+00012AC6  shovel
+00012ACD  It's a small military shovel.
+00012AFF  solid ground
+00012B0C  I've got a feeling I'm gonna need this
+00012B33  somehow...
+00012B58  It must have a very soft touch.
+00012B8C  brick wall
+00012B97  The brick-layer must have been
+00012BB6  a Pink Floyd fan.
+00012C0E  spring
+00012C15  I've seen better things to sit on.
+00012CA7  canteenagent door
+00012CB9  Nice sign.
+00012CF1  jail door
+00012CFB  Now that's what
+00012D0B  I call a good
+00012D33  trash can
+00012D3D  It stinks.
+00012D72  spring
+00012D79  Yeah, I definetely gotta spring.
+00012DB2  Looks bad.
+00012DD1  crates
+00012DD8  The world looks better
+00012DEF  from the other side.
+00012E1D  It's made of aluminium.
+00012E4F  live cable
+00012E5A  The wires are exposed!
+00012E8A  It's naked and it's out of order.
+00012EC5  Heavy and solid.
+00012EEA  trash can
+00012F08  switch
+00012F23  graffiti
+00012F3C  z#{`{|{
+00012F5A  captain
+00012F62  He's sitting tight.
+00012FA3  locker
+00012FAA  It's closed. Not that
+00012FC0  I'm surprised.
+00012FE7  Picasso?
+00013009  That's just a load of old junk.
+00013041  That doesn't look comfortable.
+00013074  drawer
+0001307B  It's closed!
+0001309C  sabres
+000130A3  My grandpa had one of those once.
+000130C5  I exchanged it for a joystick.
+000130E4  Grandpa didn't like the idea.
+0001311B  What a pity they are only
+00013135  models...
+00013153  picture
+0001316F  picture
+00013177  Nice chopper.
+00013199   Swiss Army knife
+000131AB  That's more like it.
+000131EC  That's surprising, but there's tea
+0001320F  in it.
+0001322A  barman
+00013231  What a hard working citizen.
+00013280  This must lead to the store room.
+000132BC  The radio looks like a radio, but the aerial
+000132E9  is made of some kind of hanger.
+0001331D  crumbs
+00013324  It's disgusting. People really should
+0001334A  clean up after themselves.
+0001337F  It looks like there's a problem with it.
+000133BC  shelves
+000133C4  I wonder why there's such a large choice
+000133ED  of alcohol at the training camp.
+0001340E  To keep the troops happy?
+0001343C  cash register
+0001344A  I love it.
+00013479  blinking hole
+00013487  That's weird...
+000134C4  barrels
+000134CC  It's good to know our army is well equipped.
+0001350D  locker
+00013514  It's a locked kind of locker.
+00013546  lots of drawers
+00013556  I hate bureaucracy.
+00013584  'Pepa'
+000135A5  'Salt'
+000135CA  grenade
+000135D2  Wow! I always wanted one of these.
+0001360F  I don't think he's making the right impression.
+00013653  way out
+0001365B  Home, sweet home...
+000136C2  He looks like a peasant in
+000136DD  disguise.
+000136FB  bottle
+00013702  It's whisky!..
+00013725  gargoyle
+00013742  gargoyle
+0001375F  sculpture
+00013769  Really sophisticated!
+00013798  Solid and massive.
+000137BF  mansion wall
+000137CC  It must be 3 kilometers thick...
+00013801  John Noty
+0001380B  Fatso.
+00013826  path around mansion
+0001384E  path to meadow
+0001385D  It leads inside the dark and
+0001387A  scary forest.
+0001389C  path to shore
+000138BE  path around mansion
+000138E6  wrapper
+000138EE  It's a cellophane wrapper from some candy
+00013918  or something.
+0001393A  forest
+00013941  It gives me thrills...
+0001396C  banknote
+00013975  I'm really proud I didn't TAKE THAT.
+000139D8  hollow
+000139DF  It's empty right now.
+00013A09  branch
+00013A10  It could be useful.
+00013A3D  It's higher than the mansion wall!
+00013A74  wild plant
+00013A7F  It's some wild potatoe.
+00013AB0  It's covered with something smooth.
+00013AE8  path around mansion
+00013B10  path around mansion
+00013B38  branch
+00013B3F  Gotcha.
+00013B70  It's high.
+00013B8F  wild plant
+00013B9A  Ordinary green stuff.
+00013BC4  path around mansion
+00013BF1  It's covered with something smooth.
+00013C29  path around mansion
+00013C51  hedgehog
+00013C5A  Is has a cone on its back.
+00013CAE  bees nest
+00013CB8  Honey balloon.
+00013CE0  I HATE THEM!
+00013D06  Nice place to hide.
+00013D34  It's rusty and has no lock.
+00013D64  path to mansion
+00013D9A  flower
+00013DA1  It's the most beautiful flower I've seen
+00013DCA  in my entire life!
+00013DF6  Neat place to start ecological life.
+00013E34  I can't believe it, but the boat has no hole.
+00013E7B  I refuse to tell cheap jokes with
+00013E9D  the word "well".
+00013EC2  handle
+00013EC9  I can handle this.
+00013EF0  path to village
+00013F14  path to mansion
+00013F38  path to forest
+00013F63  flower
+00013F6A  It's beautiful!
+00013F8E  flower
+00013F95  It smells very nice!
+00013FC3  Nothing new. Literally.
+0001406B  anchor
+000140A1  seaweed
+000140BE  seaweed
+000140DB  seaweed
+000140F8  seaweed
+00014130  stones
+0001415C  path to lake shore
+00014188  There's no name on the
+0001419F  door...
+000141BB  windows
+000141C3  I prefer DOS.
+000141E5  squirrel
+000141EE  It's very fast.
+00014216  It's big.
+00014238  Gotcha.
+0001428E  way out
+000142AF  It must make a big impression on
+000142D0  the animals.
+000142F1  window
+000142F8  I'm not sure if it shouldn't be on
+0001431B  the other side of the wall...
+0001434D  cupboard
+0001436A  heart-shaped hole
+0001437C  What a lovely hole.
+000143A4  cupboard
+000143C1  chandelier
+000143E0  picture
+000143E8  It looks almost like a window.
+0001441B  fireplace
+00014425  There's a lot of soot in there.
+0001445E  They are only plastic imitations.
+000144AE  rotten cheese
+000144D6  trophies
+000144F3  chainsaw
+000144FC  I don't know why but it reminds of
+0001451F  some Texas guy I met once.
+0001454E  porcelain
+00014558  I'm afraid even to breath around these
+0001457F  things.
+000145BD  car door
+000145C6  It's unlocked.
+000145EF  There's always something useful
+0001460F  in a trunk...
+00014631  basket
+00014638  It gives me ambivalent feelings:
+00014659  reminds me of school.
+00014688  About 4 meter long metal pole
+000146A6  with a basket screwed to it.
+000146F0  door-bell
+000146FA  One can use it to scare the people
+0001471D  behind the door.
+00014742  window
+0001475D  window
+00014778  attic window
+00014799  path to lake
+000147D3  path to field
+00014807  He's trying hard to score,
+00014822  but he's too weak to throw
+0001483D  the ball high enough!
+00014854  Sonny or whatever
+0001487F  Strange thing.
+000148A8  I wonder what
+000148B6  it's for?
+000148D4  car door
+00014924  path to cave
+0001495E  laundry
+00014966  The air is too damp to dry
+00014981  this wet laundry...
+000149A9  window
+000149C4  window
+000149DF  window
+000149FF  A way to the cellar.
+00014A2E  It's a heavy metal thing.
+00014A60  Snoopy.
+00014ACA  old man
+00014AD2  He looks like a retired
+00014AEA  sea wolf.
+00014B08  cupboard
+00014B25  drawers
+00014B2D  Boy! Lots of them!
+00014B58  Home, sweet home...
+00014B80  window
+00014B87  A view of the field.
+00014BCA  shotgun
+00014BD2  Gee, it must be for
+00014BE6  dinosauruses!..
+00014C0A  picture
+00014C12  Charming.
+00014C30  family pictures
+00014C40  I wouldn't like having my ancestors hanging
+00014C6C  like trophies...
+00014C91  flower
+00014C98  It's green.
+00014CD1  chandelier
+00014CF4  It's battery powered.
+00014D40  old lady
+00014D49  She knits in the national team.
+00014D82  She's cool.
+00014DA8  way out
+00014DC4  window
+00014DDF  window
+00014DFA  chandelier
+00014E1F  Really great masterpiece.
+00014E63  imitation fruits
+00014E74  The apple looks almost
+00014EA9  It holds the flowers.
+00014ED3  flowers
+00014EDB  I hope these are not from some
+00014EFA  admirer...
+00014F19  feather duster
+00014F28  It must be for the dust problem.
+00014F63  It's round, but I doubt it has anything to do
+00014F91  with the medieval legend...
+00014FC1  mirror
+00014FC8  I can see the girl's
+00014FDD  face in it...
+00014FFF  picture
+00015007  It's nice to live in a village and have village
+00015037  landscapes on the walls.
+0001506A  Impressive.
+0001509E  spider
+000150A5  It's...
+000150C1  shovel
+000150C8  I could play digger with it.
+000150F9  ladder
+00015100  Way out.
+0001511D  switch
+00015124  It's little, but powerful.
+00015157  I hope these stains on the wall have
+0001517C  nothing to do with this axe...
+000151CF  Gee, this place looks more like a
+000151F1  torture chamber than a cellar...
+00015226  shelves
+0001522E  Lots of jars and stuff. Nothing
+0001524E  really interesting.
+00015276  containers
+00015281  They're empty.
+000152B9  Due to the age of the rock I think
+000152DC  it must be some dinosaur bone....
+00015317  It blocks the way to the cave.
+00015336  Maybe someone planted it here to
+00015357  keep the cave secrets safe...
+00015389  cave entrance
+000153C9  It must have fallen here ages ago.
+000153EC  I wonder if anybody got hurt...
+00015420  butterfly
+0001542A  Isn't that lovely?
+00015451  butterfly
+0001545B  Isn't that lovely?
+00015490  lizard
+000154AF  What IS IT?!
+000154D0  way out
+000154EC  message
+000154F4  This inscription is very old, but I can still
+00015522  read it.
+00015544  It looks very deep.
+0001556C  nugget
+00015573  Pure gold!
+000155B8  A little strange...
+000155E5  Extremely unfriendly.
+00015614  Looks dangerous...
+00015641  It's very nervous.
+00015668  dive mask
+00015672  Yeah, it amazes me too.
+000156A3  They will fit me perfectly.
+000156D3  scarecrow
+000156DD  A thing to scare the crows.
+000156F9  At least that's what the
+00015712  theory says.
+00015733  sickle
+0001573A  A very dangerous tool.
+00015765  path to village
+00015789  hay stack
+00015793  There must be something metal inside,
+000157B9  I can see it glittering!
+000157EB  It's very old and there aren't
+0001580A  many teeth left.
+0001582F  mouse hole
+0001583A  Home and pantry in one...
+00015868  hay stack
+00015872  There's a mouse hole inside!
+000158A3  feather
+000158AB  It must have been dropped by hen.
+000158E1  hay stack
+000158FF  mansion
+00015907  Gee, some people really
+0001591F  have no taste.
+0001594C  window
+00015953  There's a shutter, I can't see a thing.
+0001598F  sculpture
+00015999  The owner is sick.
+000159D9  way out of the mansion
+00015A46  flowers
+00015A4E  Surprise, surprise, they aren't
+00015A6E  plastic.
+00015A91  How's it hangin', Robbie?
+00015ABF  stairs
+00015AC6  They say every step makes your life
+00015AEA  3 seconds longer.
+00015B10  other part of the corridor
+00015B3F  way to porch
+00015B82  downstairs
+00015BA1  picture
+00015BA9  It's some castle.
+00015BCF  armour
+00015BD6  The beta version of a tank.
+00015C06  video tape
+00015C11  What kind of movie must it be
+00015C2F  hidden so well?...
+00015C76  Oh, boy!
+00015C93  trash can
+00015C9D  There are a lot of papers inside.
+00015CD9  Softy.
+00015D0D  drawer
+00015D14  It's closed.
+00015D35  drawer
+00015D3C  It's closed.
+00015D5D  drawer
+00015D64  It's closed.
+00015D85  drawer
+00015D8C  It's closed.
+00015DAD  drawer
+00015DB4  It's closed.
+00015DD5  drawer
+00015DDC  It's closed.
+00015DFD  ladder
+00015E04  Indispensable addition to girls in skirts.
+00015E75  It has a square shape.
+00015EA0  handle
+00015EA7  It fits in the hole perfectly.
+00015EDA  picture
+00015EE2  I always liked S`T`A`R` W`A`R`S`.
+00015F18  picture
+00015F20  And I tought I was weird.
+00015F4E  flowers
+00015F56  Nice smell.
+00015F76  other part of corridor
+00015FBA  statue
+00015FC1  Bizarre.
+00015FF6  Impressive.
+00016020  This jar is full of pills.
+00016054  It's big and looks
+00016067  like some kind of
+00016079  diary.
+00016094  picture
+0001609C  That one's great. I'd like to have one myself.
+000160DF  cabinet
+00016114  left lower edge of screen
+0001612E  I could try to hide here!
+0001615C  door handle
+00016168  John Noty left it here.
+000161B3  He's completely addicted to his work.
+000161F2  It must be some kind of soup.
+00016210  Now with extra power.
+0001623A  hot plate
+00016244  That's COOL.
+00016265  way out
+00016281  refrigerator
+0001628E  My favourite thing in the kitchen.
+000162CB  It works with batteries. Just like
+000162EE  the walkman.
+0001630F  chilli
+00016316  It's red, it's hot, it's ...CHILLI!
+0001634E  place where chilli bottle stood
+0001636E  It's the place where... etc.
+0001639F  pastry roller
+000163AD  Men use guns. Women use this.
+000163CB  1 : 0 for women.
+000163F0  microwave
+000163FA  It's a magic tool. It turns
+00016416  any dish into rubber.
+00016440  knives
+00016447  A very respectable collection.
+0001647F  It's in a plastic bag which has frozen to
+000164A9  the shelf.
+000164F6  It has a hole.
+00016531  mirror
+00016538  It's covered in old dirt.
+00016566  cabinet
+00016587  Whoa! It's big!
+000165B0  It must be John Noty's...
+000165F8  cognac
+000165FF  Bottle as big as Napoleon himself.
+00016636  pincers
+0001663E  There's a pair of pincers in the bucket.
+00016680  This is some kind of cool primitive art.
+000166C0  One more thing to kill your time and
+000166E5  personality.
+00016706  video player
+00016713  It has no record function,
+0001672E  but that doesn't matter
+00016746  to me anyway.
+00016768  newspaper
+00016772  This is some kind of local newspaper.
+000167B2  What a baby! It could drive
+000167CE  all my neighbours insane!...
+00016805  I would never know where to place
+00016827  a pillow.
+00016845  way out
+00016861  picture
+00016869  That one is really imaginative.
+0001689D  remote controller
+000168AF  It was hidden between the newspaper pages.
+000168EE  open wardrobe
+000168FC  It's a secret passage!
+00016961  switch
+0001698A  John Noty
+00016994  He's obsessed with packing the money.
+000169CE  tons of gold
+000169DB  (gulp)
+00016A28  camera
+00016A2F  It must be a part of the security system.
+00016E76  C'C.C2C
+00016EB4  I8J?JFJJJNJuJ|J
+00016F00  PEPIPwPxP
+00016F16  QZRaRhR,S3SMSTS{S
+00016F60  X:XAXHXOXVXZX
+00016F76  X^YeYiY
+00016F8E  ZCZgZnZ
+00016FAA  \E]R]q]
+00016FB8  ]?^F^M^T^
+00016FD6  aIaPaWa
+00016FEC  bMcic{c
+00017008  e e@eGeNeue
+0001701A  e(fkf}f
+0001703A  hFhshzh
+00017048  i^ibiii
+0001708A  r,rSr]r
+000170A2  s"t&titmt
+000170C0  v1v5v]vwv9yfy
+00017423  Wow, now it looks like it came straight
+0001744B  from the store!
+0001745C  Tying the ribbon around the rake narrowed
+00017486  the space between the teeth!
+000174A4  With the help of super glue I made...
+000174CA  something...
+000174D8  Using the super glue once again...
+000174FC  The whisky is strong enough to use as
+00017522  fuel, but I wonder if the chainsaw
+00017545  can take it...
+00017555  Once again the super-glue comes in handy...
+00017582  The soot gives the potatoe a brand new look...
+000175B2  Now I'm ready to conquer the lake!
+000175D6  It makes me feel like another
+000175F4  wanna-be cliffhanger.
+0001760B  I wouldn't impress anyone with such candy.
+00017637  It's active enough.
+0001764C  Great idea! But, you see, ecomaniacs might
+00017677  be watching...
+00017687  It won't look any better in a wrapper.
+000176AF  The cake is too big for this wrapper.
+000176D6  I don't want to waste this candy.
+000176F9  The flower is beautiful enough without
+00017720  any fancy extras.
+00017733  Good idea, but I need something smaller
+0001775B  than this rope.
+0001776C  I might need this cheese. Again.
+0001778E  It's not DOOM. It's a harmless graphic adventure
+000177BF  for the whole family (we want DOOM! we want
+000177EB  DOOM!).
+000177F4  I don't need to open this nut.
+00017814  Let's make this cork larger.
+00017832  Once again the super glue comes in handy.
+0001785D  The batteries fit!
+00017871  I tied the rope to the pin.
+0001788E  Let's make it spicy.
+00017951  Using these two objects together won't
+00017978  accomplish anything.
+00017ACF  feather
+00017AD7  It's kicking ass!
+00017AEC  shotgun
+00017AF4  Looks impressive...
+00017B0B  toolbox
+00017B13  Doesn't seem to be locked!...
+00017B34  toolbox
+00017B40  spanner
+00017B48  These things always come in handy.
+00017B73  I've heard that some people use these.
+00017BA1  Refreshing.
+00017BB0  broken paddle
+00017BBE  Too short to use.
+00017BD3  paddle
+00017BDA  The glue keeps the branch
+00017BF4  really hard.
+00017C04  flower
+00017C0B  It really smells
+00017C1C  very nice.
+00017C2A  flower
+00017C31  It's really beautiful.
+00017C4B  feather duster
+00017C5A  I can play janitor with this.
+00017C7B  chainsaw
+00017C84  It's in good condition, but it has no fuel.
+00017CB3  drunken chainsaw
+00017CC4  A bit unsteady, but will work.
+00017CE6  branch
+00017CED  The wood is very hard.
+00017D07  whisky
+00017D0E  The label says this whisky is
+00017D2C  very strong.
+00017D3C  needle
+00017D43  It's quite big for a needle...
+00017D65  wrapper
+00017D6D  Nice design. Especially that 'LOVE CANDY' label.
+00017D9E  And there's a heart painted on it.
+00017DC1  How SWEET...
+00017DD1  chocolate candy
+00017DE1  It's round chocolate candy.
+00017DFD  A great present.
+00017E11  wild potatoe
+00017E1E  Wow! It's shaped like a grenade!..
+00017E49  The space between the teeth is too large
+00017E72  to make this rake an useful.
+00017E92  heart-shaped candy
+00017EA5  I don't think this one improvement is enough.
+00017ED6  wrapped candy
+00017EE4  Brand new candy. At least it looks like it.
+00017F13  ribbon
+00017F1A  It will remind me of that beatiful chick,
+00017F44  I mean, female human being.
+00017F68  Ready to work.
+00017F7E  A really big one.
+00017F93  plastic apple
+00017FA1  It looks so real that I could
+00017FBF  even see the pips inside.
+00017FE1  It looks like one of those Havana goodies every
+00018011  self-respecting businessman is supposed to have
+00018041  glued to his smile.
+00018058  super glue
+00018063  It's turbo mega giga super ultra
+00018084  fast drying glue plus.
+0001809E  cone & needle
+000180AC  Something is still missing here...
+000180D2  cone & feather
+000180E1  Something is still missing here...
+0001810C  Now all I need is a target!
+0001812B  dirty feather duster
+00018140  It's clammy and soiled by soot.
+00018163  painted potatoe
+00018173  The only difference between this and a grenade
+000181A2  is that potatoees usually don't blow up.
+000181CE  car jack
+000181D7  Looks reliable.
+000181EA  dino bone
+000181F4  It's big and well preserved. It must have been
+00018223  a really big, er..., animal, I think...
+0001824E  shovel
+00018255  I can PLAY DIGGER with it. So to speak.
+00018285  Looks strong.
+0001829B  It will help me see better underwater.
+000182CA  They will help me feel more like my
+000182EE  underwater brothers.
+00018306  diving equipment
+00018317  Watch out, water! Here I come!
+00018339  anchor
+00018340  Not big, but heavy enough to sink the boat.
+0001836F  grappling hook
+0001837E  Watch out, mountains, here I come!
+000183A4  sickle
+000183AB  It's so blunt, that I couldn't even cut
+000183D3  butter with it.
+000183E6  somewhat rotten cheese
+000183FD  Reminds me of my room.
+00018417  sharpened sickle
+00018428  Lambs, be silent. Here comes the pain...
+00018454  handkerchief
+00018461  The owner must have such big nose that he needs
+00018491  to use a whole bar of soap just to wash it.
+000184C6  It's very active.
+000184E0  It's very regular, just like the snowball.
+0001850E  nugget
+00018515  Symbol: Au, atomic no: 79, atomic wt.: 196.97.
+00018544  In other words: GOLD!!! Yes! Yes!
+00018569  banknote
+00018576  dictaphone
+00018581  There are no batteries inside.
+000185A3  polaroid
+000185AC  It's ready to take a picture.
+000185CD  video tape
+000185D8  It has no label.
+000185EC  sheet of paper
+000185FB  There's nothing important about it.
+00018622  cognac
+00018629  Fancy name just for an excuse for drinking.
+00018658  remote control
+00018667  It has user-friendly interface.
+00018687  One can play and stop.
+000186A1  ice tongs
+000186AB  Very handy tool.
+000186C4  It's a stopper kind of cork.
+000186E4  wrapped cork
+000186F1  Now it's more appropiate.
+00018714  It's a photo of John Noty. I caught him
+0001873C  when he was singing the high C. Yuck!
+00018765  chilli
+0001876C  The label on the bottle says it's
+0001878E  'ORIGINAL MEXICAN CHILLI'. Sure.
+000187B2  pastry roller
+000187C0  It's made of very hard wood.
+000187E0  fake chilli
+000187EC  Now that's what I call strong seasoning.
+0001881E  'ORIGINAL MEXICAN CHILLI'.
+0001883C  batteries
+00018846  It's a pair of new batteries.
+00018867  dictaphone
+00018872  'One-two-one-two, it's me the one
+00018894  and only Mark MC....'
+000188AA  It works.
+000188B7  burning paper
+000188C5  Amazing, isn't it?
+000188D8  (Not to mention: unbelievable).
+00018900  There's veal in the plastic bag.
+00018924  plastic bag
+00018930  Gee, I hope it's recyclable. I couldn't
+00018958  sleep otherwise.
+00018972  These socks suck.
+0001898D  There are about twenty pills in this jar.
+000189BA  handle
+000189C1  It looks like a standard door handle...
+000189EC  chilli
+000189F3  Nice bottle. I like the shape.
+00018A1A  "Let this guy in. RGB Chief."
+00018A40  It's completely useless.
+00018A5C  jail key
+00018A65  Surprisingly, it's the key to the jail.
+00018A90  delicate plant
+00018A9F  Whoa, it tickles!
+00018AB4  Swiss Army knife
+00018AC5  I wonder if it's got a TV on these too.
+00018AF0  spring
+00018AF7  I could launch a rocket with it!
+00018B1B  shovel
+00018B22  Nice, handy tool.
+00018B37  kaleidoscope
+00018B44  I could spend my whole life looking through
+00018B70  this. Well, let's say five minutes.
+00018B94  Oh, all right, it's boring.
+00018BB3  "Soldier News"
+00018BC2  It's just the same as women's magazines,
+00018BEB  but there are guns instead of perfumes.
+00018C13  It's cool anyway.
+00018C28  grenade
+00018C30  I must be crazy to put in my pocket.
+00018C55  Something horrible might happen...
+00018C7F  It's empty.
+00018C8E  mug full of mud
+00018C9E  Why did I fill the mug with mud?
+00018CC0  That makes no sense!
+00018CD8  crumbs
+00018CDF  These are some remains of bread.
+00018D08  It's thin and long.
+00018D1F  rope tied to grenade
+00018D34  My patent for a bombastic yoyo.
+00018D57  medicine
+00018D60  They look like sleeping pills.
+00018D7F  Although I don't have any idea why.
+00018DA6  drugged food
+00018DB3  Smells like Teen Spirit.
+00018DD4  It would make a great dinn... I mean
+00018DF9  friend, of course.
+00018F88  #2K>lF  <-- pascal string[]
+00019933  Pbackgrounds
+00019940  iANDRZEJ DOBRZY;SKI
+00019957  Pmusic
+0001995E  iRADEK SZAMREJ
+00019970  Panimation and graphics
+00019988  iGRZEGORZ MIECHOWSKI
+000199A0  Pprogramming and script
+000199B8  iADRIAN CHMIELARZ
+000199CD  \after the tiring journey...
+000199ED  \THE END
+000199F7  programming
+00019A03  ADRIAN CHMIELARZ
+00019A18  animation
+00019A22  GRZEGORZ MIECHOWSKI
+00019A3A  additional animations
+00019A50  TOMASZ PILIK
+00019A61  backgrounds
+00019A6D  ANDRZEJ DOBRZYNSKI
+00019A8A  RADEK SZAMREJ
+00019A9C  cover art
+00019AA6  DARIUSZ ANACKI
+00019AB9  translation help
+00019ACA  PETER WELLS
+00019ADA  betatesters
+00019AE6  TOMASZ FURMANIUK
+00019AF7  PATRYK SAWICKI
+00019B06  PAWEL MIECHOWSKI
+00019B17  MAREK CHMIELARZ
+00019B27  JEDREK WICHA
+00019B34  MR. JOHN DOE
+00019B41  MARCIN DREWS
+00019B5A  ADRIAN CHMIELARZ
+00019B6B  GRZEGORZ MIECHOWSKI
+00019B7F  ANDRZEJ SAWICKI
+00019B9B  JAROS]AW WEISS
+00019BAA  AGENCJA STYL
+00019BBD  thanks
+00019BC4  HENRY KUTTNER
+00019BD2  U-KNOW-WHO-U-R-BUT-WANT-2-STAY-IN-SHADOW
+00019BFB  EPIC MEGAGAMES
+00019C0A  XLAND SOFTWARE PUBLISHING
+00019C24  KATARZYNA MIECHOWSKA
+00019C3F  special thanks
+00019C4E  ANDRZEJ MICHALAK
+00019C71  production
+00019C7C  METROPOLIS SOFTWARE HOUSE
+00019C96  (c) 1994-1995
+00019CAA  All allusions and puns
+00019CC1  are intentional
+0001C851  Good day.
+0001C865  Why are you standing here?
+0001C882  It's a question of gravitation.
+0001C8A4  Extremely funny joke.
+0001C8BB  For a soldier.
+0001C8CC  I'm not a soldier, although I tried
+0001C8F0  to be.
+0001C8F8  I didn't pass the intell...
+0001C914  the physical test.
+0001C928  They ordered me to shoot at
+0001C944  a thrown coin when jumping
+0001C95F  from the tree onto a horse.
+0001C97D  Yep, that seems hard.
+0001C995  Special Forces ain't a piece of cake,
+0001C9BB  you know.
+0001C9C7  I'm sorry you didn't make it.
+0001C9E7  Yeah, I missed the horse.
+0001CA0B  What are you doing now?
+0001CA25  Wanna hear a funny answer?
+0001CA42  Please don't bother.
+0001CA59  All right, but you know, there's not much
+0001CA83  entertainment here.
+0001CA98  Sometimes I like to joke a bit.
+0001CAB8  Or a byte, heh-heh!
+0001CACE  Well then...
+0001CADD  I'm guarding this place...
+0001CAFA  Wow. That's a surprise.
+0001CB14  ...And I'm told to kill ANYBODY
+0001CB34  who tries to get in.
+0001CB4B  What about the owner?
+0001CB63  He's not just ANYBODY, you know.
+0001CB86  I guess you won't let ME in then?
+0001CBAA  Bingo.
+0001CBB3  Even if say I please?
+0001CBCB  No way, kiddo.
+0001CBDD  PLEEEEEASE.
+0001CBEB  Forget it.
+0001CBF6  I've got a heart of stone.
+0001CC13  Like your brain.
+0001CC27  I don't follow.
+0001CC39  Never mind.
+0001CC45  How can I soften your stone heart?
+0001CC6A  You can't. I'm a really tough guy.
+0001CC8E  But come here, I'll give you
+0001CCAB  a consolation...
+0001CCBF  Thanks. What is it?
+0001CCD5  Chocolate candy.
+0001CCE7  My employer gave me a few of these
+0001CD0A  for lunch and...
+0001CD1D  Is your employer home?!
+0001CD37  Mr. John Noty? Yeah, why?
+0001CD53  Oh, nothing...
+0001CD63  John Noty...
+0001CD71  I think I've heard of him...
+0001CD90  You should have. He's making big money,
+0001CDB8  you know.
+0001CDC3  Especially lately...
+0001CDDA  Yeah?...
+0001CDE5  Well, I don't know how.
+0001CDFE  Maybe it has something to do with
+0001CE20  the mad scientist that came round
+0001CE42  one day...
+0001CE4E  Oh, you think you're smart, don't you?!
+0001CE76  Are you a spy?!
+0001CE88  Hey, I'm just a common homeboy.
+0001CEA9  If you don't wanna talk,
+0001CEC2  don't talk.
+0001CED0  Mr. Bad Gay told me to watch
+0001CEED  for spies...
+0001CEFC  Do I really look like a spy?
+0001CF1B  ...And kill them immediately...
+0001CF3D  Hey, chill...
+0001CF4D  ...And I haven't killed anybody
+0001CF6D  for a loooong time...
+0001CF85  It's about this candy, isn't it?
+0001CFA6  Do you want it back? No problem.
+0001CFCA  Sorry, I just got carried away.
+0001CFEC  I understand.
+0001CFFA  It's hot around here.
+0001D01B  Mister guard, I...
+0001D030  Listen, boy.
+0001D03E  A spy or not a spy, it's out of
+0001D05E  the question.
+0001D06D  You won't get in, no matter if you just want
+0001D09A  to visit the place, steal something or
+0001D0C1  talk to Mr. John Noty.
+0001D0D9  Also you won't make me talk.
+0001D0F7  One more try and I'll make a few
+0001D118  highways for worms.
+0001D12D  In your body.
+0001D13C  Got it?
+0001D146  Got it.
+0001D151  Nice suit.
+0001D171  It's only you!...
+0001D195  What's in this bottle?
+0001D1AE  You can't prove anything!
+0001D1CA  Something hot, I guess?..
+0001D1E6  None of your business.
+0001D1FF  Drinking on duty, huh?
+0001D218  You think you've almost got me,
+0001D238  don't you?
+0001D244  Forget it.
+0001D259  You've seen nothing.
+0001D26F  I'm clean.
+0001D284  Get lost.
+0001D291  What would you say if I gave you some
+0001D2B7  gold?...
+0001D2C2  I'd say thanks.
+0001D2D4  Would you let me in?
+0001D2EB  I guess so...
+0001D2FB  You have to be sure.
+0001D312  OK, I'm sure. I will let you in.
+0001D335  All right. Here we go.
+0001D34F  Now please open the door.
+0001D36B  No way. Now buzz off.
+0001D383  Hey! I gave you the gold, remember?...
+0001D3AC  What gold?
+0001D3B9  WHAT GOLD?!?
+0001D3C8  I don't know nothing 'bout any gold.
+0001D3F0  You... You...
+0001D400  Buzz off.
+0001D40C  You said you'd let me in!
+0001D427  But you've let me down!
+0001D441  Yeah, but I'll let you off.
+0001D460  You can't even trust corrupt
+0001D47D  guards these days.
+0001D499  Hello.
+0001D4A2  I'm Mark.
+0001D4AD  What's your name?
+0001D4C1  What's my name?
+0001D4D3  I don't know, you tell me.
+0001D4F6  Don't tell me 'me', just say
+0001D513  your name!
+0001D520  Your na..
+0001D532  What did your dad call you?
+0001D550  Sonny.
+0001D559  Sonny as in the name or sonny
+0001D577  as in son?
+0001D584  Sonny.
+0001D58D  Are you stupid or just rude?
+0001D5AC  Sonny, I am.
+0001D5BB  (sigh)
+0001D5C5  Listen, Sonny or whatever.
+0001D5E1  What are you trying to do
+0001D5FB  with this ball?
+0001D60D  Well, grandpa said he'd take
+0001D62A  me to ZOO if I score.
+0001D642  I think you should throw the ball
+0001D664  a little bit higher.
+0001D67B  Yeah, I know.
+0001D691  So what?
+0001D69C  So why don't you do it?!
+0001D6B7  It must be something with
+0001D6D1  my eyes.
+0001D6DC  You should wear glassess?
+0001D6F8  No, why?
+0001D703  (sigh)
+0001D70B  Maybe you're just too weak to
+0001D729  send the ball high enough?
+0001D746  No kidding.
+0001D754  (sigh)
+0001D75E  Hey, kid!
+0001D769  I've got a great idea!
+0001D78A  Go to your grandpa and
+0001D7A1  say you've scored!
+0001D7B6  You mean lie?
+0001D7C6  Well, sort of...
+0001D7D9  I NEVER LIE!
+0001D7E8  Never?!
+0001D7F2  NEVER!
+0001D7FB  Good boy.
+0001D808  Hey...
+0001D811  Go away.
+0001D81D  Hey, boy! It's unbelievable!
+0001D844  You might think it's a joke,
+0001D861  but there's a hand holding
+0001D87C  a sword appearing from the lake!
+0001D89F  OK, I'll look but just don't 
+0001D8BD  think you've fooled me.
+0001D8D5  This hand appears every year.
+0001D8F4  Maybe this time will bring me luck
+0001D917  at basketball...
+0001D92B  Good day, sir!
+0001D93C  And good day to
+0001D94C  you, my son.
+0001D95B  My name is Mark, sir.
+0001D973  Great.
+0001D97B  What do you want?
+0001D98F  I'm just admiring your arm-chair.
+0001D9B2  It's nice.
+0001D9BF  Nice and pretty
+0001D9CF  comfortable.
+0001D9DE  And big.
+0001D9E9  2-person model.
+0001D9FC  Do you know the boy
+0001DA10  playing with the ball
+0001DA26  outside?
+0001DA31  Of course, he's
+0001DA41  my grandson.
+0001DA50  Nice kid.
+0001DA5C  Nice and smart.
+0001DA6E  Nice and small.
+0001DA80  He'll grow.
+0001DA8E  And become a very
+0001DAA0  famous basketball
+0001DAB2  player?...
+0001DABF  I hope he won't.
+0001DAD2  Then tell him to stop playing!
+0001DAFA  Later.
+0001DB02  Maybe.
+0001DB0A  Right now I need
+0001DB1B  some rest.
+0001DB29  Are you going to sit here
+0001DB43  all day long?
+0001DB53  Hope so.
+0001DB5E  For all of this beautiful day?
+0001DB7F  Hope so.
+0001DB8A  Aren't you interested
+0001DBA0  in the outside world?!
+0001DBB9  Not really.
+0001DBC7  Why's that?
+0001DBD5  I'm not interested
+0001DBE8  in news.
+0001DBF3  But...
+0001DBFC  As they say...
+0001DC0C  The best news
+0001DC1A  is no news.
+0001DC28  But people must know about
+0001DC43  progress and stuff!
+0001DC59  I won't even bother
+0001DC6D  to ask you why...
+0001DC81  Because...
+0001DC94  Because...
+0001DCA0  Uhm...
+0001DCA9  Right.
+0001DCB8  Anything new?
+0001DCC8  Hope not.
+0001DCD5  May I borrow this shotgun?
+0001DCF8  Pleeeease...
+0001DD07  Young man, this weapon is
+0001DD21  very old and dangerous...
+0001DD3C  and I'm a responsible man,
+0001DD57  got it?
+0001DD61  But I will...
+0001DD78  Maybe you will change your mind
+0001DD98  about the shotgun?...
+0001DDCA  Niente.
+0001DDDF  OK, I got it.
+0001DDF0  May I search your drawers?
+0001DE14  YES?!?
+0001DE1D  Oh, I forgot to tell you they are all
+0001DE43  empty.
+0001DE4B  Only the right upper one has a handkerchief
+0001DE77  in it.
+0001DE7F  You can take if you want, I don't need it.
+0001DEAC  Well, thank you.
+0001DEBE  You are very... kind...
+0001DED8  Just don't think I let you take
+0001DEF8  anything else.
+0001DF09  Of course, I wouldn't even dream.
+0001DF2E  May I borrow the fan?
+0001DF46  No way. It makes this hot day more
+0001DF69  bearable.
+0001DF76  About this fan...
+0001DF8A  Come back in winter.
+0001DFA2  Nice weather we have
+0001DFB7  today...
+0001DFC2  Indeed it is,
+0001DFD0  my dear.
+0001DFDC  Is it your daughter?
+0001DFF3  You are very kind,
+0001E006  my dear, making
+0001E016  me so young,
+0001E024  but of course
+0001E032  that sweetie is my
+0001E045  grand-daughter.
+0001E057  Oh, yes! She really
+0001E06B  looks grand!
+0001E07A  Well, I was once
+0001E08B  like that...
+0001E09A  But you still are!
+0001E0AF  How sweet of you...
+0001E0C4  But nobody sings
+0001E0D5  at my window
+0001E0E2  anymore,
+0001E0EC  if you know
+0001E0F8  what I mean.
+0001E107  Errr...
+0001E110  Yes...
+0001E118  I know...
+0001E123  I have similiar
+0001E133  feelings myself...
+0001E147  Sometimes...
+0001E155  I guess...
+0001E163  May I ask what you are
+0001E17A  doing?
+0001E183  Yes, you may,
+0001E191  my dear.
+0001E19D  What are you doing?
+0001E1B3  I'm knitting.
+0001E1C3  I understand.
+0001E1D2  What are you knitting?
+0001E1EB  This time you
+0001E1F9  didn't ask if
+0001E207  you may ask.
+0001E216  Oh, sorry. May I ask?
+0001E22E  Ask about what?
+0001E240  About what are you
+0001E253  knitting.
+0001E25F  You asked me
+0001E26C  about that before,
+0001E27F  didn't you?
+0001E28E  Is everything OK?
+0001E2A2  Indeed it is.
+0001E2B3  Is everything OK?
+0001E2C7  You know.
+0001E2D4  Is everything OK?
+0001E2E8  It's nice you ask,
+0001E2FB  but I've told you
+0001E30D  already.
+0001E319  Is everything OK?
+0001E32D  Don't repeat
+0001E33A  yourself.
+0001E347  Is everything OK?
+0001E35B  Don't interrupt
+0001E36B  my work.
+0001E377  Is everything OK?
+0001E38B  Oh shut up.
+0001E39A  Is everything OK?
+0001E3AF  Excuse my
+0001E3B9  immodesty...
+0001E3C8  Yes?...
+0001E3D2  ...but I thought
+0001E3E3  that an innocent
+0001E3F4  flower...
+0001E3FF  ...would express
+0001E410  my happiness at
+0001E420  meeting you.
+0001E430  I hope you
+0001E43B  like it...
+0001E448  Oh, dear!
+0001E453  I'm really
+0001E45E  touched...
+0001E46A  That's the nicest
+0001E47C  thing anybody has
+0001E48E  done for me...
+0001E49E  ...in last ten
+0001E4AD  years!
+0001E4B5  Thank you from all
+0001E4C8  my heart!
+0001E4D4  You're welcome.
+0001E4E7  Would you care for
+0001E4FA  another flower?
+0001E50C  You're very kind,
+0001E51E  my boy, but no,
+0001E52E  thank you.
+0001E53C  Are you sure you don't
+0001E553  want another flower?
+0001E56A  Yes. I'm sure.
+0001E57C  May I borrow this
+0001E58E  duster?
+0001E598  We don't know each
+0001E5AB  other too well, and
+0001E5BF  I don't...
+0001E5CB  ...lend things to
+0001E5DD  anybody who asks
+0001E5EE  for them.
+0001E5FA  Don't I look reliable?
+0001E613  I've said enough.
+0001E628  Any chances to borrow the
+0001E642  feather duster?
+0001E654  I like it where it is.
+0001E66E  Do you think you could
+0001E685  lend me the feather duster
+0001E6A7  But of course, I can't
+0001E6BE  see why I shouldn't...
+0001E6D6  ...help to such a nice
+0001E6ED  young man like you!..
+0001E705  Thank you very much.
+0001E71D  Ha! I'm even faster than Indy`!
+0001E73F  I've seen it all, boy!
+0001E767  I just...
+0001E773  Don't worry. I hope you killed
+0001E792  that fly.
+0001E79F  Excuse me, lady, but I think your
+0001E7C1  laundry is dry now...
+0001E7D8  ...and too much sun will distort
+0001E7F9  the clothes...
+0001E80A  How come the laundry dried
+0001E825  out so fast?
+0001E833  I'd better go and check it.
+0001E855  You were right, young man.
+0001E871  Thank you.
+0001E87E  You're welcome.
+0001E891  Do you need this fake apple?
+0001E8B0  It depends. This apple
+0001E8C7  has its own story.
+0001E8DB  I remember how one day
+0001E8F2  my younger sister Mary
+0001E909  was making...
+0001E919  Er, how long is the story?
+0001E936  Oh, there's no need to rush.
+0001E954  We do have hours to talk,
+0001E96E  don't we?
+0001E97A  I just realised I don't need that
+0001E99C  apple.
+0001E9A4  Thanks.
+0001E9AF  This apple...
+0001E9BF  No story, no apple.
+0001E9D6  No apple.
+0001E9E3  Could she be...
+0001E9F4  ...the most beautiful girl...
+0001EA13  in the world?...
+0001EA27  I think it's high time to
+0001EA41  introduce myself.
+0001EA54  I'm Mark.
+0001EA69  The moment I saw those eyes
+0001EA85  was the best moment of my entire
+0001EAAE  Not counting the time
+0001EAC4  I played doctor with
+0001EAD9  Susie.
+0001EAF1  I wonder...
+0001EAFE  I wonder if
+0001EB0A  you would like
+0001EB19  to get some...
+0001EB30  I mean...
+0001EB3B  I have something
+0001EB4C  I would like to give
+0001EB61  you, because...
+0001EB79  I think you
+0001EB85  are... And...
+0001EB95  Hey! I don't bite!
+0001EBA9  I see you want to tell me
+0001EBC3  something nice.
+0001EBD4  Just use simple
+0001EBE4  words...
+0001EBEF  Simple words?!
+0001EC00  Yes, simple words make
+0001EC17  things simple.
+0001EC28  Oh, yes.
+0001EC37  Simple words.
+0001EC4B  Here I go.
+0001EC57  Me like you and
+0001EC67  want give flower.
+0001EC7C  Well, maybe you should
+0001EC93  try something...
+0001ECA5  ...more complicated.
+0001ECC3  Sorry...
+0001ECCD  I just...
+0001ECD8  I just brought you
+0001ECEB  a flower.
+0001ECF7  Oh?...
+0001ED01  Do you like it?
+0001ED13  You're charming.
+0001ED27  As a matter
+0001ED33  of fact...
+0001ED40  Simple words, boy!
+0001ED53  Simple words!
+0001ED64  Oh,yes...
+0001ED6F  I just wanted to say
+0001ED84  that you're charming
+0001EDA0  I guess I should say
+0001EDB5  thanks.
+0001EDC0  I hate myself.
+0001EDD2  I have another
+0001EDE1  flower...
+0001EDED  Oh, let's not
+0001EDFB  exaggerate.
+0001EE08  And, as you can see, I'm
+0001EE21  not the only...
+0001EE32  ...woman in this room...
+0001EE4E  So you don't want
+0001EE60  another flower?
+0001EE72  No, thank you.
+0001EE84  Would you like some candy?
+0001EEA1  You're nice, but no, thanks.
+0001EEBE  I don't want to get fat.
+0001EED9  Hey, don't worry. Even Obelix
+0001EEF7  has friends.
+0001EF06  Who's Obelix?!
+0001EF17  Er, never mind. It's just that I found
+0001EF3E  this candy...
+0001EF4E  You FOUND IT?!
+0001EF5F  ...I found it's pretty hard to get,
+0001EF83  of course.
+0001EF8F  It's not some cheap pseudo-chocolate,
+0001EFB5  but the highest quality goodie!
+0001EFD6  It's made only from the things you
+0001EFF9  can find in a natural environment.
+0001F01D  No preservatives added.
+0001F037  Oh, all right. If you insist...
+0001F05B  Khm...
+0001F064  Oh yes, I think I should give you
+0001F086  something in return...
+0001F09F  Oh, no... You really don't
+0001F0BA  have to...
+0001F0C7  OK. Your wish.
+0001F0D9  Well, on second thoughts...
+0001F0F7  I knew it. You boys always want
+0001F117  something.
+0001F123  You can't do anything for
+0001F145  I cleaned my room once.
+0001F160  Well...
+0001F169  Let's forget it.
+0001F17B  Here's my present for
+0001F197  It's my ribbon. Think of me
+0001F1B3  sometimes.
+0001F1C1  Thanks. I will never
+0001F1D6  wash it.
+0001F1E2  I found your name on a banknote
+0001F202  some fatso gave me. Do you know
+0001F222  anything about it?
+0001F237  Show me the banknote.
+0001F250  Hey, what's up?!
+0001F263  Oh, poor me!...
+0001F275  Why are you crying?!
+0001F28C  This... this...
+0001F29D  Oh, poor me!...
+0001F2AE  Our... our neighbour, Mr.
+0001F2C8  John Noty gave me some
+0001F2DF  money one day...
+0001F2F1  ...and said that if I gave
+0001F30C  him a kiss he'd give
+0001F321  me more...
+0001F32D  ...but I thought it over
+0001F346  and I gave him all the
+0001F35D  money back.
+0001F36B  You mean, that pig tried
+0001F384  to buy you?!
+0001F393  I'm so unhappy!
+0001F3A5  Oh, man! That
+0001F3B3  does it!
+0001F3BF  Hey, you!
+0001F3CA  Would you please give me that nut
+0001F3EC  lying next to you?
+0001F402  Are you gonna give me that nut or not?!
+0001F42D  All right.
+0001F439  That's it.
+0001F445  Now you'll get what you deserve.
+0001F467  I'm gonna insult you until I get that nut.
+0001F493  You ugly squirrel you.
+0001F4AD  Don't you know it's not politically
+0001F4D1  correct to wear a fur?
+0001F4EB  Hey, thanks again for the nut.
+0001F50D  I didn't ask if I could take the rope.
+0001F535  It's really rude to take someone else's
+0001F55D  property without their permission.
+0001F581  And I might get caught, of
+0001F59C  course.
+0001F5A5  And they will put me in jail and
+0001F5C6  nobody will respect me anymore.
+0001F5E7  I could really ruin my life doing that.
+0001F612  No pain no gain.
+0001F626  Listen, guys. I want you to get
+0001F646  outta here at once!
+0001F65B  Or I'll have to shoot.
+0001F673  With a real gun.
+0001F685  I think.
+0001F691  I can see...
+0001F69F  ...there's a...
+0001F6B0  SPIDER!!!
+0001F6BD  Not that I'm chicken.
+0001F6D4  It's just that it could be
+0001F6EF  a mutant spider and it
+0001F706  could bite me...
+0001F718  ...and I'd get mutant too...
+0001F736  ...and I'd have to wear those
+0001F754  funny gloves and stuff...
+0001F76F  ...and I'd have a double life...
+0001F791  ...and I'd have to fight with Venom`
+0001F7B6  and others and I might get hurt...
+0001F7DA  ...and everybody would be making
+0001F7FB  money on me but me...
+0001F812  I think I'll pass then.
+0001F82D  This spider gives me thrills...
+0001F850  Hey, little buddy!
+0001F864  I've got a DECENT PROPOSAL for you.
+0001F889  A big, fresh and juicy apple for this old cone
+0001F8B8  which presses your back.
+0001F8D2  If you want to make a deal, stand here
+0001F8F9  and shake your muzzle.
+0001F913  I should have know
+0001F926  there's a catch.
+0001F939  The paddle is broken.
+0001F952  Hello there, big boy.
+0001F96B  Don't ignore me, please.
+0001F987  You know, I'm a little bit dog-tired
+0001F9AC  talking to you.
+0001F9BF  What's up?
+0001F9CD  Yes, I could take this...
+0001F9E8  It's a quiet little village...
+0001FA08  No police...
+0001FA16  Noone will hear their screams...
+0001FA39  But I don't have a hockey mask.
+0001FA5B  (sigh)
+0001FA65  I don't want my fingerprints on it.
+0001FA8A   Who knows what it was used for.
+0001FAAE  I'm afraid that it's too hard
+0001FACC  to catch a mouse just like
+0001FAEE  And what challenge would it be?
+0001FB11  I could try to scare these birds myself
+0001FB39  if I hadn't watched that Hitchcock
+0001FB5C  movie when I was five.
+0001FB74  My mum should never let me watch that.
+0001FB9C  Now I'm CHICKEN even when I eat eggs.
+0001FBC5  Great. Let's GET THE MESSAGE.
+0001FBE4  "Gold awaits at the end of the road."
+0001FC0D  Are you Mr. John Noty?
+0001FC26  How do you do, my friend.
+0001FC41  My people told me you tried
+0001FC5D  to get inside my mansion.
+0001FC7E  Er... You see...
+0001FC90  I'm here to...
+0001FCA6  I mean, I'm here on my vacations,
+0001FCC8  but I got sick of all these green
+0001FCEA  plants and trees around...
+0001FD06  ...and I just wanted to lick some
+0001FD28  civilisation.
+0001FD38  Well... I can understand you,
+0001FD56  my friend.
+0001FD62  I also think that the natural
+0001FD80  environment for us, people
+0001FD9B  of 20th century...
+0001FDAF  is TV and a bag of pop-corn.
+0001FDCC  But talking about the green
+0001FDE8  stuff...
+0001FDF2  I can't allow you to enter
+0001FE0D  my house, because... uhm...
+0001FE29  because it's ...being...
+0001FE43  ...under renovation, but as
+0001FE5F  a rich man I'll give you
+0001FE78  a hundred bucks...
+0001FE8C  so you can buy yourself
+0001FEA4  something that will help
+0001FEBD  you survive here.
+0001FED0  A walkman for example.
+0001FEE7  What do you say?
+0001FEFA  What do you take me for?!
+0001FF17  I will NEVER take this!
+0001FF30  NEVER!
+0001FF39  Don't get so excited.
+0001FF50  Pecunia non olet.
+0001FF63  I'll leave now. Don't be shy
+0001FF80  and pick up the banknote.
+0001FF9B  Noone has to know...
+0001FFB1  Good bye, my friend.
+0001FFC9  I can't believe he treated me
+0001FFE7  like that.
+0001FFF3  By the way...
+00020003  Peculiar non omelette?...
+00020020  Boy...
+00020028  It's all black...
+0002003B  ...and it looks like a man...
+0002005A  ...with some long pole...
+00020075  ...and a pot on its head...
+00020093  VGA artist shouldn't drink so much.
+000200BA  Searching trash cans again?
+000200D8  Oh, all right, there are only some
+000200FB  papers.
+00020106  The same as usual...
+0002011C  Disasters...
+0002012A  Corruption...
+00020139  Murders...
+00020145  Puzzle...
+00020150  Half-naked babes...
+00020166  I gotta subscribe.
+0002017D  Gee...
+00020186  ...I'm daaaancing...
+0002019C  ...and siiiinging...
+000201B3  It's John Noty...
+000201C7  ...raaain!...
+000201D7  ...singing to the camera!
+000201F3  ...what a beaaaaautifuuuul...
+00020213  Although he definitely shouldn't.
+00020237  ...feeeliiing...
+0002024A  I can't believe it.
+00020260  ...haaaappy agaaain!..
+00020279  What a horror.
+0002028A  ...just daaancing in the raaain...
+000202AF  My neighbour's dog will do it better.
+000202D7  ...la, laaaaa!...
+000202EB  I've had enough.
+000202FE  ...la, la! La, laaaa....
+0002031A  There's nothing intere...
+00020335  No, wait a minute...
+0002034B  There's something under the couch!
+00020371  Don't you think you
+00020385  should add a little
+00020399  bit of chilli?
+000203B7  I see you're not happy
+000203CE  with the stew you're
+000203E3  cooking.
+000203ED  Maybe you should try
+00020402  to spice it up a
+00020413  little?
+0002041D  Well...
+00020426  That's good idea.
+00020439  Luckily I've got something here.
+00020460  This... hic!...
+00020471  This chilllllleeeeee... hep!
+0002048F  ...must have been...
+000204A5  ...fermented...
+000204B6  The stew yyys spoiled aaand...
+000204D6  ...I'm fired!
+000204ED  I don't need this radio, but
+0002050A  I can use its batteries.
+00020524  Unfortunately I never know
+0002053F  where to open those Japanese
+0002055C  babies.
+0002056A  Security test: voice, scent, view.
+0002058E  Voice positively identified.
+000205AD  Nice song, man.
+000205C3  Security test: voice, scent, view.
+000205E7  Scent positively identified.
+00020606  I don't like water too, bro.
+00020629  Security test: voice, scent, view.
+0002064D  View positively identified.
+0002066B  Next time stand a bit closer, man.
+00020691  May I talk with...
+000206A6  Go away.
+000206B0  I'm busy.
+000206BB  Working.
+000206C5  Dinner soon.
+000206D3  Gotta hurry.
+000206E2  Aye, captain.
+000206F3  Well, but maybe...
+0002070E  ...AM...
+00020718  ...BUSY.
+00020722  DON'T...
+0002072C  ...DISTURB...
+0002073B  ...ME.
+00020749  Okay, okay.
+00020758  Last time I ask you...
+00020778  B like Bill.
+00020786  U like Ulrik.
+00020795  S like Sean.
+000207A3  Y like...
+000207AE  ...like...
+000207C3  No. Like...
+000207D1  Yabbadabbadoo?
+000207E2  No, no. Like...
+00020803  Leave me alone now, PLEASE!
+00020821  All right, all right.
+00020842  Wrrrr...
+0002084D  Oh, nothing.
+0002085D  Good day, Mr. Robot.
+00020874  Hey, yo, wassup my man,
+0002088C  you know what I'm sayin'?
+000208A7  Call me Mike, you know
+000208BE  what I'm sayin'?
+000208D8  Are you sure everything's
+000208F2  all right with your...
+0002090A  ...program?...
+0002091B  What's da problem, man?!
+00020935  Neva seen da rappin' robo-safe,
+00020955  you know what I'm sayin'?
+00020971  Actually, never.
+00020984  I'm brand new, bro.
+00020999  Fresh stuff, you know what I mean?
+000209BD  Smart people sez da robots
+000209D8  should be for everybody,
+000209F2  you know what I'm sayin',
+00020A0C  so they gave me human
+00020A22  personality,
+00020A30  you know what I mean?
+00020A46  Cool, ain't that?
+00020A5A  Khm... Yeah, great.
+00020A6F  So, you're some kind of safe?
+00020A8F  That's right, man.
+00020AA3  Totally reliable, you know
+00020ABE  what I'm sayin'?
+00020AD0  If you wanna get me open, you
+00020AEE  gotta prove you're da owner.
+00020B0C  Now check diz (CENSORED) out:
+00020B2A  I can judge if it's the right
+00020B48  homie by three things:
+00020B60  ...view, scent and da voice.
+00020B7D  You know what I'm sayin'?
+00020B99  But will you please open
+00020BB2  ...yourself... just to let me see
+00020BD4  what you got inside?
+00020BEB  Sorry, bro.
+00020BF8  You don't look like da owner...
+00020C19  ...you don't smell like him...
+00020C39  ...and your voice is kinda different.
+00020C60  Now (CENSORED), you know what I mean?
+00020C89  Sesame, open...
+00020C9B  (CENSORED), you (CENSORED).
+00020CBA  Hi there!
+00020CC6  (PARENTAL GUIDANCE: EXPLICIT LYRICS)
+00020CEE  I'm telling you, it's something great.
+00020D17  I remember when you killed my
+00020D35  servant, testing your bullet-proof
+00020D58  T-shirt.
+00020D63  That was a long time ago...
+00020D81  Or like you made rapping
+00020D9A  robo-safe, which goes mad
+00020DB4  every time...
+00020DC3  ...I ask it to open.
+00020DDA  You got a bad attitude...
+00020DF6  Or like you sold me
+00020E0A  the recipe for girls'
+00020E20  heart-breaking.
+00020E32  Money didn't work?
+00020E4F  Strange. Usually it works.
+00020E6C  Or when you...
+00020E7D  ALL RIGHT, ALL RIGHT!
+00020E94  Let's forget this!
+00020EA8  I already tested my new
+00020EC0  invention on myself!
+00020ED7  Really?
+00020EE1  Really.
+00020EEA  I can demonstrate it.
+00020F03  Ok, I'll take my chance.
+00020F20  Great.
+00020F28  Ultimate gnome-maker.
+00020F40  Khm, it's just a side effect.
+00020F5F  Sometimes I can't control my
+00020F7C  inventions.
+00020F89  But don't worry, it lasts only
+00020FA8  a second.
+00020FB4  I hope so.
+00020FC2  Here I am.
+00020FCE  Well, have you noticed anything
+00020FEE  else unusual?
+00021006  Great!
+0002100E  So the pills still work!
+00021029  Oh yeah?
+0002103A  Check out your wallet!
+00021053  My wallet is still...
+0002106C  Where is my wallet?!
+00021082  You thief!
+0002108E  Give it back!
+0002109E  Take it easy, here's your
+000210B8  wallet.
+000210C3  I demand an explanation.
+000210E4  This is the best thing I have
+00021102  ever invented!
+00021113  What's that?
+00021122  You didn't see me steal
+0002113A  your wallet,
+00021148  ...because I have eaten...
+00021164  THE TIME PILL!
+00021176  The time pill?
+0002118D  Anyone who eats it, lives
+000211A7  1000 times faster than the
+000211C2  rest of the world!
+000211D7  That means...
+000211E7  That means the world for
+00021200  this person moves 1000
+00021217  times slower!
+00021226  Only for a few seconds,
+0002123E  though...
+0002124A  Well... That's interesting.
+00021266  But what's the use?
+0002127C  I don't care.
+0002128B  Think about it.
+0002129C  You could, for example, get in
+000212BB  the cinema without a ticket,
+000212D8  and nobody would notice you.
+000212F7  Of course!
+00021303  Great!
+0002130B  I want to buy the patent!
+00021327  That's the problem...
+0002133E  As you know, my uncel Gallagher,
+0002135F  used to invent the best things
+0002137E  when he was ...let's say...
+0002139C  ...drunk...
+000213AA  ...intoxicated.
+000213BB  And the same happened to me
+000213D7  (sigh).
+000213E0  So last night I woke up with
+000213FD  a horrible headache and
+00021415  found those pills.
+00021429  I don't remember how I made them.
+0002144D  Oh no!
+00021456  But I may try to work on them.
+00021476  I need your money for that.
+00021493  Let's make a deal.
+000214A7  You build me a new
+000214BA  laboratory and stuff...
+000214D3  ...and I'll give you my rights.
+000214F5  You'll give me the patent?!
+00021519  All I care about is the
+00021531  respect of the science
+00021548  society respect.
+0002155A  And Nobel.
+00021566  You know, honoris causa here
+00021583  and there, interviews...
+0002159E  All right. You got the deal.
+000215BC  Prepare the list of necessary
+000215DA  equipment.
+000215E7  Wonderful.
+000215F5  This fool trusts me.
+0002160B  But I will use him...
+00021622  The time pills...
+00021635  I won't be selling them to
+00021650  those stupid people!
+00021666  I don't care about the
+0002167D  patent!
+00021686  I could rob any bank
+0002169B  without being seen!
+000216B0  Faster than light!
+000216C4  I need to steal some money
+000216DF  or gold for this mad man's
+000216FA  laboratory.
+00021709  But soon...
+00021716  I'll get rich.
+00021726  Veeeery rich.
+00021736  I feel like I could...
+0002174F  ...like I could...
+00021766  TAKE ON THE WORLD!...
+00021780  I always wanted to say that.
+000217A0  It's me again.
+000217B1  Goodbye again.
+000217C3  Let's say I haven't heard that.
+000217E4  Is Mr. John Noty home?
+000217FD  Yeah, but he said you can't get in.
+00021823  Me?! Why?!
+00021830  Your last invention cost him
+0002184D  two walls.
+0002185A  Oh, that time machine...
+00021874  But now I have some...
+0002188D  Not to mention the disapearance of his cat.
+000218BB  The cat is happier than
+000218D3  any of us now!
+000218E4  If the world still exists in
+00021901  XXV century.
+0002190F  Never mind.
+0002191C  You just have to let me in.
+0002193A  Oh yeah?
+00021945  Or I'll tell Mr. John Noty you drink on duty.
+00021975  You're bluffing. You have no proof.
+0002199B  Yeah, but you never know.
+000219B8  Ok, get in, you filthy terrorist.
+000219DB  Just don't tell anybody.
+000219F6  Of course. Thank you.
+00021A16  That's how it all happened...
+00021A35  That's why nobody has seen
+00021A50  how things were
+00021A60  being stolen...
+00021A71  It's a really dangerous
+00021A89  invention!
+00021A96  I HAVE TO stop John Noty!
+00021AB2  Somehow.
+00021ABD  Boy! Those pills I took
+00021AD5  from Mike must be...
+00021AEB  Oh, no!
+00021AF4  I can hear somebody coming!
+00021B13  I have to hide somewhere!
+00021B36  I have to buy an old-fashioned safe.
+00021B5C  That stupid robot went mad again.
+00021B7F  I hate it.
+00021B8B  CLOSE, YOU PIECE OF JUNK!
+00021BA8  Third time this week.
+00021BBF  Oh, all right, all right!...
+00021BDD  I'm coming!...
+00021BEF  ...cover it all.
+00021C01  I need more money for the security system.
+00021C2D  I've got only two men and...
+00021C4C  More and more!
+00021C5C  It's all I hear!
+00021C6F  All right, I'll explain again...
+00021C93  Mr. John Noty?
+00021CA3  I just received some information from
+00021CC9  the professor.
+00021CD9  He's asked you to come to the laboratory.
+00021D04  He says he's found out the structure of
+00021D2C  the pills.
+00021D3A  So this is it?!
+00021D4C  Definitely ...hic!... yes.
+00021D69  Great!
+00021D73  I have to stop them!
+00021D89  There's no time to waste!
+00021DA6  Well, well, well...
+00021DBB  You really play on my nerves.
+00021DDA  It was a good idea not to save money
+00021DFF  on the security system...
+00021E1A  This force field is indestructible!
+00021E47  But I have to kill you anyway.
+00021E68  No, no!
+00021E72  Shut up!
+00021E7D  It's not worth it!
+00021E92  Oh really?
+00021E9F  I don't want to...
+00021EB8  The poor professor has fainted...
+00021EDC  But... How...
+00021EEB  I DON'T UNDERSTAND ANYTHING!!!
+00021F0C  It's very easy.
+00021F1D  We attached a secret micro-camera
+00021F3F  to your cap.
+00021F4D  This way we knew all the time what was
+00021F74  happening.
+00021F81  You have seen when I?...
+00021F9C  I don't want to embarass you.
+00021FBB  You did a good job for the RGB.
+00021FDD  But John Noty has escaped!
+00021FFA  He's not important.
+0002200F  We have the professor, you'll give us the pills.
+00022041  Sorry, but you can't keep them for yourself.
+00022070  Okay, but...
+0002207E  Could you please give me just a minute?
+000220A7  I have some private business to do with
+000220CF  this scum.
+000220DD  All right. But hurry up.
+000220FA  (gulp)
+00022102  This time-effect really doesn't last
+00022127  long...
+00022132  You've lost, mister!
+00022148  The police are surrounding the building!
+00022173  Don't be stupid.
+00022185  Didn't you think I'd have
+0002219F  a secret way out?
+000221B3  Oh yeah?
+000221BD  What's that?
+000221CC  Like I'm going to tell you...
+000221EB  Get lost, you little creep.
+00022208  I'm busy.
+00022215  I'll have to disarm you.
+0002222F  Be nice and surrender without problems.
+00022259  I don't have time for jokes.
+00022277  Get the hell out of here,
+00022291  before I point my gun at you
+000222AE  again.
+000222B7  I warn you...
+000222C7  Where do they sell
+000222DA  bores like you?
+000222ED  I won't give you any more chances...
+0002231B  And bye.
+00022327  Stop packing that money!
+00022343  Hi, there!
+00022355  What's your problem?
+0002236C  I was sent here for some training.
+00022391  Another wanna-be secret agent, huh?
+000223BE  Show me your documents and you'll get in.
+000223EA  Okey dokey.
+000223F9  Can't you let me in without all that
+0002241E  bureaucracy?
+0002242D  Sorry, no.
+00022439  Rules are rules.
+0002244C  And morons are morons.
+00022466  And dead people are dead people.
+0002248A  Have a good day, sir.
+000224A3  MAY I PASS, PLEASE?!
+000224BA  YES, YOU MAY!
+000224C9  JUST SHOW ME YOUR DOCUMENTS!
+000224E9  Let me in!
+000224F6  Show your documents!
+0002250D  You take your job really seriously,
+00022531  don't you?
+0002253E  Are you blind or what?
+00022556  I'm reading a magazine on duty.
+00022579  Oh, yeah.
+00022584  Sorry.
+0002258E  I have to...
+0002259D  Documents!
+000225AB  What are you reading?
+000225C3  'Soldier News', of course.
+000225E0  You love all that military stuff,
+00022602  don't you?
+0002260F  Are you crazy?
+0002261F  I like pictures of cool babes...
+00022641  ...crosswords...
+00022653  ...the humor page...
+00022669  ...rumors...
+00022677  ...recipes...
+00022687  COOKING?!
+00022693  Yes, they try to raise their profile.
+000226BA  Gain new readers, you know.
+000226D8  Oh yeah.
+000226E2  Great idea.
+000226EF  Is there a knitting page too?
+0002270F  I get the feeling you're
+00022728  trying to be funny.
+0002273E  Nah, me?
+00022748  Never.
+0002275A  Would you lend me the magazine?
+0002277C  And what am I supposed
+00022793  to kill the time with
+000227B1  Erm...
+000227B9  You could count the leaves.
+000227D7  There're 11034 leaves here.
+000227FE  What's up?
+0002280B  The sky, I hope.
+0002281F  Keep up the good work.
+0002283C  Hey, get back!
+0002284E  What's the matter?
+00022863  You must show me your pass
+0002287E  before I let you enter the
+000228A1  What if I don't?
+000228B4  I'll have to shoot you.
+000228CE  (gulp)
+000228DB  I warn you...
+000228EA  My bullets are faster than you...
+00022912  All right.
+0002291E  Report to the captain.
+00022936  He should be around somewhere.
+00022957  Thanks, man.
+0002296A  We're gonna turn you into a real man,
+00022990  right, son?!
+0002299F  Erm...
+000229A8  Best of the best!...
+000229C7  By sweat, blood and tears!
+000229E4  I'd rather...
+000229F4  I'm glad to see your enthusiasm, son!
+00022A1B  Let's not waste time!
+00022A32  I was told to give you some express training.
+00022A61  All right, son!
+00022A72  You'll have to pass three trials!
+00022A95  Let's begin with the easy one!...
+00022ABD  The task is simple.
+00022AD2  I'll lock up you here...
+00022AEC  ...and you must escape.
+00022B05  Is it clear?!
+00022B15  Sir, I...
+00022B21  GOOD!!!
+00022B2D  Hello?
+00022B36  Great.
+00022B40  OK, that was funny.
+00022B55  Now let me out!
+00022B68  Hey! Is there anybody out
+00022B82  there?!
+00022B8C  HELP!!!
+00022B97  Have mercy!
+00022BA4  I'm gonna die here!
+00022BBB  I'm getting hungry!
+00022BD2  I don't know what to say now...
+00022BF5  I think...
+00022C01  ...you've passed...
+00022C16  ...the first test...
+00022C2C  ...Let's get...
+00022C3D  ...to the next one...
+00022C59  Ok, soldier.
+00022C67  Let's assume I'm your captive...
+00022C89  ...and I know some secret password.
+00022CAE  Your task is to get it from me.
+00022CCF  CLEAR?!?
+00022CDA  Am I restricted?
+00022CF2  Do anything you want.
+00022D0A  May I even spit in your eye?
+00022D32  Thanks, just checking.
+00022D4C  Please tell me the password
+00022D68  and let's get over it all.
+00022D85  OK, think about it.
+00022D9C  Hey, talk to me.
+00022DAF  Do you hear me?
+00022DC1  EARTH TO CAPTAIN, EARTH TO CAPTAIN!
+00022DE7  You're hopeless.
+00022DFB  Are you ready to talk?
+00022E14  OK, I'll give you some more time.
+00022E39  Now, what is the password?
+00022E56  Get lost, you pathetic wimp.
+00022E75  Be nice, or I'll tickle you again.
+00022E9A  Go on, that'll be a pleasure.
+00022EBB  You enjoyed that, didn't you?
+00022EDB  Well, you know...
+00022EEF  Ok, I'll find some other way.
+00022F10  I brought you something...
+00022F2D  You can't bribe me.
+00022F43  Oh, yeah?
+00022F51  OH GIMMIE GIMMIE GIMMIE!!!
+00022F6D  I'LL DO ANYTHING!!!
+00022F83  Password...
+00022F91  The password is 'COFFEE'.
+00022FAC  Tell it to the barman and
+00022FC6  he'll give you something.
+00022FE1  Then he'll tell you about the third task.
+0002300C  NOW FREE ME!!!
+0002301D  I'll think about it.
+00023035  You...
+0002303D  ...you...
+00023049  ...have passed, sir!
+00023061  Would you care for a wonderful kaleidoscope?
+00023090  I had one once, but captain saw me
+000230B3  playing with it and took it from me.
+000230D9  I think he uses it himself,
+000230F5  you know.
+00023101  If you give me the gazette,
+0002311D  I'll give you that kaleidoscope.
+00023140  I don't want to know how you got it...
+00023171  ...but what if the captain sees me again?
+0002319D  Don't worry, he's tied up.
+000231BA  Oh, test number two, I guess?...
+000231E4  OK, let's have some fun here.
+00023205  'COFFEE'.
+00023215  Hot, wasn't it?
+00023227  Uh-huh.
+00023230  The captain says you're gonna tell me
+00023256  about the third task.
+0002326E  Again...
+00023278  Well, it's kinda hide'n'seek.
+00023297  The captain hides, you seek.
+000232B6  But I left him tied to a chair!
+000232D8  That man and his sick games...
+000232F8  He enjoys it more than he should!...
+0002331E  He cheated you.
+0002332F  Go and check.
+0002333E  I'm sure he's already free.
+0002335C  But I took his knife!
+00023373  How could he cut the ties?!
+00023391  Maybe he walked away with the chair
+000233B5  tied to his...
+000233C6  Never mind.
+000233D3  Any hints about where he might hide?
+00023402  Oh, c'mon.
+0002340F  No, boy. Play fair.
+00023426  Time for a little hint?
+00023447  Hello, sir. I'm Mark.
+0002345F  What a pity you're not a dollar.
+00023481  What can I do for you?
+0002349B  You can give me a lot of money...
+000234BE  ...or you can do a headstand...
+000234DF  ...or...
+000234EA  Okay, okay. It's a tie.
+00023503  So?...
+0002350C  Who's else is in the camp?
+00023529  You're a journalist?
+00023540  No, I'm a secret agent.
+0002355A  You too?
+00023564  Anyway, there are only three men.
+00023587  Me, the captain and the guard.
+000235A8  No women?
+000235B4  No cry.
+000235BF  Erm, well...
+000235CF  Not much of a rush on, is there?
+000235F2  Do you want to order something or not?
+0002361B  I don't have money.
+00023631  Today's free.
+00023641  Really?
+0002364B  Really.
+00023655  I want a hot-dog.
+00023671  Pizza?
+00023682  Toast?
+00023693  Anything?
+000236A8  No, thank you.
+000236B8  I'm not hungry.
+000236CB  What are you drinking?
+000236F4  Nice weather.
+00023704  Mhmmm...
+00023710  Sometimes I feel tired.
+0002372A  Very tired.
+00023739  Hey, Woodstock's over!
+00023753  Thanks.
+00023761  What the...
+00023770  Hey, aren't you thirsty?
+0002378A  Have you forgotten about your cup?
+000237B0  Sir, we have been informed that...
+000237D5  Later!
+000237DD  I'm busy right now!
+000237F3  As you wish, sir.
+00023808  Sir, some young boy tried to get inside
+00023830  the mansion.
+00023840  Don't worry.
+0002384E  Young boys are curious...
+00023869  ...and my house plays on their imaginations.
+00023897  But keep an eye on him.
+000238B1  Yes, sir!
+000238BE  Sir, that boy tried to get in again.
+000238E6  Do you think it's serious?
+00023903  Hmmm... No...
+00023912  He doesn't look dangerously.
+00023930  But maybe we should...
+0002394F  Just keep him out of the mansion.
+00023972  But tell me if he appears again.
+00023994  Now get back to your job.
+000239B1  Don't tell me it's that boy again...
+000239D8  I'm afraid so.
+000239E8  The guard says the boy's really desperate.
+00023A16  He's starting to get on my nerves.
+00023A3A  And what am I paying you for?
+00023A5A  Should I...
+00023A68  Not yet.
+00023A72  Let's give him a last chance.
+00023A93  Sir...
+00023A9C  Let me guess...
+00023AAD  THE BOY?!?...
+00023ABD  Bingo.
+00023AC6  Why do I have to do everything?!
+00023AE8  Can't you do anything yourself?
+00023B0A  Shall I kill him or just beat him to pieces?
+00023B39  You're stupid.
+00023B49  There are ...better ways...
+00023B68  I'll handle it myself.
+00023B80  Now get out!
+00023B8E  I have to change my clothes.
+00023BAE  Hey, you up there!
+00023BC2  Get down at once!
+00023BD6  Zero reaction.
+00023BE7  Is it deaf or something?
+00023C03  Hey, birdy, don't be shy.
+00023C1E  Come to me...
+00023C2E  (sigh)
+00023C38  Come here, little bird...
+00023C56  Hey, keep away from this door!
+00023C7E  None of your business.
+00023C96  Just keep away.
+00023CAC  I told you to keep away, didn't I?
+00023CD1  OK, OK...
+00023CDE  I've got a new delivery of gold.
+00023D01  Yeah, I know.
+00023D10  Password?
+00023D1C  Bimbo.
+00023D25  All right.
+00023D31  You can bring the gold in.
+00023D4E  Okey dokey.
+00023D5D  As I told you, our organisation
+00023D7D  takes care of unusual problems.
+00023D9E  Last time we solved the problem of a UFO
+00023DC7  over the White House.
+00023DDF  Oh, heally?
+00023DF3  We shot the thing down.
+00023E0E  I undehstand.
+00023E1D  And who oh ...what was inside?
+00023E3E  You want to know?
+00023E52  Oh, yes! As a fohtune-telleh
+00023E6F  I'm a cuhious pehson.
+00023E87  Do you REALLY want to know?
+00023EAC  But...
+00023EB4  ...REALLY REALLY?
+00023ED0  Sorry, I can't tell you.
+00023EEA  Anyway, we need your help.
+00023F07  I'm not a sechet agent, I'm a fohtune-tell...
+00023F37  I know.
+00023F40  We have a very difficult case,
+00023F5F  which we haven't been able
+00023F7A  to solve for 6 months.
+00023F92  We're in a hopeless situation.
+00023FB2  I thought to myself, if we handle
+00023FD4  strange cases...
+00023FE6  ...then why not use
+00023FFA  strange means?
+0002400B  And?...
+00024015  Let me show you the phone-book.
+00024036  Use your powers and select a name.
+0002405A  Maybe a fresh mind will solve the case.
+00024084  You don't believe it will wohk, do you?
+000240AE  No, I don't.
+000240BE  This is stupid.
+000240D0  I know.
+000240DB  Okay. Show me the book.
+000240F7  The name is...
+00024107  ...Hoppeh...
+00024115  ...Mahk Hoppeh...
+00024131  He's coming.
+00024141  Oh, I'm sorry about my men.
+0002415E  Sometimes they get a bit too nervous...
+00024187  But, please...
+00024197  Let's talk...
+000241A8  Listen, mister...
+000241BC  I know, I know.
+000241CD  Please, give me five minutes and
+000241EE  everything will become clear.
+0002420E  Go on, I always liked that conspiracy stuff.
+0002423D  Well...
+00024246  I'm head of a secret government organization
+00024273  called the RGB.
+00024285  Why RGB?
+00024290  Even I don't know.
+000242A4  It's so secret.
+000242BF  The aim of my organization is to solve
+000242E6  all the extraordinary problems around
+0002430C  the world.
+00024319  Like taxes?
+00024327  No, like UFOs, strange inventions,
+0002434A  spirits...
+0002435E  Yes, when the police, the secret service and so on
+00024391  can't solve the problem...
+000243AD  ...it's delivered to us. But...
+000243CE  You see, six months ago gold and cash
+000243F4  deposited in bank safes started to
+00024417  disappear.
+00024423  Literally. Pum! And it's gone!
+00024444  And?...
+0002444E  Gone - without a trace.
+00024467  The whole thing happens in a few seconds.
+00024492  We have video recordings but they don't
+000244BA  show anything.
+000244CA  That's why we hired the fortune-teller
+000244F1  to show us someone who could be our
+00024515  salvation.
+00024521  She has chosen you.
+00024537  I beg your pardon...
+0002454D  You said you have hired...
+00024569  ...A FORTUNE TELLER?!?
+00024582  Yes, we're desperate and
+0002459B  we'll try everything once.
+000245B8  This is crazy. Mum, wake me up!
+000245DA  Relax.
+000245E2  We have a proposal for you.
+000245FF  Try to help us and you will be rewarded.
+0002462A  What's in it for me?
+00024641  Self-satisfaction?
+0002465A  Our respect?
+0002466D  Patriotism?
+0002467F  Girls?
+00024688  What do you mean?
+0002469C  Every girl loves a secret agent.
+000246C0  Ok, I agree. What am I supposed to do?
+000246E9  Before you start, I suggest that first
+00024710  you get some training in our special
+00024735  secret camp.
+00024743  I'll issue a pass for you.
+00024770  ...and it was even fun.
+0002478A  I'm glad you liked our training methods.
+000247B4  But let's get to the point.
+000247D1  I must admit I didn't believe you could
+000247F9  actually help.
+00024809  Nothing personal.
+0002481D  I hope so.
+0002482A  But you brought us luck.
+00024844  Our people found out that some
+00024863  businessman is spending his
+0002487F  money like crazy...
+00024894  ...for some strange materials.
+000248B4  There are three very suspicious things
+000248DB  about him:
+000248E7  ...He pays in cash, which is very strange
+00024911  in a plastic card century...
+0002492F  ...Second, half a year ago he wasn't nearly
+0002495B  as rich as he is now...
+00024974  ...Third, what the hell does he need
+00024999  100 kg of borax for?
+000249B0  Maybe he's just a weirdo.
+000249CC  Maybe.
+000249D4  But I want you to fly to the place
+000249F7  and try to sneak inside his mansion...
+00024A1F  ...to find out some more information.
+00024A46  What do you say?
+00024A59  Well...
+00024A63  I promise you'll be an official secret
+00024A8A  agent after this mission.
+00024AA7  Promise?
+00024AB2  My word of honour.
+00024AC7  Okay. I'm ready.
+00024AD9  Where am I supposed to go?
+00024AF6  It's a little village.
+00024B0E  You won't find it on many maps...
+00024B31  But before you go, let me give you some special
+00024B61  agent equipment.
+00024B73  I would give you some boots to make you fly,
+00024BA0  but I've lent them to somebody.
+00024BC1  The mega-power gauntlets are also
+00024BE3  out of stock.
+00024BF2  As a matter of act I only have special
+00024C19  super glue.
+00024C26  Well, that's better than nothing...
+00024C4B  Good luck!
+00024C5C  Don't worry.
+00024C6A  He'll be okay.
+00024C7A  Just... oh, look, here he goes...
+00024CA2  He got what he deserved.
+00024CBC  But we've wasted enough time. Let's go!
+00024CE6  No! Wait!
+00024CF1  I have to see Anne!
+00024D07  Ermm... You can't.
+00024D1C  And why is that?!
+00024D31  You see... Anne was our man.
+00024D4F  She was ordered to keep an eye on you
+00024D75  in case the microcamera got out of
+00024D98  order.
+00024DA0  And she was also your motivation...
+00024DC6  I don't believe you!
+00024DDD  She has already gone off on
+00024DF9  her next mission.
+00024E0C  Sorry.
+00024E15  I guess grandma was involved too?
+00024E39  No, she's from here. We payed her.
+00024E5E  Now that's interesting.
+00024E77  Because if so, why did I have so
+00024E98  many problems?...
+00024EAC  We were pumping up your determination.
+00024ED4  We counted on you to have some strong will.
+00024F01  We were not wrong, were we?
+00024F1F  You treat people like animals in
+00024F40  an experiment.
+00024F50  You're ruthless...
+00024F65  It worked, didn't it?
+00024F7D  This is all so unbelievable.
+00024F9B  Maybe you're gonna tell me that the dog is
+00024FC6  a masked agent...
+00024FD9  ...the old man was my guard...
+00024FF9  ...and you are from Mars?!
+0002501A  It's not a soap opera, it's
+00025036  just usual agent work.
+0002504E  But hey, join the RGB and you could
+00025072  work with Anne there!
+0002508B  Well...
+00025094  I'll think about it...
+000250AD  Great.
+000250B5  It was a pleasure to see you in action!
+000250E3  You don't have to tell me.
+000250FF  I have already read a very detailed report.
+0002512D  But what happened to the professor?
+00025153  Oh, that poor man has forgotten the pill recipe
+00025183  again.
+0002518B  We'll give him the best laboratory we can.
+000251B7  Right now we have only those few pills
+000251DE  you gave us.
+000251ED  And John Noty?
+000251FE  Don't worry, his greediness will be punished.
+0002522E  I hope so...
+0002523C  And one more little thing...
+0002525A  You have promised me something...
+00025282  Me?...
+0002528A  I don't remember...
+000252A0  You said you'll make me an official agent...
+000252CE  'Girls love secret agents'. Remember?
+000252FA  (sigh)
+00025302  A promise is a promise...
+0002531D  Let me think.
+0002532D  All right. Come here.
+00025346  In the name of...
+00025359  ...blah...blah...blah...
+00025373  ...blah...blah...
+00025386  ...for our country.
+0002539D         Well...       
+000253B4  That's all, folks!
+000253CA  I found the time pill!
+000253E2  It must have fallen out of the jar!...
+0002541A  This is charming!...
+
+# _work/TEENAGNT.unp.exe: 2784 runs printed, min length 6, high bytes rejected, 1 length-prefixed

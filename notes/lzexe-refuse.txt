@@ -1,0 +1,3 @@
+xcopy.exe                REFUSED: e_crlc = 1; an LZEXE image has none
+
+lzexe.py: 1 of 1 refused

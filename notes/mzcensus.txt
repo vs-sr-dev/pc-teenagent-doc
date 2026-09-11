@@ -1,0 +1,50 @@
+=== the 8 MZ executables ===
+file                    size  cblp   cp     img  slack  crlc   hdr  cs:ip  ss:sp  int3f
+DOSBOX/dosbox.exe    5470720   120    1     120 5470600     0    64  0000:0000 0000:0000     12
+DOSBOX/dosbox_with_debugger.exe 5575168   120    1     120 5575048     0    64  0000:0000 0000:0000      5
+DOSBOX/resources/drives/y/dos/xcopy.exe   22867   339   45   22867      0     1    32  0000:0000 113a:0200      0
+DOSBOX/unins000.exe  3743569    80    2     592 3742977     0    64  0000:0000 0000:00b8     21
+SOUNDSET.EXE            4227   131    9    4227      0     0    32  00f0:000e 0193:0080      0
+TEENAGNT.EXE           78426    90  154   78426      0     0    32  130a:000e 2563:0080      0
+set_config/Game Configurator.exe 38115928   144    3    1168 38114760     0    64  0000:0000 0000:00b8    733
+unins000.exe         1343048    80    2     592 1342456     0    64  0000:0000 0000:00b8      6
+total .EXE bytes: 54353953
+
+=== e_cblp against the file length modulo 512 ===
+If these agree, the third byte of the file is arithmetic,
+not a signature, and there is no MZP marker in this folder.
+  DOSBOX/dosbox.exe    e_cblp= 120  size mod 512=   0  DIFFER  byte2=0x78 ('x')
+                                     image mod 512= 120  agree  slack=5470600
+  DOSBOX/dosbox_with_debugger.exe e_cblp= 120  size mod 512=   0  DIFFER  byte2=0x78 ('x')
+                                     image mod 512= 120  agree  slack=5575048
+  DOSBOX/resources/drives/y/dos/xcopy.exe e_cblp= 339  size mod 512= 339  agree  byte2=0x53 ('S')
+                                     image mod 512= 339  agree  slack=0
+  DOSBOX/unins000.exe  e_cblp=  80  size mod 512= 337  DIFFER  byte2=0x50 ('P')
+                                     image mod 512=  80  agree  slack=3742977
+  SOUNDSET.EXE         e_cblp= 131  size mod 512= 131  agree  byte2=0x83 
+                                     image mod 512= 131  agree  slack=0
+  TEENAGNT.EXE         e_cblp=  90  size mod 512=  90  agree  byte2=0x5a ('Z')
+                                     image mod 512=  90  agree  slack=0
+  set_config/Game Configurator.exe e_cblp= 144  size mod 512=  88  DIFFER  byte2=0x90 
+                                     image mod 512= 144  agree  slack=38114760
+  unins000.exe         e_cblp=  80  size mod 512=  72  DIFFER  byte2=0x50 ('P')
+                                     image mod 512=  80  agree  slack=1342456
+  3 of 8 agree against the FILE
+  8 of 8 agree against the IMAGE, which is what e_cblp is defined against
+
+=== toolchain banners ===
+  DOSBOX/dosbox.exe    none
+  DOSBOX/dosbox_with_debugger.exe none
+  DOSBOX/resources/drives/y/dos/xcopy.exe none
+  DOSBOX/unins000.exe  Borland runtime error table @0x2CF9E9
+  SOUNDSET.EXE         none
+  TEENAGNT.EXE         none
+  set_config/Game Configurator.exe none
+  unins000.exe         Borland runtime error table @0x1061B4
+
+=== no Borland overlay (.OVR) in this object ===
+  1000 Miglia had MM.OVR; this one has none, so there is no
+  overlay arithmetic to check.
+
+=== third-party software in this folder ===
+  files containing a third-party packer or library banner: 0

@@ -1,0 +1,657 @@
+# TEENAGNT.unp.exe: data segment 0B520h..19C40h (59168 bytes); 656 messages, 1217 lines, 4338 words, 23418 characters; 285 messages with a coded head
+0B532 <00>sound.set / off.res / on.res / lan_500.res / lan_000.res / sdr.res / ons.res / varia.res / mmm.res / sam_sam.res / sam_mmm.res / unlogic.res / advert.res / teenage0.sav
+0E53F 1E01hśFile not foundśE03hśToo many open filesśE05hśE06hśMemory control block destroyedśInsufficient memoryśMemory block address invalidśE0AhśE0BhśE0ChśE0DhśE0EhśE0FhśE10hśE11hśE12hśE13hśE14hśE15hśE16hśE17hśE18hśE19hśE1AhśE1BhśE1ChśE1DhśE1EhśE1FhśE20hśE21hśE22hśE23hśE24hśE25hśE26hśE27hśE28hśE29hśE2AhśE2BhśE2ChśE2DhśE2EhśE2FhśE30hśE31hśDue to anti-virus blockade you have to install this game from original disks.śGE1śGE2śGE3śGE4śśGE5śGE6śGE7śGE8śGE9śCall yourself pirate, hacker, elite or whatever. But you are a THIEF.
+0E8C3 3&4I have no idea what to do with it.
+0E8EA I can't imagine what I could do with / this.
+0E916 I can't figure out what I should do / with this.
+0E946 I can't find any reason to mess / with it.
+0E970 Cool.
+0E977 That's no good.
+0E988 Wow! There's a car jack inside! / Great!
+0E9B0 There's something else inside the toolbox! / A spanner!
+0E9E7 Last / chance?
+0E9F5 I give up.
+0EA01 I'm going to stay at least five meters / away from these bees!
+0EA3F There's nothing else in the boat.
+0EA62 This wood is too hard to break.
+0EA83 Booo!
+0EA8A I don't think I should push / my luck.
+0EAB0 Just an ordinary hay stack. Now.
+0EAD2 And they say you can't find a needle / in a hay stack.
+0EB08 There are no more / potatoes.
+0EB25 Good I always asked mum for / trousers with BIG pockets...
+0EB5F Life is brutal.
+0EB70 Life is really brutal.
+0EB88 Something tickled / me!
+0EB9F At least it's gone.
+0EBB4 Who knows what monsters / may live in there...
+0EBE2 I'd better not put my hands in there. / Something might bite them off / (yuck)!
+0EC2F I can see it's totally / empty.
+0EC4E One small step for man, / one big pain in the ...head...
+0EC86 I won't take my chances / a second time...
+0ECB0 I really hope this is DINOSAUR / bone...
+0ECD8 Wow! This must have shaken / all the nearby walls!
+0ED0A It's kinda dark here.
+0ED21 I'm not going to wander here / in the dark again.
+0ED52 Shutting the valve shook the dirt from the wall / and revealed the switch!
+0ED9C Sorry, buddy, but I need your / sunglasses.
+0EDC7 It's not the best place for diving...
+0EDEE Not here...
+0EDFB I really can't talk underwater!...
+0EE1F I don't think swimming there is worth the effort.
+0EE52 If I want to get this anchor I have to swim there / when I have more air in my lungs...
+0EEA9 I was really hooked on this anchor!
+0EECE This seaweed is just like the flowers / I gave mum on her last birthday.
+0EF16 I wonder what fish do inside / this boat at night.
+0EF48 I think I have to fish out something down / there.
+0EF7A At least fish don't worry about the rain.
+0EFA5 I hope all this fish stuff is not a red herring.
+0EFD7 It's nice down there.
+0EFEE Hey, let go, will ya?!
+0F006 Aaaaaaaaaaaaaahhh!...
+0F01D Oops.
+0F024 People leave food in unbelievable places.
+0F04F Come here, I've got something for / you...
+0F079 I can't catch it!
+0F08C The mouse is trapped!
+0F0A3 Yikes!
+0F0AB Boy, this mouse has some nerve!
+0F0CC There's nothing else in the drawers.
+0F0F2 I must get rid of this bush first.
+0F116 The mouse has gone!
+0F12B Nonsense.
+0F136 I understand. Good doggy.
+0F151 Here, boy.
+0F15D I hope we're friends now.
+0F178 I don't think this is the right place.
+0F1A0 Hundred moments later...
+0F1BA Another hundred moments later...
+0F1DC At least I found crude-oil and I'll be / rich.
+0F20A That's my life.
+0F221 But grandpa, you promised!...
+0F240 Oh, all right. Let's go.
+0F25A Bye.
+0F260 No need to do it again.
+0F279 I really don't know how to talk to / girls...
+0F2A6 I usually don't work without a purpose.
+0F2CF Only the nut is real.
+0F2E6 I wonder if hens can fly. Come here, / baby...
+0F314 First test failed.
+0F328 I'd already got rid of my frustrations.
+0F351 Nah, it's a road to nowhere.
+0F36F It opens the boot.
+0F383 It's shut tight.
+0F395 There's nothing else in the boot.
+0F3B8 The clothes are dry now.
+0F3D2 I'm sure these crows will kill me!
+0F3F6 If I want to get inside I must get rid of / this guard first or find some other / way.
+0F44A The wall surface is too smooth to climb.
+0F474 I could climb it / if there wasn't / so much resin.
+0F4A5 The only green stuff I like is that rectangular / piece of paper with some important-looking / guy on it.
+0F50C I don't wanna touch it. Its spines could / hurt my delicate hands.
+0F54E Thanks, I'm not hungry.
+0F567 I really don't have such long hands.
+0F58D It's too far to swim there.
+0F5AA Echo!
+0F5B1 ECHO!
+0F5B8 Who's there?!
+0F5C7 WHO'S THERE?!
+0F5D6      DON'T COPY ME!...
+0F5EE         DON'T COPY ME!!!
+0F608 ...OR I WILL THROW A ROCK DOWN THERE!
+0F62F OR I WILL...
+0F63D Are you still there?
+0F653 It's not a barrel-organ. And there's / no bucket.
+0F684 I don't need to open it.
+0F69E Hmmm... Grass... Nah, children might / be watching.
+0F6D1 I won't find the nut just like that. / The grass is too dense.
+0F70F I'm not horny.
+0F71F No way I can jump so high, / cause, er..., white men / can't jump.
+0F75F I don't need it.
+0F771 I'm not Santa Claus.
+0F787 I don't need plastic imitations.
+0F7A9 It's too fragile to carry around.
+0F7CC I'd like to keep it open.
+0F7E7 I really don't want to walk around with / someone else's socks.
+0F826 Thanks, I'm not tired.
+0F83E It's too big and I doubt if I'll ever / need it.
+0F86E I don't think there's any secret passage / inside.
+0F8A0 There are no more interesting fruits here.
+0F8CC They can jug me if I steal this.
+0F8EE I'd better leave it. Women are really / oversensitive about flowers.
+0F932 Mirror, mirror on the wall, / who's the smartest of them all?
+0F96F Hey, don't think too long.
+0F98B A hint: someone in this room, / a male.
+0F9B2 OK, take your time.
+0F9C7 I'd better not interrupt its / thought process.
+0F9F6 I don't want to have anything in common / with dentists.
+0FA2E It's too heavy. Not that I'm wimp.
+0FA52 Let's look what we've got here...
+0FA75 'Strawberry jam'.
+0FA88 'Gooseberry jam'.
+0FA9B 'Blackberry jam'.
+0FAAE 'Bilberry jam'.
+0FABF Get me out of this jam!
+0FAD8 Oh, and there is 'Rosemary jam'.
+0FAFA I used to know someone called Rosemary.
+0FB23 I don't want those jams.
+0FB3D It's too dark to see clearly.
+0FB5C YEEEOOOWWWW!
+0FB6A (yawn)
+0FB72 (laughter)
+0FB7E I can't remove it with my hands - these / thorns look really sharp.
+0FBC1 There's no fuel in the chainsaw.
+0FBE3 Thorns are too thin, the chainsaw / is useless here.
+0FC17 Yeah, great idea. Let's take this rock and / walk around a bit. Gee...
+0FC5D I'd better leave them alone, they make / this place beautiful.
+0FC9B I'm not sure if it's alive.
+0FCB8 I don't know what language it speaks.
+0FCDF The hole is too narrow to fit my hand.
+0FD07 Hey, you! Wake up! Bird attack!
+0FD28 I don't have a search-warrant.
+0FD48 I don't see anything interesting / about this hay stack.
+0FD80 It's more complicated than that.
+0FDA2 It's pointless, the nut will slip between / the rake's teeth.
+0FDDF The paddle is BROKEN.
+0FDF6 This branch is not a paddle. It doesn't / even look like one.
+0FE33 I'd better try somewhere else - I suppose this / side is heavily guarded.
+0FE7C I needed to sharpen it, not pulverize.
+0FEA4 I can't do anything here, it's too dark.
+0FECE Here, let's make your / pocket fat.
+0FEF1 It's a note from some bank. Strange, / but someone has also written "NEVER! ANNE" / on it.
+0FF49 If I just show her the money, / she might take it.
+0FF7B A hundred bucks!!!
+0FF8F I want blood!
+0FF9E I don't want to leave the mansion, / I want blood!
+0FFD0 I'm a pathetic little wimp.
+0FFED Strange, but the drawer is stuck / if the next drawer is open...
+1002D Maybe these are not just ordinary / drawers!
+10059 I cannot open the drawer / if the next one is open!
+1008C It's got a blue interior.
+100A7 It's got a red interior.
+100C1 It's got a grey interior.
+100DC It's got a green interior.
+100F8 It's got a brown interior.
+10114 It's got a pink interior.
+1012F Wow! There's a dictaphone inside!
+10152 There's a polaroid inside! / I might need that.
+10181 Something's got hold of the book!
+101A4 Wow! A secret compartment!
+101C0 I don't need to mess with it / anymore.
+101E7 Fully automatic.
+101F9 Right now I don't need any more / sheets.
+10222 Nah, I don't want to deprave the kids.
+1024A I don't want to read it again. / I might like it.
+1027B I just realised that the TV is off.
+102A0 Nothing happened.
+102B3 The tape started!
+102C6 That's much better.
+102DB I don't want to sleep.
+102F3 It's just a cork.
+10306 I don't need any more photos.
+10325 Yeah, I can record this and scare / the cats.
+10352 I already recorded what I wanted to.
+10378 I can't record anything until I find some / batteries.
+103AE No batteries, no fun.
+103C5 I don't think this is the right moment.
+103EE I can't do anything with / this cook around.
+1041A The bottle's the same, but / I doubt if it's enough to / fool anyone.
+1045D I wanted to break it, not to / flatten it!..
+10489 I was always curious what's inside / these things.
+104BB The rest is useless.
+104D1 Wow! Two 1.5V batteries!
+104EB This one's taken, OK?
+10502 It finally happened. I'm slightly mad.
+1052A The paper burnt out completely!
+1054B Burn, baby, burn!
+1055E Voila.
+10566 It's too hot to touch!
+1057E It has frozen hard onto the shelf!
+105A2 Yummy.
+105AA I never liked veal anyway.
+105C6 There's no reason to do it.
+105E3 I'd already fooled him once.
+10601 Mike, activate the voice test.
+10621 I won't cheat Mike with MY voice.
+10644 ...siiiiinging!...
+10658 Mike, let's get on with the scent / test.
+10681 Mike, run the view test.
+1069B 'A secret diary of John Noty. Authorised.'
+106C7 I can't hide here!
+106DB There's John Noty outside! I can't go out!
+10707 That was close.
+10718 The cork is stuck in the hole.
+10738 It fits perfectly!
+1074C There's enough water in the sink.
+1076F There's no hot water in the sink.
+10792 The label has come off!
+107AB The cork is a bit too small.
+107C9 There's no need to try them now.
+107EB I don't want to turn myself into a salad.
+10816 Nah...
+1081E I'd better stop this ventilator first.
+10846 I'd better catch John Noty first.
+10869 Good this red stuff is only a chilli...
+10892 The water looks very hot.
+108AD The sink is full of hot water.
+108CD I don't have anything / to store these socks in.
+108FD Here are my papers.
+10912 I already got the permission.
+10931 'Saving is a very fine thing. Especially / when your parents have done it for you'
+10983 'I love captain'
+10995 'Soccer rulz'
+109A4 'Don't cut the trees, cuz one / day you may become partisan / too'
+109E4 'VISA accepted'
+109F5 The rest of graffiti is obscene.
+10A17 Sir, I'm Mark. A rookie.
+10A31 It's locked!
+10A3F Thanks.
+10A48 I don't have any idea what / to do with it right / now.
+10A7D That gives me an idea...
+10A97 Now I got to check if it works...
+10ABA I think it's time to call captain...
+10AE0 Hey! I finished the meal!
+10AFB Wow, he got welded to the bowl!...
+10B1F Gotcha.
+10B28 I don't want to touch / his pockets again.
+10B52 That doesn't work.
+10B66 Piece of cake.
+10B76 And how am I supposed to get back?
+10B9A Great.
+10BA2 Oh, yeah, right...
+10BB6 I can't pull it out.
+10BCC I don't want to touch it - I might get hurt.
+10BFA The fence blocks the way...
+10C17 I don't want to sleep.
+10C2F I can't reach it.
+10C42 Hello?
+10C4A He's totally addicted.
+10C62 What about a new...
+10C77 ...hot off the press...
+10C90 ...full-color...
+10CA2 ...special edition...
+10CB9 ... of 'Soldier News'?!
+10CD2 Never again!
+10CE0 What am I? A vacuum cleaner?!
+10CFF           Sixty seven rude words later...
+10D2A Meanwhile in the mansion...
+10D47 Now it's open.
+10D57 C'mon, baby, it's all yours!
+10D75 I've got no reason to talk to him / right now.
+10DA3 Yeah, right!...
+10DB4 The barman is too close...
+10DD0 Yuck!
+10DD7 I prefer water.
+10DE8 I'm too weak to climb it.
+10E03 The springs would prick my back.
+10E25 No, thanks. This food seems still alive.
+10E4F The door is closed. What a surprise.
+10E75 It's empty.
+10E82 I should have paid more attention / in geography classes...
+10EBD I don't need this mess.
+10ED6 Thanks, but I've seen softer rocks.
+10EFB They are too blunt to be of any use.
+10F21 What's the use of the models?
+10F40 The barman will surely notice its / disappearing.
+10F71 It'd take too much time to drink it all. / Maybe after the mission...
+10FB7 <00>I'm not a thief. And it's empty, by the way.
+10FE6 There are too many of them to search.
+1100D Captain surely wouldn't fit them. / I must look elsewhere.
+11047 Chickening? Me? Never!
+1105F I can't open it.
+11071 I don't need them.
+11085 What am I? A Peeping Tom?
+110A0 I have big pockets, but there are limits.
+110CB If I put it on I might have trouble walking / up the stairs.
+11107 I'd need 9 lives to read them all.
+1112B Thanks, I'm not so tired.
+11146 There's no need to turn it on.
+11166 It won't bear my weight.
+11180 I never learnt to how use one...
+111A2 They're so sharp they'd rip my trousers!
+111CC Pfui! The cognac really didn't do any good...
+111FB I don't have time for pleasures.
+1121D I won't touch these socks with my bare hands!
+1124C It's not Halloween.
+11261 It can't be controlled manually! I hate it!
+1128E I have nothing to play.
+112A7 I can't take it. It's not mine.
+112C8 Hey! What's the matter?!
+112E2 It's open!
+112EE It's out of order.
+11302 With captain watching?... / Better not...
+1132B The sickle is too blunt.
+11345 First I've got some business to take care of.
+11374 Digging it out with the knife could / take a hundred years.
+113AF I don't want to make more / mess on this table.
+113DE Should I throw the crumbs to the bird?
+11406 I don't want to waste these tasty crumbs.
+11431 Better not... I might slip and fall in...
+11466 <09>`"The history of blues".
+11481 "Manchester United, or the Red Devils story".
+114B0 "Greyhounds and other hunting dogs".
+114D6 "Greenhorn, or my adventures in the Wild West".
+11507 "Charlie Brown and his company".
+11529 "Pink Panther: an unauthorised biography".
+115A5 <15>Y,Z3,4.5?9 ('
+11747 Do you really / want to quit / (Y/N)?
+11772 I can't use this savegame! / (The file is corrupted or was / saved under different game / version. Sorry.)
+1191F Cancel
+127A9 <01>mysterious object / Boy, that could be some kind of treasure!
+127F9 <01>fence / This is made of barbed wire, / and it's rusty.
+12840 <01>tent / The camouflage isn't quite state-of-the-art...
+1287F s_t
+12896 <01>bird / Big boy.
+128EA <01>post / That looks easy to climb.
+1291D <01>mud pool / Heaven for Woodstock fans, alligators / and those tough women fighting on late TV / shows.
+12991 <00>bird / It took some drugs then fell 5 meters. / Who wouldn't take a nap after that?
+12A05 <01>shovel / It's a small military shovel.
+12A3E <01>solid ground / I've got a feeling I'm gonna need this / somehow...
+12A91 <01>plant / It must have a very soft touch.
+12ACB <01>brick wall / The brick-layer must have been / a Pink Floyd fan.
+12B4D <00>spring / I've seen better things to sit on.
+12B84 vąw
+12BE6 <01>canteenagent door / Nice sign.
+12C30 <01>jail door / Now that's what / I call a good / door.
+12C72 <01>trash can / It stinks.
+12C99 <15>y0y
+12CB1 <01>spring / Yeah, I definetely gotta spring.
+12CED <01>bed / Looks bad.
+12D10 <01>crates / The world looks better / from the other side.
+12D57 <00>bowl / It's made of aluminium.
+12D8E <00>live cable / The wires are exposed!
+12DC4 <01>bulb / It's naked and it's out of order.
+12DFF <01>door / Heavy and solid.
+12E99 <01>captain / He's sitting tight.
+12EE2 <01>locker / It's closed. Not that / I'm surprised.
+12F22 <01>map / Picasso?
+12F43 <01>desk / That's just a load of old junk.
+12F7C <01>bed / That doesn't look comfortable.
+12FB3 <01>drawer / It's closed!
+12FDB <01>sabres / My grandpa had one of those once. / I exchanged it for a joystick. / Grandpa didn't like the idea.
+13055 <01>guns / What a pity they are only / models...
+130AE <01>picture / Nice chopper.
+130D8 <00> Swiss Army knife / That's more like it.
+13110 ŻI~
+13127 <00>mug / That's surprising, but there's tea / in it.
+13169 <01>barman / What a hard working citizen.
+131BA <01>door / This must lead to the store room.
+131F5 <01>radio / The radio looks like a radio, but the aerial / is made of some kind of hanger.
+1325C <01>crumbs / It's disgusting. People really should / clean up after themselves.
+132B8 <01>clock / It looks like there's a problem with it.
+132FB <01>shelves / I wonder why there's such a large choice / of alcohol at the training camp. / To keep the troops happy?
+1337B <01>cash register / I love it.
+133B8 <01>blinking hole / That's weird...
+13403 <01>barrels / It's good to know our army is well equipped.
+1344C <01>locker / It's a locked kind of locker.
+13485 <01>lots of drawers / I hate bureaucracy.
+134BD <01>boxes / 'Pepa'
+134DE <01>boxes / 'Salt'
+13509 <00>grenade / Wow! I always wanted one of these.
+13548 <01>guard / I don't think he's making the right impression.
+13592 <01>way out / Home, sweet home...
+135FB <01>guard / He looks like a peasant in / disguise.
+1363A <00>bottle / It's whisky!..
+1369E <01>sculpture / Really sophisticated!
+136D2 <01>door / Solid and massive.
+136FE <01>mansion wall / It must be 3 kilometers thick...
+13740 <00>John Noty / Fatso.
+1378D <01>path to meadow / It leads inside the dark and / scary forest.
+13825 <01>wrapper / It's a cellophane wrapper from some candy / or something.
+13879 <01>forest / It gives me thrills...
+138AB <00>banknote / I'm really proud I didn't TAKE THAT.
+13917 <01>hollow / It's empty right now.
+13948 <01>branch / It could be useful.
+13977 <01>tree / It's higher than the mansion wall!
+139B3 <01>wild plant / It's some wild potatoe.
+139EA <01>wall / It's covered with something smooth.
+13A77 <00>branch / Gotcha.
+13AAA <01>tree / It's high.
+13ACE <01>wild plant / Ordinary green stuff.
+13B2B <01>wall / It's covered with something smooth.
+13B90 <01>hedgehog / Is has a cone on its back.
+13BED <01>bees nest / Honey balloon.
+13C1A <01>bees / I HATE THEM!
+13C40 <01>bush / Nice place to hide.
+13C6D <01>valve / It's rusty and has no lock.
+13CD9 <01>flower / It's the most beautiful flower I've seen / in my entire life!
+13D30 <01>isle / Neat place to start ecological life.
+13D6E <01>boat / I can't believe it, but the boat has no hole.
+13DB5 <01>well / I refuse to tell cheap jokes with / the word "well".
+13E01 <01>handle / I can handle this.
+13EA2 <01>flower / It's beautiful!
+13ECD <01>flower / It smells very nice!
+13EFD <01>boat / Nothing new. Literally.
+13F48 <01>fish
+13F62 <01>fish
+13FAA <01>anchor
+13FC6 <01>boat
+13FE0 <01>seaweed
+13FFD <01>seaweed
+1401A <01>seaweed
+14037 <01>seaweed
+14054 <01>plant
+1406F <01>stones
+140C2 <01>door / There's no name on the / door...
+140FA <01>windows / I prefer DOS.
+14124 <01>squirrel / It's very fast.
+14151 <01>nut / It's big.
+14173 <00>nut / Gotcha.
+141E9 <01>horn / It must make a big impression on / the animals.
+14230 <01>window / I'm not sure if it shouldn't be on / the other side of the wall...
+142A9 <01>heart-shaped hole / What a lovely hole.
+1431F <01>picture / It looks almost like a window.
+1435A <01>fireplace / There's a lot of soot in there.
+14398 <01>guns / They are only plastic imitations.
+143ED <01>rotten cheese / Pfui!
+14432 <01>chainsaw / I don't know why but it reminds of / some Texas guy I met once.
+1448D <01>porcelain / I'm afraid even to breath around these / things.
+144FC <01>car door / It's unlocked.
+14528 <01>trunk / There's always something useful / in a trunk...
+14570 <01>basket / It gives me ambivalent feelings: / reminds me of school.
+145C2 <01>pole / About 4 meter long metal pole / with a basket screwed to it.
+1462F <01>door-bell / One can use it to scare the people / behind the door.
+14734 <01>boy
+14746 <00>He's trying hard to score, / but he's too weak to throw / the ball high enough!
+147B9 <00>comb / Strange thing.
+147E1 <00>lever / I wonder what / it's for?
+1489D <01>laundry / The air is too damp to dry / this wet laundry...
+14939 <00>hole / A way to the cellar.
+14967 <01>valve / It's a heavy metal thing.
+1499B <01>dog / Snoopy.
+14A09 <01>old man / He looks like a retired / sea wolf.
+14A64 <01>drawers / Boy! Lots of them!
+14A93 <01>bed / Home, sweet home...
+14ABF <01>window / A view of the field.
+14B09 <01>shotgun / Gee, it must be for / dinosauruses!..
+14B49 <01>picture / Charming.
+14B6F <01>family pictures / I wouldn't like having my ancestors hanging / like trophies...
+14BD0 <01>flower / It's green.
+14C2F <01>fan / It's battery powered.
+14C7F <01>old lady / She knits in the national team.
+14CBC <01>girl / She's cool.
+14D58 <01>clock / Really great masterpiece.
+14DA2 <01>imitation fruits / The apple looks almost / real!
+14DE4 <01>jug / It holds the flowers.
+14E12 <01>flowers / I hope these are not from some / admirer...
+14E58 <01>feather duster / It must be for the dust problem.
+14E9C <01>table / It's round, but I doubt it has anything to do / with the medieval legend...
+14F00 <01>mirror / I can see the girl's / face in it...
+14F3E <01>picture / It's nice to live in a village and have village / landscapes on the walls.
+14FA3 <01>plant / Impressive.
+14FDD <01>spider / It's...
+15000 <01>shovel / I could play digger with it.
+15038 <01>ladder / Way out.
+1505C <00>switch / It's little, but powerful.
+15092 <01>axe / I hope these stains on the wall have / nothing to do with this axe...
+15108 <01>tongs / Gee, this place looks more like a / torture chamber than a cellar...
+15165 <01>shelves / Lots of jars and stuff. Nothing / really interesting.
+151B5 <01>containers / They're empty.
+151F3 <00>bone / Due to the age of the rock I think / it must be some dinosaur bone....
+15251 <01>bush / It blocks the way to the cave. / Maybe someone planted it here to / keep the cave secrets safe...
+15303 <01>rock / It must have fallen here ages ago. / I wonder if anybody got hurt...
+1535F <01>butterfly / Isn't that lovely?
+15390 <01>butterfly / Isn't that lovely?
+153EA <00>??? / What IS IT?!
+1542B <01>message / This inscription is very old, but I can still / read it.
+1547E <01>hole / It looks very deep.
+154AB <00>nugget / Pure gold!
+154F3 <01>hen / A little strange...
+1551F <01>crow / Extremely unfriendly.
+1554E <01>crow / Looks dangerous...
+1557A <01>mouse / It's very nervous.
+155A7 <01>dive mask / Yeah, it amazes me too.
+155DD <01>fins / They will fit me perfectly.
+15612 <01>scarecrow / A thing to scare the crows. / At least that's what the / theory says.
+15672 <01>sickle / A very dangerous tool.
+156C8 <01>hay stack / There must be something metal inside, / I can see it glittering!
+15725 <01>rake / It's very old and there aren't / many teeth left.
+1576E <01>mouse hole / Home and pantry in one...
+157A7 <01>hay stack / There's a mouse hole inside!
+157E2 <00>feather / It must have been dropped by hen.
+1583E <01>mansion / Gee, some people really / have no taste.
+1588B <01>window / There's a shutter, I can't see a thing.
+158CE <01>sculpture / The owner is sick.
+15985 <01>flowers / Surprise, surprise, they aren't / plastic.
+159CA <01>plant / How's it hangin', Robbie?
+159FE <01>stairs / They say every step makes your life / 3 seconds longer.
+15AE0 <01>picture / It's some castle.
+15B0E <01>armour / The beta version of a tank.
+15B45 <00>video tape / What kind of movie must it be / hidden so well?...
+15B95 <01>book
+15BAF <01>books / Oh, boy!
+15BD2 <01>trash can / There are a lot of papers inside.
+15C12 <01>chair / Softy.
+15C4C <01>drawer / It's closed.
+15C74 <01>drawer / It's closed.
+15C9C <01>drawer / It's closed.
+15CC4 <01>drawer / It's closed.
+15CEC <01>drawer / It's closed.
+15D14 <01>drawer / It's closed.
+15D3C <01>ladder / Indispensable addition to girls in skirts.
+15DAF <01>hole / It has a square shape.
+15DDF <00>handle / It fits in the hole perfectly.
+15E19 <01>picture / I always liked S`T`A`R` W`A`R`S`.
+15E57 <01>picture / And I tought I was weird.
+15E8D <01>flowers / Nice smell.
+15EF9 <01>statue / Bizarre.
+15F2F <01>robot / Impressive.
+15F5B <00>jar / This jar is full of pills.
+15F8E <00>book / It's big and looks / like some kind of / diary.
+15FD3 <01>picture / That one's great. I'd like to have one myself.
+16053 <00>left lower edge of screen / I could try to hide here!
+1609B <00>door handle / John Noty left it here.
+160ED <01>cook / He's completely addicted to his work.
+1612C <01>stew / It must be some kind of soup. / Now with extra power.
+16179 <01>hot plate / That's COOL.
+161C0 <01>refrigerator / My favourite thing in the kitchen.
+16204 <01>radio / It works with batteries. Just like / the walkman.
+1624E <01>chilli / It's red, it's hot, it's ...CHILLI!
+1628D <00>place where chilli bottle stood / It's the place where... etc.
+162DE <01>pastry roller / Men use guns. Women use this. / 1 : 0 for women.
+1632F <01>microwave / It's a magic tool. It turns / any dish into rubber.
+1637F <01>knives / A very respectable collection.
+163B9 <01>meat / It's in a plastic bag which has frozen to / the shelf.
+16430 <01>sink / It has a hole.
+16470 <01>mirror / It's covered in old dirt.
+164C1 <01>bath / Whoa! It's big!
+164EA <01>sock / It must be John Noty's...
+16537 <01>cognac / Bottle as big as Napoleon himself.
+16575 <01>pincers / There's a pair of pincers in the bucket.
+165BA <01>mask / This is some kind of cool primitive art.
+165FC <01>TV / One more thing to kill your time and / personality.
+16645 <01>video player / It has no record function, / but that doesn't matter / to me anyway.
+166A7 <01>newspaper / This is some kind of local newspaper.
+166EB <01>hi-fi / What a baby! It could drive / all my neighbours insane!...
+1673E <01>couch / I would never know where to place / a pillow.
+167A0 <01>picture / That one is really imaginative.
+167DC <00>remote controller / It was hidden between the newspaper pages.
+1682D <00>open wardrobe / It's a secret passage!
+168C9 <01>John Noty / He's obsessed with packing the money.
+1690D <01>tons of gold / (gulp)
+16967 <01>camera / It must be a part of the security system.
+16A04 TU
+16B6E <00>1z2z
+16B7E <00>Dz
+16BB2 <00>KzRz
+16BDE <00>Yz
+16BF8 <00>kz
+16C02 <00>Żz
+16CB6 <00>HÓOÓ
+16CFC <00>BŚ
+16D04 <00>TŚ
+16D0D mŚ
+16E81 <17>VfV
+16FFF <17>v1v5vŁvwv9yfy
+170DE <00>I~
+17362 <00>Wow, now it looks like it came straight / from the store!
+1739C Tying the ribbon around the rake narrowed / the space between the teeth!
+173E4 With the help of super glue I made... / something...
+17418 Using the super glue once again...
+1743C The whisky is strong enough to use as / fuel, but I wonder if the chainsaw / can take it...
+17495 Once again the super-glue comes in handy...
+174C2 The soot gives the potatoe a brand new look...
+174F2 Now I'm ready to conquer the lake!
+17516 It makes me feel like another / wanna-be cliffhanger.
+1754B I wouldn't impress anyone with such candy.
+17577 It's active enough.
+1758C Great idea! But, you see, ecomaniacs might / be watching...
+175C7 It won't look any better in a wrapper.
+175EF The cake is too big for this wrapper.
+17616 I don't want to waste this candy.
+17639 The flower is beautiful enough without / any fancy extras.
+17673 Good idea, but I need something smaller / than this rope.
+176AC I might need this cheese. Again.
+176CE It's not DOOM. It's a harmless graphic adventure / for the whole family (we want DOOM! we want / DOOM!).
+17734 I don't need to open this nut.
+17754 Let's make this cork larger.
+17772 Once again the super glue comes in handy.
+1779D The batteries fit!
+177B1 I tied the rope to the pin.
+177CE Let's make it spicy.
+17890 <00>Using these two objects together won't / accomplish anything.
+17A0E <00>feather / It's kicking ass!
+17A2B <00>shotgun / Looks impressive...
+17A4A <00>toolbox / Doesn't seem to be locked!...
+17A73 <00>toolbox
+17A7F <00>spanner / These things always come in handy.
+17AAD <00>comb / I've heard that some people use these.
+17ADC <01>fan / Refreshing.
+17AEF <00>broken paddle / Too short to use.
+17B12 <00>paddle / The glue keeps the branch / really hard.
+17B43 <00>flower / It really smells / very nice.
+17B69 <00>flower / It's really beautiful.
+17B8A <00>feather duster / I can play janitor with this.
+17BBA <00>chainsaw / It's in good condition, but it has no fuel.
+17BF2 <01>drunken chainsaw / A bit unsteady, but will work.
+17C25 <00>branch / The wood is very hard.
+17C46 <00>whisky / The label says this whisky is / very strong.
+17C7B <00>needle / It's quite big for a needle...
+17CA4 <00>wrapper / Nice design. Especially that 'LOVE CANDY' label. / And there's a heart painted on it. / How SWEET...
+17D10 <00>chocolate candy / It's round chocolate candy. / A great present.
+17D50 <00>wild potatoe / Wow! It's shaped like a grenade!..
+17D83 <00>rake / The space between the teeth is too large / to make this rake an useful.
+17DD1 <00>heart-shaped candy / I don't think this one improvement is enough.
+17E15 <00>wrapped candy / Brand new candy. At least it looks like it.
+17E52 <00>ribbon / It will remind me of that beatiful chick, / I mean, female human being.
+17EA2 <00>rake / Ready to work.
+17EB9 <00>nut / A really big one.
+17ED2 <00>plastic apple / It looks so real that I could / even see the pips inside.
+17F1B <00>cone / It looks like one of those Havana goodies every / self-respecting businessman is supposed to have / glued to his smile.
+17F97 <00>super glue / It's turbo mega giga super ultra / fast drying glue plus.
+17FDD <00>cone & needle / Something is still missing here...
+18011 <00>cone & feather / Something is still missing here...
+183FF <01>mouse / It's very active.
+1844D <01>nugget / Symbol: Au, atomic no: 79, atomic wt.: 196.97. / In other words: GOLD!!! Yes! Yes!
+187F6 <01>burning paper / Amazing, isn't it? / (Not to mention: unbelievable).
+18C00 That makes no sense!
+18D0E <01>bird / It would make a great dinn... I mean / friend, of course.
+18E08 <04>O)
+18EDE <0A>!shŃ
+19873 Pbackgrounds / iANDRZEJ DOBRZYŃSKI
+19897 Pmusic / iRADEK SZAMREJ
+198B0 Panimation and graphics / iGRZEGORZ MIECHOWSKI
+198E0 Pprogramming and script / iADRIAN CHMIELARZ
+1990D Ćafter the tiring journey...
+1992D ĆTHE END
+19937 programming / ADRIAN CHMIELARZ /   /   / animation / GRZEGORZ MIECHOWSKI /   /   / additional animations / TOMASZ PILIK /   /   / backgrounds / ANDRZEJ DOBRZYNSKI /   /   / music / RADEK SZAMREJ /   /   / cover art / DARIUSZ ANACKI /   /   / translation help / PETER WELLS /   /   / betatesters / TOMASZ FURMANIUK / PATRYK SAWICKI / PAWEL MIECHOWSKI / MAREK CHMIELARZ / JEDREK WICHA / MR. JOHN DOE / MARCIN DREWS /   /   /   / ideas / ADRIAN CHMIELARZ / GRZEGORZ MIECHOWSKI / ANDRZEJ SAWICKI /   /   /   / print / JAROSŁAW WEISS / AGENCJA STYL /   /   /   / thanks / HENRY KUTTNER / U-KNOW-WHO-U-R-BUT-WANT-2-STAY-IN-SHADOW / EPIC MEGAGAMES / XLAND SOFTWARE PUBLISHING / KATARZYNA MIECHOWSKA /   /   /   / special thanks / ANDRZEJ MICHALAK /   /   /   /   /   /   /   /   /   / production / METROPOLIS SOFTWARE HOUSE / (c) 1994-1995 /   /   /   / All allusions and puns / are intentional /   /   /   /   /   /   /   /   /   /   /   /   /   /   /   /  

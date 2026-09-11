@@ -1,0 +1,47 @@
+0000077A  CPSPSQ
+0000088B  <$t#<
+00000A80  sound.set
+00000B12  E01h$File not found$E03h$Too many open files$E05h$E06h$Memory control block destroyed$Insufficient memory$Memory block address invalid$E0Ah$E0Bh$E0Ch$E0Dh$E0Eh$E0Fh$E10h$E11h$E12h$E13h$E14h$E15h$E16h$E17h$E18h$E19h$E1Ah$E1Bh$E1Ch$E1Dh$E1Eh$E1Fh$E20h$E21h$E22h$E23h$E24h$E25h$E26h$E27h$E28h$E29h$E2Ah$E2Bh$E2Ch$E2Dh$E2Eh$E2Fh$E30h$E31h$$Option out of range, exiting$Sound configuration not saved, exiting to DOS$Sound configuration saved, exiting to DOS$Option not prepared yet in this setup version$$$$$$$$$$$
+00000D8E  $                                                                                $
+00000F1B  $    Sound Source Setup v1.00 (c) Metropolis 1994    $   Use 
+00000F5B  ,PgUp,PgDn to move up/down, Enter to select or ESC to exit  $Currently selected sound source: $
+00000FD1   Auto-detect sound card $
+00000FEC     Gravis UltraSound    $
+00001007      SoundBlaster Pro    $
+00001022        SoundBlaster      $
+0000103D           Covox          $
+00001058           AdLib          $
+00001073         PC Speaker       $
+0000108E          no sound        $
+000010A9     Save setup & exit    $
+000010C4     Don't save & exit    $Select SoundBlaster base address$(the highlighted setting is default)$
+00001132     210h   $#
+0000113F     220h   $#
+0000114C     230h   $#
+00001159     240h   $#
+00001166     250h   $#
+00001173     260h   $     Select SoundBlaster IRQ    $
+000011AE     IRQ 2    $"
+000011BD     IRQ 3    $"  <-- pascal string[]
+000011CC     IRQ 4    $"
+000011DB     IRQ 5    $"
+000011EA     IRQ 7    $"
+000011F9     IRQ 10   $
+00001219     DMA channel 0   $
+0000122F     DMA channel 1   $
+00001245     DMA channel 3   $
+0000125C  If you have a slow computer, you may want to disable SoundBlaster
+0000129E   music and play the sound effects through so-called DMA channels.
+000012E0  The advantage of such choice is also better sound effects quality.$
+0000132A        Sound only     $
+00001342     Music and sound   $Select Gravis Ultrasound base address$
+00001385     220h   $#
+00001392     240h   $Select Covox port$
+000013B8      LPT 1 (378h)    $
+000013CF      LPT 2 (278h)    $
+000013E6     Hercules (3BCh)   $
+0000140C  Gravis UltraSound$AdLib            $SoundBlaster     $SoundBlaster Pro $PC Speaker       $no sound         $SoundBlaster DMA $Covox            $    WARNING! The auto-detect can cause the system to crash!
+000014D8  It's recommended to reset the computer after the auto-detection!$Checking for Gravis UltraSound...$Checking for AdLib / SB...$Checking for SoundBlaster ports...$Checking for SoundBlaster IRQ...$Checking for SoundBlaster DMA...$Checking for SoundBlaster Pro...$Cannot auto-detect any sound card. Sorry.$Sound card settings detected.$Sorry, cannot detect SoundBlaster IRQ or DMA.$Setup manually or select AdLib card.$Press any key to return to the main menu.$ERROR$OK$
+000016AB  ULTRASND  <-- pascal string[]
+
+# _work/SOUNDSET.unp.exe: 45 runs printed, min length 5, high bytes rejected, 2 length-prefixed

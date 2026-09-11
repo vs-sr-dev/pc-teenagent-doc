@@ -1,0 +1,55 @@
+  B0D4  51             push   cx
+  B0D5  b8 00 3d       mov    ax, 3D00h
+  B0D8  b1 00          mov    cl, 0h
+  B0DA  cd 21          int    21h
+  B0DC  72 6a          jb     0B148h
+  B0DE  a3 a2 00       mov    [0A2h], ax
+  B0E1  59             pop    cx
+  B0E2  b8 04 00       mov    ax, 4h
+  B0E5  f7 e1          mul    cx
+  B0E7  8b ca          mov    cx, dx
+  B0E9  8b d0          mov    dx, ax
+  B0EB  8b 1e a2 00    mov    bx, [0A2h]
+  B0EF  b8 00 42       mov    ax, 4200h
+  B0F2  cd 21          int    21h
+  B0F4  72 52          jb     0B148h
+  B0F6  8b 1e a2 00    mov    bx, [0A2h]
+  B0FA  b9 08 00       mov    cx, 8h
+  B0FD  ba ae 00       mov    dx, 0AEh
+  B100  b4 3f          mov    ah, 3Fh
+  B102  cd 21          int    21h
+  B104  72 42          jb     0B148h
+  B106  bb ae 00       mov    bx, 0AEh
+  B109  8b 17          mov    dx, [bx]
+  B10B  8b 4f 02       mov    cx, [bx+2]
+  B10E  8b 47 04       mov    ax, [bx+4]
+  B111  2b c2          sub    ax, dx
+  B113  a3 a4 00       mov    [0A4h], ax
+  B116  8b 1e a2 00    mov    bx, [0A2h]
+  B11A  b8 00 42       mov    ax, 4200h
+  B11D  cd 21          int    21h
+  B11F  72 27          jb     0B148h
+  B121  8b 1e a2 00    mov    bx, [0A2h]
+  B125  8b 0e a4 00    mov    cx, [0A4h]
+  B129  8b 16 aa 00    mov    dx, [0AAh]
+  B12D  a1 ac 00       mov    ax, [0ACh]
+  B130  8e d8          mov    ds, ax
+  B132  b4 3f          mov    ah, 3Fh
+  B134  cd 21          int    21h
+  B136  72 10          jb     0B148h
+  B138  b8 52 0b       mov    ax, 0B52h
+  B13B  8e d8          mov    ds, ax
+  B13D  b4 3e          mov    ah, 3Eh
+  B13F  8b 1e a2 00    mov    bx, [0A2h]
+  B143  cd 21          int    21h
+  B145  72 01          jb     0B148h
+  B147  c3             ret
+
+bytes in range        : 116
+bytes decoded         : 116
+instructions          : 46
+coverage              : 100.0000 %
+STOPPED               : no -- every byte in range decoded
+
+branch targets in range   : 0
+landing on a boundary     : 0 of 0

@@ -1,0 +1,9 @@
+=== Teenagent/VARIA.RES ===
+  bytes                    : 216683
+  members                  : 11
+  directory                : 4 + 4 x 12 = 52 bytes; first offset 52, last 216683 = file length, monotonic, residue 0
+  member sizes             : 768 .. 51851, sum 216631
+  kinds                    : other 7, overlay 2, palette 1, sprite 1
+  member 6: 97 glyphs from 20h, pixel values [0, 1, 2], tiles the member
+  sizes: 20:5x1 21:5x9 22:9x5 23:8x10 24:8x9 25:6x9 26:9x9 27:6x5 28:6x9 29:6x9 2A:8x9 2B:8x10 2C:6x10 2D:6x6 2E:5x9 2F:8x9 30:8x9 31:7x9 32:8x9 33:8x9 34:8x9 35:8x9 36:8x9 37:8x9 38:8x9 39:8x9 3A:5x9 3B:8x9 3C:8x9 3D:8x9 3E:8x9 3F:9x9 40:9x10 41:8x9 42:8x9 43:8x9 44:8x9 45:7x9 46:7x9 47:8x9 48:8x9 49:6x9 4A:8x9 4B:8x9 4C:7x9 4D:9x9 4E:8x9 4F:8x9 50:8x9 51:8x9 52:8x9 53:8x9 54:8x9 55:8x9 56:8x9 57:9x9 58:9x9 59:8x9 5A:8x9 5B:7x10 5C:8x9 5D:7x9 5E:8x9 5F:8x10 60:10x5 61:9x9 62:8x9 63:8x9 64:8x9 65:8x9 66:7x9 67:8x11 68:8x9 69:6x9 6A:6x11 6B:8x9 6C:6x9 6D:10x9 6E:8x9 6F:8x9 70:8x11 71:8x11 72:8x9 73:8x9 74:8x9 75:8x9 76:8x9 77:9x9 78:8x9 79:8x11 7A:8x9 7B:8x9 7C:8x9 7D:8x9 7E:8x9 7F:6x7 80:8x9
+  written: _work/font6.png
