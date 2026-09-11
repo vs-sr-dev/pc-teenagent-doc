@@ -128,7 +128,10 @@ door opened, the character gone). `LAN_500` member 1 is a hen: 60 steps
 over 40 frames, walking right to left along y = 171–178, pecking,
 flapping. Member 0 is 22 frames 62 pixels high — Mark's size. Room 20
 composed (`--room 20`) puts a 26 × 46 figure in blue on the pavement at
-the cottage door, where its step says.
+the cottage door, where its step says. The owner looked at the composed
+rooms, the hen's 40 frames, Mark's 51, the 92 items and the two fonts as
+rendered, and confirmed them all — the same non-instrumental check the
+54 screens had.
 
 ## Fonts and the two order screens
 
