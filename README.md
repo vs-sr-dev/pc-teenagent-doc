@@ -52,7 +52,8 @@ that still spells *Dobrzyński* the Polish way.
 `SOUNDSET.EXE` is packed too; *Metropolis* is in four game files; the
 header offset it quoted was one row up; the advert pages are not the
 title; the year is printed after all; and one of the session's own
-sentences claimed a confirmation the owner had not given. Its five
+sentences claimed a confirmation the owner had not yet given (it came
+after, on all 54 renders). Its five
 hunches score four true in the main and one half, with the samples signed
 where it said unsigned.
 

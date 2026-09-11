@@ -40,10 +40,11 @@ Fifty-four members are exactly 64,768 = 320 × 200 + 768 bytes. In every one
 the last 768 bytes are all ≤ 63 and the first 768 are not (up to 207 in
 `OFF`, 223 in `ADVERT`): a trailing 256 × RGB palette of 6-bit VGA values,
 scaled `v << 2 | v >> 4` for the PNG. The first render was right: every
-index of every screen is inside the 256 its palette defines, the 42-room
-sheet was put in front of the owner during the session, and the room
+index of every screen is inside the 256 its palette defines, the room
 compositions below land their sprites where the engine's own step list
-says — the checks a render can have without running the game.
+says, and **the owner, shown all 54 renders after the session's first
+draft had wrongly claimed it, confirmed every one of them coherent** — the
+one non-instrumental check a render can have without running the game.
 
 **`OFF.RES` is the game's 42 rooms**, each using 186–227 of its 256
 indices: a farm from above (lake, red-roofed cottages, a haystack, beehives,

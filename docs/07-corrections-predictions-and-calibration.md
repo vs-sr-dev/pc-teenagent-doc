@@ -32,9 +32,10 @@ Six of its statements fell to the bytes:
    driver. Now measured.
 
 And one of the session's own, caught in the session: the first draft of
-chapter 05 said the owner had *confirmed* the 42-room sheet coherent; the
-owner had been shown it and had not said so. The sentence now says what
-happened.
+chapter 05 said the owner had *confirmed* the 42-room sheet coherent when
+the owner had only been shown it. The sentence was rewritten as a
+measurement; the owner then looked at the 54 renders and confirmed them
+all, and the sentence now says both things in that order.
 
 ## The five hunches of §P.7, scored
 
